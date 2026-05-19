@@ -15,6 +15,9 @@ node_modules/
 *.sqlite3
 *.log
 
+# ── 收件箱 ──
+00_InBox_收件箱/
+
 # ── 大型资产 (素材/成品/软件) ──
 01_Projects_制作中/
 02_Archive_冷备份/
@@ -30,9 +33,47 @@ node_modules/
 Thumbs.db
 /tmp/
 
+# ── 缓存 ──
+.cheat/cache/
+
+# ── 状态文件 ──
+.cheat/state.json
+.cheat/state.json.backup*
+06_Python Scripts/07_Todoist/sync_state.json
+
+# ── 含密钥文件 ──
+.claude/integrations.md
+06_Python Scripts/05_搜索API/openrouter_agent.py
+06_Python Scripts/05_搜索API/perplexity_search.py
+06_Python Scripts/06_工具/notion_to_obsidian.py
+06_Python Scripts/06_工具/batch_classify_notes.py
+06_Python Scripts/06_工具/image_organizer.py
+
 # ── 知识库原始资产 ──
 Wiki知识库/raw/
 Wiki知识库/assets/BGM音乐库/
+Wiki知识库/.obsidian/plugins/
+Wiki知识库/.claudian/
+Wiki知识库/graphify/
+
+# ── Claude 会话与缓存 ──
+.claude/worktrees/
+.claude/projects/
+.claude/plugins/
+.claude/telemetry/
+.claude/.trae/
+
+# ── 敏感配置 ──
+.claude/settings.json
+.claude/settings.local.json
+.claude/scheduled_tasks.json
+
+# ── 脚本缓存与中间产物 ──
+06_Python Scripts/graphify-out/
+06_Python Scripts/05_搜索API/search_results/
+06_Python Scripts/01_AI文案/_archived_*/
+06_Python Scripts/08_Get笔记/
+06_Python Scripts/08_配音脚本历史/
 .gitnexus/
 *.mp3
 *.pdf
@@ -47,3 +88,5 @@ Wiki知识库/assets/BGM音乐库/
 *.7z
 *.exe
 *.apk
+*.pptx
+*.pptm

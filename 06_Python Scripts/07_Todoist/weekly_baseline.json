@@ -1,0 +1,38 @@
+{
+  "daily_routines": [
+    {"task_name": "3步开工仪式与番茄钟排期", "label": "[ROUTINE]", "pomodoros": 0.5},
+    {"task_name": "胸椎肩胛骨康复动作(绝对禁上肢)", "label": "[ROUTINE]", "pomodoros": 0.5}
+  ],
+  "weekly_tasks": {
+    "Monday": [
+      {"task_name": "发布周一视频 (消耗上周存量)", "label": "[OPS]", "pomodoros": 1},
+      {"task_name": "听觉工程：7个视频配音脚本与TTS调优", "label": "[KERNEL]", "pomodoros": 3},
+      {"task_name": "视觉筹备：7个视频分镜与Remotion规划", "label": "[KERNEL]", "pomodoros": 2},
+      {"task_name": "上周数据复盘与严格记账", "label": "[OPS]", "pomodoros": 1}
+    ],
+    "Tuesday": [
+      {"task_name": "发布周二视频", "label": "[OPS]", "pomodoros": 1},
+      {"task_name": "核心拍摄：一次拍摄7个视频全量素材", "label": "[KERNEL]", "pomodoros": 4},
+      {"task_name": "素材DIT：全量备份与图层分类", "label": "[KERNEL]", "pomodoros": 1}
+    ],
+    "Wednesday": [
+      {"task_name": "发布周三视频", "label": "[OPS]", "pomodoros": 1},
+      {"task_name": "视频粗剪与音画同步 (视频 1-4)", "label": "[KERNEL]", "pomodoros": 4},
+      {"task_name": "Remotion动画批量生成", "label": "[KERNEL]", "pomodoros": 2}
+    ],
+    "Thursday": [
+      {"task_name": "发布周四视频", "label": "[OPS]", "pomodoros": 1},
+      {"task_name": "视频粗剪与音画同步 (视频 5-7)", "label": "[KERNEL]", "pomodoros": 3},
+      {"task_name": "视频精剪与包装 (视频 1-3)", "label": "[KERNEL]", "pomodoros": 3}
+    ],
+    "Friday": [
+      {"task_name": "发布周五视频及周末存量预排期", "label": "[OPS]", "pomodoros": 1},
+      {"task_name": "视频精剪与包装 (视频 4-7)", "label": "[KERNEL]", "pomodoros": 4},
+      {"task_name": "多端分发文案与封面批量制作", "label": "[OPS]", "pomodoros": 2}
+    ],
+    "Saturday": [
+      {"task_name": "AI前沿技术调研与API成本优化", "label": "[MINING]", "pomodoros": 2},
+      {"task_name": "触发Claude Code进行本地脚本自动化维护 (零脑力)", "label": "[BUFFER]", "pomodoros": 0.5}
+    ]
+  }
+}

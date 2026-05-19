@@ -1,0 +1,16 @@
+venv/
+node_modules/
+.gitnexus/
+__pycache__/
+*.pyc
+test_output/
+*.db
+*.log
+*.mp3
+*.wav
+*.mp4
+*.png
+*.jpg
+*.pdf
+*.zip
+*.rar

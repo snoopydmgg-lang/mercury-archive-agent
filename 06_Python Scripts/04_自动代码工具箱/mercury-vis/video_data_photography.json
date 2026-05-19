@@ -1,0 +1,104 @@
+{
+  "project_name": "摄影构图艺术-信息图动画",
+  "shots": [
+    {
+      "id": 1,
+      "type": "brain_visualization",
+      "duration_sec": 4,
+      "text_main": "大脑视觉感知",
+      "text_sub": "中心区高亮 · 周边逐渐变暗",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "大脑视觉感知示意图.mp4"
+    },
+    {
+      "id": 2,
+      "type": "eye_tracking",
+      "duration_sec": 3,
+      "text_main": "人眼扫描轨迹",
+      "text_sub": "视线追踪 · 焦点转移",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "人眼扫描轨迹动画.mp4"
+    },
+    {
+      "id": 3,
+      "type": "visual_guide",
+      "duration_sec": 5,
+      "text_main": "视觉引导三要素",
+      "text_sub": "留白 · 线条 · 光影",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "视觉引导动画_留白线条光影.mp4"
+    },
+    {
+      "id": 4,
+      "type": "arrow_guide",
+      "duration_sec": 3,
+      "text_main": "视线引导",
+      "text_sub": "箭头指向 · 方向感",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "视线引导箭头动画.mp4"
+    },
+    {
+      "id": 5,
+      "type": "element_attraction",
+      "duration_sec": 4,
+      "text_main": "视觉吸引力",
+      "text_sub": "元素对比 · 焦点突出",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "视觉示意动画_元素吸引.mp4"
+    },
+    {
+      "id": 6,
+      "type": "composition_annotation",
+      "duration_sec": 4,
+      "text_main": "构图标注",
+      "text_sub": "手绘线条 · 结构解析",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "手绘线条标注构图.mp4"
+    },
+    {
+      "id": 7,
+      "type": "golden_ratio",
+      "duration_sec": 3,
+      "text_main": "黄金分割",
+      "text_sub": "1.618 · 美学比例",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "金色分割线浮现.mp4"
+    },
+    {
+      "id": 8,
+      "type": "lightbulb_moment",
+      "duration_sec": 3,
+      "text_main": "顿悟时刻",
+      "text_sub": "灵感闪现 · 认知突破",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "灯泡顿悟隐喻.mp4"
+    },
+    {
+      "id": 9,
+      "type": "four_elements",
+      "duration_sec": 5,
+      "text_main": "摄影四要素",
+      "text_sub": "主体 · 留白 · 光影 · 情感",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D",
+      "output_name": "四要素框架图示.mp4"
+    }
+  ]
+}

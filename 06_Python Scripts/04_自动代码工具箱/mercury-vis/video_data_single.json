@@ -1,0 +1,14 @@
+{
+  "shots": [
+    {
+      "id": 9,
+      "type": "four_elements",
+      "duration_sec": 5,
+      "text_main": "摄影四要素",
+      "text_sub": "主体 · 留白 · 光影 · 情感",
+      "bg_color": "#F5F4F0",
+      "text_color": "#2D2B2A",
+      "accent_color": "#D36B4D"
+    }
+  ]
+}

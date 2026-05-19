@@ -1,0 +1,204 @@
+{
+  "_comment": "封面生成引擎配置文件 - 排版参数与视觉规范",
+  "_version": "1.0.0",
+  "_last_updated": "2026-04-15",
+
+  "canvas": {
+    "width": 1080,
+    "height": 1440,
+    "aspect_ratio": "3:4",
+    "description": "抖音/小红书竖版封面标准尺寸"
+  },
+
+  "layout": {
+    "image_end": 700,
+    "text_bg_start": 560,
+    "text_area_top": 600,
+    "margin_left": 80,
+    "margin_right": 80,
+    "title_y": 600,
+    "subtitle_y": 920,
+    "description": "图片区域与文字区域的分界线定义"
+  },
+
+  "fonts": {
+    "poster": {
+      "title": 120,
+      "subtitle": 60,
+      "meta": 40,
+      "brand": 14,
+      "description": "海报模式字号（完整信息展示）"
+    },
+    "douyin": {
+      "title": 280,
+      "subtitle": 120,
+      "meta": 0,
+      "brand": 0,
+      "description": "抖音模式字号（极简大字，meta/brand不显示）"
+    }
+  },
+
+  "spacing": {
+    "poster": {
+      "title_line_spacing": 30,
+      "subtitle_margin_top": 85,
+      "description_margin_top": 60,
+      "description": "海报模式行间距与模块间距"
+    },
+    "douyin": {
+      "title_line_spacing": 10,
+      "subtitle_margin_top": 20,
+      "description_margin_top": 0,
+      "description": "抖音模式紧凑间距"
+    }
+  },
+
+  "positioning": {
+    "poster": {
+      "title_start_y_ratio": 0.35,
+      "description": "海报模式主标题Y轴起始位置（画布高度的35%）"
+    },
+    "douyin": {
+      "title_start_y_ratio": 0.5,
+      "description": "抖音模式主标题Y轴起始位置（画布高度的50%，正中央）"
+    }
+  },
+
+  "colors": {
+    "background": [245, 244, 240],
+    "ink": [45, 43, 42],
+    "accent": [211, 107, 77],
+    "peach": [230, 200, 181],
+    "meta": [102, 102, 102],
+    "light_gray": [224, 224, 224],
+    "white": [255, 255, 255],
+    "description": "新古典人文主义色彩系统 - 羊皮纸白/暖炭灰/赤陶土/灰桃色"
+  },
+
+  "styles": {
+    "whitespace-aesthetic": {
+      "title_color": [45, 43, 42],
+      "subtitle_color": [211, 107, 77],
+      "accent_color": [211, 107, 77],
+      "meta_color": [102, 102, 102],
+      "hook_color": [130, 125, 120]
+    },
+    "grid-system": {
+      "title_color": [45, 43, 42],
+      "subtitle_color": [45, 43, 42],
+      "accent_color": [211, 107, 77],
+      "meta_color": [102, 102, 102],
+      "hook_color": [130, 125, 120]
+    },
+    "contrast-impact": {
+      "title_color": [45, 43, 42],
+      "subtitle_color": [61, 50, 41],
+      "accent_color": [211, 107, 77],
+      "meta_color": [102, 102, 102],
+      "hook_color": [130, 125, 120]
+    },
+    "classic-print": {
+      "title_color": [45, 43, 42],
+      "subtitle_color": [105, 100, 95],
+      "accent_color": [211, 107, 77],
+      "meta_color": [130, 125, 120],
+      "hook_color": [138, 133, 128]
+    },
+    "organic-botanical": {
+      "title_color": [45, 43, 42],
+      "subtitle_color": [105, 100, 95],
+      "accent_color": [180, 145, 125],
+      "meta_color": [130, 125, 120],
+      "hook_color": [138, 133, 128]
+    },
+    "academic-grid": {
+      "title_color": [45, 43, 42],
+      "subtitle_color": [105, 100, 95],
+      "accent_color": [70, 80, 110],
+      "meta_color": [130, 125, 120],
+      "hook_color": [138, 133, 128]
+    }
+  },
+
+  "default_style": "contrast-impact",
+
+  "text_rendering": {
+    "max_width": 920,
+    "margin": 80,
+    "auto_scale_min_ratio": 0.6,
+    "auto_scale_step": 2,
+    "description": "文本渲染约束：最大宽度、边距、自动缩放参数"
+  },
+
+  "platform_features": {
+    "poster": {
+      "show_concept": true,
+      "show_description": true,
+      "show_meta": true,
+      "font_bold": false,
+      "description": "海报模式：完整信息展示"
+    },
+    "douyin": {
+      "show_concept": false,
+      "show_description": false,
+      "show_meta": false,
+      "font_bold": true,
+      "description": "抖音模式：极简信息，加粗字体"
+    }
+  },
+
+  "accounts": {
+    "_comment": "三套账号风格预设 - 控制布局、字号、对齐、颜色的真正差异",
+    "yushangyuan": {
+      "name": "余上沅的奇妙屋",
+      "title_align": "left",
+      "subtitle_align": "left",
+      "title_size_ratio": 1.0,
+      "subtitle_size_ratio": 0.9,
+      "title_color": [45, 43, 42],
+      "subtitle_color": [140, 100, 80],
+      "accent_color": [211, 107, 77],
+      "hook_color": [130, 125, 120],
+      "title_start_y_ratio": 0.35,
+      "title_line_spacing": 35,
+      "subtitle_margin_top": 90,
+      "show_hook": true,
+      "show_description": true,
+      "description": "诗意温暖：左对齐，较大留白，装饰性强"
+    },
+    "jiulimi": {
+      "name": "九厘米的雾",
+      "title_align": "left",
+      "subtitle_align": "left",
+      "title_size_ratio": 0.85,
+      "subtitle_size_ratio": 0.75,
+      "title_color": [60, 58, 56],
+      "subtitle_color": [130, 125, 120],
+      "accent_color": [180, 145, 125],
+      "hook_color": [160, 155, 150],
+      "title_start_y_ratio": 0.38,
+      "title_line_spacing": 25,
+      "subtitle_margin_top": 60,
+      "show_hook": false,
+      "show_description": false,
+      "description": "极简克制：左对齐，紧凑布局，无钩子文案"
+    },
+    "adscout": {
+      "name": "Ad Scout",
+      "title_align": "left",
+      "subtitle_align": "left",
+      "title_size_ratio": 1.15,
+      "subtitle_size_ratio": 1.0,
+      "title_color": [45, 43, 42],
+      "subtitle_color": [61, 50, 41],
+      "accent_color": [200, 70, 50],
+      "hook_color": [200, 70, 50],
+      "title_start_y_ratio": 0.32,
+      "title_line_spacing": 30,
+      "subtitle_margin_top": 80,
+      "show_hook": true,
+      "show_description": true,
+      "description": "商业洞察：左对齐，数字放大，对比冲击力"
+    }
+  }
+}

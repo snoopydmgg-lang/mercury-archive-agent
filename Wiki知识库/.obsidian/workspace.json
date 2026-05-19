@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "981273d818505e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1c271a33853969b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aef8a9e998179af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bed125637e251141",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fea144d0d358c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52c64ed147b562c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "73151ba37aaab56f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "717cd1496ae74391",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37ac7df323052a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a0ccb20a411993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baacb8b9bf15f67b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/书籍PDF/经营未来：李明博自传 (李明博) (Z-Library).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "经营未来：李明博自传 (李明博) (Z-Library) 的反向链接列表"
+            }
+          },
+          {
+            "id": "9f326c5121a85613",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/书籍PDF/经营未来：李明博自传 (李明博) (Z-Library).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "经营未来：李明博自传 (李明博) (Z-Library) 的出链列表"
+            }
+          },
+          {
+            "id": "0c3256c7d6de1a3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "83acbfa15c16d6e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "56e14c7ab04b35c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/docs/zh-CN/news/v2.5-tts-release.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "v2.5-tts-release 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "f52c64ed147b562c",
+  "lastOpenFiles": [
+    "docs/docs/zh-CN/news/v2.5-news.md",
+    "名画系列三套书抖音博主文案.md",
+    "Clippings/（套装3册）名画里的秘密 关于爱情关于治愈关于勇气 世界名画艺术史治愈系主题画册画集艺术赏析名画解读插画集艺术图鉴-tmall.com天猫.md",
+    "raw/（套装3册）名画里的秘密 关于爱情关于治愈关于勇气 世界名画艺术史治愈系主题画册画集艺术赏析名画解读插画集艺术图鉴-tmall.com天猫.md",
+    "Clippings",
+    "wiki/文案创作/选题库/名画里系列-文案参考资料.md",
+    "Clippings/关于治愈 名画里的答案.md",
+    "raw/关于治愈 名画里的答案.md",
+    "raw/关于爱情 名画里的浪漫.md",
+    "Clippings/关于爱情 名画里的浪漫.md",
+    "wiki/抖音运营/橱窗运营策略.md",
+    "wiki/抖音运营/算法分发机制.md",
+    "wiki/抖音运营/粉丝增长方法论.md",
+    "raw/AI模型对比/deepseek_docs/markdown/guides_json_mode.md",
+    "威廉斯 (Richard Garvey-Williams).md",
+    "wiki/文案创作/选题库/中国传统色-文案参考资料.md",
+    "raw/对标账号/知识库回复-中国传统色.md",
+    "docs/guide/use-kimi-in-openclaw.md",
+    "docs/guide",
+    "docs",
+    "raw/参考书籍/刘锦程管理人员胜任力测评.md",
+    "raw/对标账号/0424-GetNote对标账号列表.md",
+    "wiki/工作流/短视频制作完整工作流.md",
+    "raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+    "raw/AI模型对比/deepseek_docs/markdown/updates.md",
+    "raw/AI模型对比/deepseek_docs/markdown/quick_start_token_usage.md",
+    "raw/AI模型对比/deepseek_docs/markdown/quick_start_rate_limit.md",
+    "raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+    "raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_workbuddy.md",
+    "raw/AI模型对比/deepseek_docs/markdown",
+    "raw/AI模型对比/deepseek_docs/html/updates.html",
+    "raw/AI模型对比/deepseek_docs/html/quick_start_rate_limit.html",
+    "raw/AI模型对比/deepseek_docs/html/quick_start_token_usage.html",
+    "raw/AI模型对比/deepseek_docs/html/quick_start_pricing.html",
+    "raw/AI模型对比/deepseek_docs/html/quick_start_error_codes.html",
+    "raw/AI模型对比/deepseek_docs/html/quick_start_agent_integrations_workbuddy.html",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/opt_fractal_06.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/opt_fractal_05.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/opt_fractal_02.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/opt_fractal_01.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/opt_fractal_03.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/opt_fractal_04.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/leaf_fractal_03.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/leaf_fractal_04.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/leaf_fractal_02.png",
+    "raw/05_个人成长/个人视觉系统设计/fractal_variants/leaf_fractal_01.png"
+  ]
+}

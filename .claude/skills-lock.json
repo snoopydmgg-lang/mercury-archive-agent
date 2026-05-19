@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "skills": {
+    "chatroom-austrian": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "30a91a55ac65ac7c88278f66f317003a2e3a803ec49b645c98ab9ee5e0ebad44"
+    },
+    "dbs": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "7c129336714c79e1a49479f45308725fd3f81a4785f30a997e7e9a52aba318be"
+    },
+    "dbs-action": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "16827759ffebef3e524401b97dfe812cef2b67728601587bbd9aba58396b0b99"
+    },
+    "dbs-benchmark": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "8cd587c39e3bb9d8f4e548f3426c0b671afbf4b94d70ce4c906f11853198ffc1"
+    },
+    "dbs-content": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "ac64774908668b57cf1c4d3d00a01a4b661032f6b3c8f60dd980451289e6b63d"
+    },
+    "dbs-deconstruct": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "db80f0af6eacf788b2a6c3270600df7fb85d6ecc70615ec6bdee14129e2beb81"
+    },
+    "dbs-diagnosis": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "f534007509437ff40625d14ad4fe9f0b76234e30af14121c8d5975fc65e0bd72"
+    },
+    "dbs-hook": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "cdd7d7029662c8431d3fbcefe37de49586b93f507fda6dd02a1d7a77ae74cb25"
+    },
+    "dbskill-upgrade": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "computedHash": "176a85c8f9e15b425de3bc208b42e3dd84b914669ba128d8c5e96d12191b5b88"
+    }
+  }
+}
