@@ -1,0 +1,49 @@
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# ── Node ──
+node_modules/
+
+# ── 数据库 & 日志 ──
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# ── 大型资产 (素材/成品/软件) ──
+01_Projects_制作中/
+02_Archive_冷备份/
+03_Assets_全局库/
+06_Python Scripts/04_自动代码工具箱/venv/
+06_Python Scripts/04_自动代码工具箱/mercury-vis/node_modules/
+06_Python Scripts/04_自动代码工具箱/mercury-vis/dist/
+
+# ── 临时文件 ──
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+/tmp/
+
+# ── 知识库原始资产 ──
+Wiki知识库/raw/
+Wiki知识库/assets/BGM音乐库/
+.gitnexus/
+*.mp3
+*.pdf
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.wav
+*.zip
+*.rar
+*.7z
+*.exe
+*.apk
