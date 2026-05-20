@@ -499,7 +499,7 @@ def save_session_to_db(session_data):
 
 
 def sync_billing_daily(official_info, est_month_cost, cal_factor):
-    """同步每日账单快照到 billing_daily 表。"""
+    """同步每日账单快照到 billing_daily 表，并写 cache JSON 供 statusline 读取。"""
     if not official_info:
         return
     init_db()
@@ -519,8 +519,21 @@ def sync_billing_daily(official_info, est_month_cost, cal_factor):
         today_str, off_cost, est_month_cost, deviation,
         official_info.get('month_tokens', 0), 0
     ))
+
+    daily_cost = official_info.get('today_cost', 0)
+
     conn.commit()
     conn.close()
+
+    # 写 JSON cache 供 statusline 读取（避免每 tick 启动 Python）
+    cache_path = str(Path(DB_PATH).parent / 'billing_cache.json')
+    import json
+    with open(cache_path, 'w', encoding='utf-8') as f:
+        json.dump({
+            'daily': round(daily_cost, 2),
+            'monthly': round(off_cost, 2),
+            'updated': datetime.now().isoformat()
+        }, f, ensure_ascii=False)
 
 
 def sync_cache_to_db(cache):

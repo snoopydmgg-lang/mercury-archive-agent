@@ -63,6 +63,18 @@ Wiki知识库/graphify/
 .claude/telemetry/
 .claude/.trae/
 
+# ── HUD 本地/私人数据 ──
+**/billing_cache.json
+**/billing_realtime_state.json
+
+# ── Cookies / sessions / secrets ──
+**/*cookie*.txt
+**/*cookies*.txt
+**/*token*.txt
+**/*secret*.txt
+**/*credential*.txt
+**/*session*.txt
+
 # ── 敏感配置 ──
 .claude/settings.json
 .claude/settings.local.json
