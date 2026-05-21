@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-05-21
+
+- **HUD hybrid 架构**：旧 statusline 用 session token delta 算费用，compaction 后失真。新方案：`billing_cache.json`（token_tracker 同步 CSV 写入）= 权威基底，`billing_realtime_state.json`（statusline 写入）= 实时估算基准点。token 增量只做临时估算用 `~` 标记，compaction/session/cache 变化时自动重建基准。自检：`test_statusline.ps1`（8 项测试），恢复：`hud_backup_stable/`
+- **PowerShell 5.1 三大限制**：1) 无三元运算符 `?:`，须用 if/else 块 2) 无 `&&`/`||` 管道链，须用 `; if ($?) {}` 3) UTF-8 无 BOM 导致特殊字符解析报错，须 `Set-Content -Encoding UTF8`（带 BOM）或只用 ASCII 安全字符
+- **SQLite 表不存在别猜**：billing_daily 表在 DB 中不一定存在，先 `SELECT name FROM sqlite_master WHERE type='table'`，再用 `PRAGMA table_info(name)`
+- **git add . 危险**：可能误提交 cookie、billing_cache、realtime_state。须逐个 `git add <文件>`、提交前 `git diff --cached --name-only`、误 stage 用 `git restore --staged <文件>`
+- **token_tracker billing_daily 存累计月费**：`billing_daily.official_cost` 是当月累计，非当日增量。sync_billing_daily 改用 `official_info['today_cost']` 写入 daily 字段
+- **账单 cache 恢复机制**：CSV 删除后 token_tracker 回退 CALIBRATED_ESTIMATE 模式，Daily 显示 ¥0.00。账单数据在 SQLite 中保留，可手动写 cache JSON 补救
+
 ## 2026-05-02
 
 - **Windows `ln -s` 静默降级**：Git Bash 的 `ln -s` 对目录不报错但静默退化为实体文件夹拷贝（exit 0）。正确做法：`cmd //c "mklink /D <link> <target>"`，必须用 `ls -l` 验证首字母为 `l` 且有 `->` 指向
