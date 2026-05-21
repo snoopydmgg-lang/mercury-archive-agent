@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Clash for Windows CLI Tool
-通过 RESTful API 与 Clash 核心交互
+Clash Verge Rev CLI Tool
+通过 RESTful API 与 Mihomo 核心交互
 """
 
 import click
@@ -11,9 +11,18 @@ import sys
 import os
 from pathlib import Path
 
-# 配置
-CLASH_API = "http://127.0.0.1:9090"
-CONFIG_DIR = Path.home() / ".config" / "clash"
+# 配置 - Clash Verge Rev
+CLASH_API = "http://127.0.0.1:9097"
+CLASH_SECRET = "set-your-secret"
+CONFIG_DIR = Path.home() / "AppData" / "Roaming" / "io.github.clash-verge-rev.clash-verge-rev"
+
+
+def get_headers():
+    """获取 API 请求头（含 secret）"""
+    headers = {"Content-Type": "application/json"}
+    if CLASH_SECRET:
+        headers["Authorization"] = f"Bearer {CLASH_SECRET}"
+    return headers
 
 # 颜色定义 (兼容 Windows)
 class Colors:
@@ -35,11 +44,11 @@ def echo(msg, **kwargs):
 def api_get(endpoint: str) -> dict:
     """发送 GET 请求到 Clash API"""
     try:
-        resp = requests.get(f"{CLASH_API}{endpoint}", timeout=5)
+        resp = requests.get(f"{CLASH_API}{endpoint}", headers=get_headers(), timeout=5)
         resp.raise_for_status()
         return resp.json()
     except requests.exceptions.ConnectionError:
-        click.echo(f"[ERROR] Cannot connect to Clash API. Is Clash for Windows running?", err=True)
+        click.echo(f"[ERROR] Cannot connect to Clash API ({CLASH_API}). Is Clash Verge Rev running?", err=True)
         sys.exit(1)
     except Exception as e:
         click.echo(f"[ERROR] {e}", err=True)
@@ -49,7 +58,7 @@ def api_get(endpoint: str) -> dict:
 def api_put(endpoint: str, data: dict) -> dict:
     """发送 PUT 请求到 Clash API"""
     try:
-        resp = requests.put(f"{CLASH_API}{endpoint}", json=data, timeout=5)
+        resp = requests.put(f"{CLASH_API}{endpoint}", json=data, headers=get_headers(), timeout=5)
         resp.raise_for_status()
         return resp.json()
     except Exception as e:
@@ -210,7 +219,7 @@ def cmd_config():
 @cli.command("logs")
 @click.option('--limit', default=10, help='Number of lines to show')
 def cmd_logs(limit: int):
-    """查看 Clash 日志"""
+    """查看 Clash Verge Rev 日志"""
     log_dir = CONFIG_DIR / "logs"
 
     if not log_dir.exists():
@@ -247,21 +256,29 @@ def cmd_profiles():
         click.echo(f"[ERROR] Profile directory not found: {profile_dir}")
         return
 
-    click.echo("\n=== Clash Profiles ===\n")
+    click.echo("\n=== Clash Verge Rev Profiles ===\n")
 
-    list_file = profile_dir / "list.yml"
-    if list_file.exists():
+    # Clash Verge Rev uses profiles.yaml
+    profiles_yaml = CONFIG_DIR / "profiles.yaml"
+    if profiles_yaml.exists():
         try:
             import yaml
-            with open(list_file, 'r', encoding='utf-8') as f:
+            with open(profiles_yaml, 'r', encoding='utf-8') as f:
                 profile_list = yaml.safe_load(f)
 
-            if profile_list and 'profiles' in profile_list:
+            if profile_list and isinstance(profile_list, list):
+                for p in profile_list:
+                    name = p.get('name', 'Unknown')
+                    file_name = p.get('file', 'N/A')
+                    click.echo(f"  {name}")
+                    click.echo(f"    File: {file_name}")
+                    click.echo()
+            elif profile_list and 'profiles' in profile_list:
                 for p in profile_list['profiles']:
                     name = p.get('name', 'Unknown')
-                    uuid = p.get('uuid', 'N/A')
+                    file_name = p.get('file', 'N/A')
                     click.echo(f"  {name}")
-                    click.echo(f"    UUID: {uuid}")
+                    click.echo(f"    File: {file_name}")
                     click.echo()
         except ImportError:
             click.echo("(PyYAML not installed, showing raw files)")
@@ -269,7 +286,7 @@ def cmd_profiles():
             click.echo(f"Error reading profiles: {e}")
 
     click.echo("Profile files:")
-    for f in sorted(profile_dir.glob("*.yml")):
+    for f in sorted(profile_dir.glob("*.yaml")):
         size = f.stat().st_size
         click.echo(f"  {f.name} ({size} bytes)")
 
@@ -304,13 +321,13 @@ def cmd_import(url: str, name: str = None):
 
     # 生成时间戳文件名
     timestamp = str(int(time.time() * 1000))
-    profile_file = profile_dir / f"{timestamp}.yml"
+    profile_file = profile_dir / f"{timestamp}.yaml"
 
     # 下载订阅
     click.echo(f"Downloading subscription from {url}...")
     try:
         resp = requests.get(url, timeout=30, headers={
-            'User-Agent': 'ClashForWindows/0.20.39'
+            'User-Agent': 'ClashVergeRev/2.5.1'
         })
         resp.raise_for_status()
         content = resp.text
@@ -332,45 +349,42 @@ def cmd_import(url: str, name: str = None):
         click.echo(f"[ERROR] Download failed: {e}")
         return
 
-    # 更新 list.yml
-    list_file = profile_dir / "list.yml"
+    # 更新 profiles.yaml
+    profiles_yaml = CONFIG_DIR / "profiles.yaml"
 
     # 读取现有配置
-    profile_list = {'files': [], 'index': 0}
-    if list_file.exists():
+    profile_list = []
+    if profiles_yaml.exists():
         try:
-            with open(list_file, 'r', encoding='utf-8') as f:
-                profile_list = yaml.safe_load(f) or {'files': [], 'index': 0}
+            with open(profiles_yaml, 'r', encoding='utf-8') as f:
+                profile_list = yaml.safe_load(f) or []
         except:
             pass
 
     # 生成名称
     if not name:
-        name = f"订阅 {len(profile_list.get('files', [])) + 1}"
+        name = f"订阅 {len(profile_list) + 1}"
 
     # 添加新订阅
     new_entry = {
-        'time': timestamp,
         'name': name,
+        'file': profile_file.name,
         'url': url,
         'selected': [],
-        'interval': 24,
-        'subInfo': {},
-        'mode': 'rule'
+        'type': 'remote'
     }
 
-    profile_list['files'].append(new_entry)
-    profile_list['index'] = len(profile_list['files']) - 1
+    profile_list.append(new_entry)
 
-    # 保存 list.yml
+    # 保存 profiles.yaml
     try:
-        with open(list_file, 'w', encoding='utf-8') as f:
+        with open(profiles_yaml, 'w', encoding='utf-8') as f:
             yaml.dump(profile_list, f, allow_unicode=True, default_flow_style=False)
         click.echo(f"[OK] Added to profiles: {name}")
         click.echo("")
-        click.echo("Note: You may need to reload profiles in CFL GUI for changes to take effect.")
+        click.echo("Note: Restart Clash Verge Rev or reload profile for changes to take effect.")
     except Exception as e:
-        click.echo(f"[ERROR] Failed to update list.yml: {e}")
+        click.echo(f"[ERROR] Failed to update profiles.yaml: {e}")
 
 
 @cli.command("delete")
@@ -383,47 +397,43 @@ def cmd_delete(name: str):
     import yaml
 
     profile_dir = CONFIG_DIR / "profiles"
-    list_file = profile_dir / "list.yml"
+    profiles_yaml = CONFIG_DIR / "profiles.yaml"
 
-    if not list_file.exists():
-        click.echo("[ERROR] list.yml not found")
+    if not profiles_yaml.exists():
+        click.echo("[ERROR] profiles.yaml not found")
         return
 
     try:
-        with open(list_file, 'r', encoding='utf-8') as f:
-            profile_list = yaml.safe_load(f)
+        with open(profiles_yaml, 'r', encoding='utf-8') as f:
+            profile_list = yaml.safe_load(f) or []
     except Exception as e:
-        click.echo(f"[ERROR] Failed to read list.yml: {e}")
+        click.echo(f"[ERROR] Failed to read profiles.yaml: {e}")
         return
 
-    files = profile_list.get('files', [])
     deleted = False
 
-    for i, p in enumerate(files):
+    for i, p in enumerate(profile_list):
         if name.lower() in p.get('name', '').lower():
-            timestamp = p.get('time')
-            profile_file = profile_dir / f"{timestamp}.yml"
+            file_name = p.get('file')
+            if file_name:
+                profile_file = profile_dir / file_name
+                if profile_file.exists():
+                    profile_file.unlink()
+                    click.echo(f"[OK] Deleted {file_name}")
 
-            # 删除配置文件
-            if profile_file.exists():
-                profile_file.unlink()
-                click.echo(f"[OK] Deleted {profile_file.name}")
-
-            # 从列表移除
-            files.pop(i)
+            profile_list.pop(i)
             deleted = True
             click.echo(f"[OK] Removed from profiles: {p.get('name')}")
             break
 
     if deleted:
-        profile_list['files'] = files
         try:
-            with open(list_file, 'w', encoding='utf-8') as f:
+            with open(profiles_yaml, 'w', encoding='utf-8') as f:
                 yaml.dump(profile_list, f, allow_unicode=True, default_flow_style=False)
             click.echo("")
-            click.echo("Note: You may need to reload profiles in CFL GUI for changes to take effect.")
+            click.echo("Note: Restart Clash Verge Rev or reload profile for changes to take effect.")
         except Exception as e:
-            click.echo(f"[ERROR] Failed to write list.yml: {e}")
+            click.echo(f"[ERROR] Failed to write profiles.yaml: {e}")
     else:
         click.echo(f"[ERROR] Profile '{name}' not found")
 

@@ -82,8 +82,8 @@
 ### 代理（GitHub 不可达时）
 
 ```powershell
-$env:HTTP_PROXY="http://127.0.0.1:7890"
-$env:HTTPS_PROXY="http://127.0.0.1:7890"
+$env:HTTP_PROXY="http://127.0.0.1:7897"
+$env:HTTPS_PROXY="http://127.0.0.1:7897"
 ```
 备用端口：1080 → 10809 → 8080
 

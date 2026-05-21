@@ -5,13 +5,13 @@ description: "Clash VPN 管理工具。用于翻墙、切换节点、管理 VPN 
 
 # Clash VPN 管理工具
 
-通过命令行管理 Clash for Windows (CFL)，支持节点切换、订阅导入、状态查看等操作。
+通过命令行管理 Clash Verge Rev，支持节点切换、订阅导入、状态查看等操作。
 
 ## 核心功能
 
 | 功能 | 说明 |
 |------|------|
-| 打开 VPN | 启动 Clash for Windows 应用 |
+| 打开 VPN | 启动 Clash Verge Rev 应用 |
 | 关闭 VPN | 关闭 Clash 应用 |
 | 查看状态 | 显示当前连接状态、节点、流量 |
 | 切换节点 | 切换到指定代理节点 |
@@ -24,7 +24,8 @@ description: "Clash VPN 管理工具。用于翻墙、切换节点、管理 VPN 
 ## 代码位置
 
 - **CLI 工具**: `E:\1.work\douyin\1.shuixing\06_Python Scripts\08_Clash工具\clash_cli.py`
-- **CFL 程序**: `D:\cfl\CFL.exe`
+- **Clash Verge Rev 程序**: `C:\Users\Administrator\AppData\Local\io.github.clash-verge-rev.clash-verge-rev\clash-verge.exe`
+- **配置目录**: `C:\Users\Administrator\AppData\Roaming\io.github.clash-verge-rev.clash-verge-rev`
 
 ## 使用方法
 
@@ -60,11 +61,12 @@ PYTHON="C:/Users/Administrator/AppData/Local/Programs/Python/Python310/python.ex
 # 查看日志
 "$PYTHON" "E:/1.work/douyin/1.shuixing/06_Python Scripts/08_Clash工具/clash_cli.py" logs
 
-# 打开 CFL (VPN)
-cmd /c "D:\cfl\CFL.exe"
+# 打开 Clash Verge Rev (VPN)
+cmd /c "C:\Users\Administrator\AppData\Local\io.github.clash-verge-rev.clash-verge-rev\clash-verge.exe"
 
-# 关闭 CFL
-taskkill /f /im "CFL.exe"
+# 关闭 Clash Verge Rev
+taskkill /f /im "clash-verge.exe"
+taskkill /f /im "verge-mihomo.exe"
 
 # 导入订阅
 "$PYTHON" "E:/1.work/douyin/1.shuixing/06_Python Scripts/08_Clash工具/clash_cli.py" import "<订阅URL>" [名称]
@@ -101,7 +103,7 @@ taskkill /f /im "CFL.exe"
 当用户说以下话时使用此 skill：
 - "打开 VPN"
 - "关闭 VPN"
-- "启动 CFL"
+- "启动 Clash"
 - "翻墙"
 - "切换节点"
 - "换一个节点"
@@ -118,17 +120,27 @@ taskkill /f /im "CFL.exe"
 
 ## 注意事项
 
-1. **前提条件**: Clash for Windows (CFL) 必须已安装且配置正确
-2. **API 依赖**: 状态查询和节点切换依赖 REST API (http://127.0.0.1:8856)
-3. **权限**: 部分操作可能需要管理员权限
-4. **节点延迟**: 显示的延迟数据仅供参考，实际速度可能不同
-5. **订阅导入**: 导入后需在 CFL 中刷新订阅才能生效
+1. **前提条件**: Clash Verge Rev 必须已安装且配置正确
+2. **API 依赖**: 状态查询和节点切换依赖 REST API (http://127.0.0.1:9097)
+3. **API Secret**: `set-your-secret`
+4. **权限**: 部分操作可能需要管理员权限
+5. **节点延迟**: 显示的延迟数据仅供参考，实际速度可能不同
+6. **订阅导入**: 导入后需重启 Clash Verge Rev 或重新加载配置才能生效
 
 ## API 端点
 
-Clash REST API：
+Clash REST API (Mihomo)：
 - `GET /proxies` - 获取所有代理节点
 - `GET /configs` - 获取当前配置
 - `GET /traffic` - 获取实时流量
 - `PUT /proxies/GLOBAL` - 切换节点
 - `PUT /configs` - 更新配置
+
+## 端口配置
+
+| 端口类型 | 端口号 |
+|----------|--------|
+| Mixed Port | 7897 |
+| SOCKS Port | 7898 |
+| HTTP Port | 7899 |
+| API Port | 9097 |
