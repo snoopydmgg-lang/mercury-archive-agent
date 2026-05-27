@@ -1,0 +1,31 @@
+{
+  "site": "creator",
+  "target_url": "https://creator.xiaohongshu.com/publish",
+  "final_url": "https://creator.xiaohongshu.com/publish",
+  "title": "小红书创作服务平台",
+  "framework": {
+    "nextjs": false,
+    "nuxt": false,
+    "pinia": false,
+    "react": false,
+    "vue2": false,
+    "vue3": true,
+    "vuex": true
+  },
+  "stores": [
+    {
+      "type": "vuex",
+      "id": "Auth",
+      "actions": [
+        "registerAuthPermission",
+        "setAuthPermissionState",
+        "setAuthPermissionRes",
+        "resetAuthPermission",
+        "setUserInfo",
+        "resetUserInfo"
+      ]
+    }
+  ],
+  "top_strategy": "public",
+  "explored_at": "2026-04-05T12:50:36.985Z"
+}

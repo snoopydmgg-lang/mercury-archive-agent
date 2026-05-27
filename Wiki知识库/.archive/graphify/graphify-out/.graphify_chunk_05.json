@@ -1,0 +1,1263 @@
+{
+  "nodes": [
+    {
+      "id": "openrouter_quickstart",
+      "label": "OpenRouter Quickstart Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Quickstart Guide.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/quickstart",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_platform",
+      "label": "OpenRouter API Platform",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Quickstart Guide.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_sdk",
+      "label": "OpenRouter SDK",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Quickstart Guide.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_structured_outputs",
+      "label": "Structured Outputs - Type-Safe JSON Responses",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Structured Outputs - Type-Safe JSON Responses from AI Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/guides/features/structured-outputs",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "structured_outputs_json_schema",
+      "label": "Structured Outputs JSON Schema Validation",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Structured Outputs - Type-Safe JSON Responses from AI Models.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_tool_calling",
+      "label": "Tool & Function Calling with OpenRouter",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/guides/features/tool-calling",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "function_calling_three_step",
+      "label": "Function Calling Three-Step Pattern",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "interleaved_thinking",
+      "label": "Interleaved Thinking (Tool Use Reasoning)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "agentic_loop",
+      "label": "Simple Agentic Loop",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimax_token_plan",
+      "label": "MiniMax Token Plan",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/MiniMax-与用户共创智能.md",
+      "source_location": null,
+      "source_url": "https://platform.minimaxi.com/subscribe/token-plan",
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimax_m2_1",
+      "label": "MiniMax M2.1 Model",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/MiniMax-与用户共创智能.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimax_m2_7",
+      "label": "MiniMax M2.7 Programming Flagship Model",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/MiniMax-与用户共创智能.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipu_glm_coding_plan",
+      "label": "GLM Coding Plan Overview",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "source_url": "https://docs.bigmodel.cn/cn/coding-plan/overview",
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "glm_5_1",
+      "label": "GLM-5.1 Model",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "glm_4_7",
+      "label": "GLM-4.7 Model",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipu_usage_notes",
+      "label": "GLM Coding Plan Usage Notes",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/使用须知 - 智谱AI开放文档.md",
+      "source_location": null,
+      "source_url": "https://docs.bigmodel.cn/cn/coding-plan/usage-notes",
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipu_faq",
+      "label": "GLM Coding Plan FAQ",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/常见问题 - 智谱AI开放文档.md",
+      "source_location": null,
+      "source_url": "https://docs.bigmodel.cn/cn/coding-plan/faq",
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipu_platform",
+      "label": "Zhipu AI Open Platform",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/智谱AI开放平台.md",
+      "source_location": null,
+      "source_url": "https://bigmodel.cn/glm-coding",
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipu_mcp_vision",
+      "label": "Zhipu Vision Understanding MCP",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipu_mcp_search",
+      "label": "Zhipu Web Search MCP",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "lmvki_knowledge_method",
+      "label": "Karpathy LMVKI Knowledge Base Method",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "viki_layer",
+      "label": "VIKI Knowledge Layer",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "knowledge_compilation",
+      "label": "Knowledge Compilation (AI as Compiler)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rag_limitations",
+      "label": "RAG Technology Limitations",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_creative_design_workflow",
+      "label": "AI Creative Design Workflow Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/AI创意设计全流程实战指南：从灵感到动态交付的高效工作流.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nano_banana",
+      "label": "Nano Banana (AI Visual Generation)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/AI创意设计全流程实战指南：从灵感到动态交付的高效工作流.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "capaci_knowledge_base",
+      "label": "Capaci Open Source Personal Knowledge Base",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "capaci_three_layer_arch",
+      "label": "Capaci Three-Layer Architecture",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "memex_concept",
+      "label": "Vannevar Bush Memex Concept (1945)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cloud_code_guide",
+      "label": "Cloud Code Efficiency Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Cloud Code高效使用指南：命令、插件与实战技巧全解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cloud_code_kv_cache",
+      "label": "KV Cache Mechanism in LLM Context",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Cloud Code高效使用指南：命令、插件与实战技巧全解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cloud_code_permission_modes",
+      "label": "Cloud Code Permission Modes",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Cloud Code高效使用指南：命令、插件与实战技巧全解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "graphite_knowledge_graph",
+      "label": "Graphite AI Knowledge Graph Tool",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "graphite_graphify",
+      "label": "Graphite /graphify Command",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "graphite_always_on_mode",
+      "label": "Graphite Always On Mode (IDE Hook)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "obsidian_ai_workflow",
+      "label": "Obsidian + AI Knowledge Management Workflow",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian+AI知识管理与内容创作工作流：从知识囤积到高效输出.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "obsidian_reading_automation",
+      "label": "Obsidian Reading Notes Automation",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian+AI知识管理与内容创作工作流：从知识囤积到高效输出.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "obsidian_skill_guide",
+      "label": "Obsidian Agent Core Skills Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian智能体核心Skill全解析：必备工具与高效工作流指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "defondo_skill",
+      "label": "Defondo Web Clipper Skill",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian智能体核心Skill全解析：必备工具与高效工作流指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tutor_skill",
+      "label": "Tutor Skill (Knowledge Base Builder)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian智能体核心Skill全解析：必备工具与高效工作流指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bench_press_asymmetry",
+      "label": "Bench Press Force Asymmetry Correction",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/卧推发力不对称的根源分析与矫正方案：从体态失衡到功能恢复.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "posterior_chain_dominance",
+      "label": "Right-Side Dominant Loading Pattern",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/卧推发力不对称的根源分析与矫正方案：从体态失衡到功能恢复.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "double_cross_posture",
+      "label": "Double Cross Posture Syndrome",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/双交叉体态系统矫正指南：评估、放松激活与功能训练全方案.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "double_cross_anterior_chain",
+      "label": "Anterior Chain Shortening (Chest/Hip)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/双交叉体态系统矫正指南：评估、放松激活与功能训练全方案.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "double_cross_posterior_chain",
+      "label": "Posterior Chain Inhibition (Neck/Back/Glute)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/双交叉体态系统矫正指南：评估、放松激活与功能训练全方案.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wechat_chat_analysis",
+      "label": "WeChat Chat Record Analysis Tool",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/微信聊天记录分析工具：本地AI驱动的多维度社交数据洞察平台.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "local_ai_processing",
+      "label": "Local AI Data Processing (Privacy-First)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/微信聊天记录分析工具：本地AI驱动的多维度社交数据洞察平台.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gpu_buying_guide",
+      "label": "GPU Purchasing Strategy (5000 Series)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/显卡选购策略：五零零肽性价比配置指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gpu_cpu_bottleneck",
+      "label": "GPU-CPU Resolution Bottleneck Analysis",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/显卡选购策略：五零零肽性价比配置指南.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "overseas_knowledge_arbitrage",
+      "label": "Overseas Knowledge Arbitrage Business Model",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/海外知识二道贩子：利用中外信息差的轻资产创业赛道解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "info_asymmetry_business",
+      "label": "Cross-Border Information Asymmetry",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/海外知识二道贩子：利用中外信息差的轻资产创业赛道解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "knowledge_graph_theory",
+      "label": "Knowledge Graph Construction and Application",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/知识图谱构建与应用深度解析：从理论到工程落地.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "knowledge_graph_multihop",
+      "label": "Knowledge Graph Multi-Hop Query Limits",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/知识图谱构建与应用深度解析：从理论到工程落地.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "light_rg_framework",
+      "label": "Light RG Framework for Knowledge Graphs",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/知识图谱构建与应用深度解析：从理论到工程落地.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thoracic_compression",
+      "label": "Thoracic Compression and Breathing Issues",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/胸廓压缩导致的体态与呼吸问题及反向平板支撑解决方案.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reverse_plank",
+      "label": "Reverse Plank (Thoracic Decompression Exercise)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/胸廓压缩导致的体态与呼吸问题及反向平板支撑解决方案.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "openrouter_quickstart",
+      "target": "openrouter_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Quickstart Guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_quickstart",
+      "target": "openrouter_sdk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Quickstart Guide.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_structured_outputs",
+      "target": "structured_outputs_json_schema",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Structured Outputs - Type-Safe JSON Responses from AI Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_tool_calling",
+      "target": "function_calling_three_step",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_tool_calling",
+      "target": "interleaved_thinking",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_tool_calling",
+      "target": "agentic_loop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "function_calling_three_step",
+      "target": "agentic_loop",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "interleaved_thinking",
+      "target": "agentic_loop",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "minimax_token_plan",
+      "target": "minimax_m2_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/MiniMax-与用户共创智能.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_token_plan",
+      "target": "minimax_m2_7",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/MiniMax-与用户共创智能.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipu_glm_coding_plan",
+      "target": "glm_5_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipu_glm_coding_plan",
+      "target": "glm_4_7",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipu_glm_coding_plan",
+      "target": "zhipu_mcp_vision",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipu_glm_coding_plan",
+      "target": "zhipu_mcp_search",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipu_glm_coding_plan",
+      "target": "zhipu_usage_notes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipu_glm_coding_plan",
+      "target": "zhipu_faq",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipu_glm_coding_plan",
+      "target": "zhipu_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lmvki_knowledge_method",
+      "target": "viki_layer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lmvki_knowledge_method",
+      "target": "knowledge_compilation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "lmvki_knowledge_method",
+      "target": "rag_limitations",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ai_creative_design_workflow",
+      "target": "nano_banana",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/AI创意设计全流程实战指南：从灵感到动态交付的高效工作流.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capaci_knowledge_base",
+      "target": "capaci_three_layer_arch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "capaci_knowledge_base",
+      "target": "memex_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cloud_code_guide",
+      "target": "cloud_code_kv_cache",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Cloud Code高效使用指南：命令、插件与实战技巧全解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "cloud_code_guide",
+      "target": "cloud_code_permission_modes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Cloud Code高效使用指南：命令、插件与实战技巧全解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "graphite_knowledge_graph",
+      "target": "graphite_graphify",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "graphite_knowledge_graph",
+      "target": "graphite_always_on_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "obsidian_ai_workflow",
+      "target": "obsidian_reading_automation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian+AI知识管理与内容创作工作流：从知识囤积到高效输出.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "obsidian_skill_guide",
+      "target": "defondo_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian智能体核心Skill全解析：必备工具与高效工作流指南.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "obsidian_skill_guide",
+      "target": "tutor_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian智能体核心Skill全解析：必备工具与高效工作流指南.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bench_press_asymmetry",
+      "target": "posterior_chain_dominance",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/卧推发力不对称的根源分析与矫正方案：从体态失衡到功能恢复.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "double_cross_posture",
+      "target": "double_cross_anterior_chain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/双交叉体态系统矫正指南：评估、放松激活与功能训练全方案.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "double_cross_posture",
+      "target": "double_cross_posterior_chain",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/双交叉体态系统矫正指南：评估、放松激活与功能训练全方案.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wechat_chat_analysis",
+      "target": "local_ai_processing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/微信聊天记录分析工具：本地AI驱动的多维度社交数据洞察平台.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gpu_buying_guide",
+      "target": "gpu_cpu_bottleneck",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/显卡选购策略：五零零肽性价比配置指南.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "overseas_knowledge_arbitrage",
+      "target": "info_asymmetry_business",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/海外知识二道贩子：利用中外信息差的轻资产创业赛道解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "knowledge_graph_theory",
+      "target": "knowledge_graph_multihop",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/知识图谱构建与应用深度解析：从理论到工程落地.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "knowledge_graph_theory",
+      "target": "light_rg_framework",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/知识图谱构建与应用深度解析：从理论到工程落地.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thoracic_compression",
+      "target": "reverse_plank",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/胸廓压缩导致的体态与呼吸问题及反向平板支撑解决方案.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "graphite_knowledge_graph",
+      "target": "knowledge_graph_theory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "graphite_knowledge_graph",
+      "target": "lmvki_knowledge_method",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "capaci_knowledge_base",
+      "target": "lmvki_knowledge_method",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "capaci_knowledge_base",
+      "target": "viki_layer",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "capaci_knowledge_base",
+      "target": "obsidian_ai_workflow",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Capaci开源个人知识库方案：LLM驱动的知识工程范式革新.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "lmvki_knowledge_method",
+      "target": "knowledge_compilation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "knowledge_compilation",
+      "target": "rag_limitations",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/2026年AI知识库搭建指南：卡帕西LMVKI方法深度解析.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "graphite_knowledge_graph",
+      "target": "capaci_knowledge_base",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "graphite_knowledge_graph",
+      "target": "light_rg_framework",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "bench_press_asymmetry",
+      "target": "double_cross_posture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/卧推发力不对称的根源分析与矫正方案：从体态失衡到功能恢复.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "thoracic_compression",
+      "target": "double_cross_posture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/胸廓压缩导致的体态与呼吸问题及反向平板支撑解决方案.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "thoracic_compression",
+      "target": "bench_press_asymmetry",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/胸廓压缩导致的体态与呼吸问题及反向平板支撑解决方案.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "minimax_token_plan",
+      "target": "zhipu_glm_coding_plan",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/MiniMax-与用户共创智能.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "openrouter_platform",
+      "target": "zhipu_glm_coding_plan",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Quickstart Guide.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "openrouter_platform",
+      "target": "minimax_token_plan",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Quickstart Guide.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "obsidian_ai_workflow",
+      "target": "obsidian_skill_guide",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian+AI知识管理与内容创作工作流：从知识囤积到高效输出.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "obsidian_ai_workflow",
+      "target": "tutor_skill",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Obsidian+AI知识管理与内容创作工作流：从知识囤积到高效输出.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "cloud_code_guide",
+      "target": "zhipu_faq",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Cloud Code高效使用指南：命令、插件与实战技巧全解析.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "graphite_graphify",
+      "target": "knowledge_graph_theory",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md",
+      "source_location": null,
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "ai_knowledge_management_tools",
+      "label": "AI Knowledge Management Tools Ecosystem",
+      "nodes": [
+        "lmvki_knowledge_method",
+        "capaci_knowledge_base",
+        "graphite_knowledge_graph",
+        "obsidian_ai_workflow",
+        "obsidian_skill_guide"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/Graphite：AI驱动的多模态知识图谱构建工具全指南.md"
+    },
+    {
+      "id": "ai_coding_platforms",
+      "label": "AI Coding Subscription Platforms",
+      "nodes": [
+        "openrouter_platform",
+        "zhipu_glm_coding_plan",
+        "minimax_token_plan",
+        "cloud_code_guide"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Clippings/套餐概览 - 智谱AI开放文档.md"
+    },
+    {
+      "id": "posture_correction_system",
+      "label": "Postural Correction and Body Mechanics System",
+      "nodes": [
+        "bench_press_asymmetry",
+        "double_cross_posture",
+        "thoracic_compression",
+        "reverse_plank"
+      ],
+      "relation": "implement",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/GetNote链接笔记/双交叉体态系统矫正指南：评估、放松激活与功能训练全方案.md"
+    },
+    {
+      "id": "llm_function_calling_ecosystem",
+      "label": "LLM Function Calling and Agentic Patterns",
+      "nodes": [
+        "openrouter_tool_calling",
+        "function_calling_three_step",
+        "interleaved_thinking",
+        "agentic_loop"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Tool & Function Calling - Use Tools with OpenRouter.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

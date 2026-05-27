@@ -1,0 +1,1306 @@
+{
+  "site": "creator",
+  "url": "https://creator.douyin.com",
+  "capturedAt": "2026-04-05T12:00:52.093Z",
+  "requests": [
+    {
+      "body": [
+        {
+          "hide": 0,
+          "img": "weixiao",
+          "name": "微笑"
+        },
+        {
+          "hide": 0,
+          "img": "aimu",
+          "name": "色"
+        },
+        {
+          "hide": 0,
+          "img": "aimu",
+          "name": "爱慕"
+        },
+        {
+          "hide": 0,
+          "img": "wulian",
+          "name": "捂脸"
+        },
+        {
+          "hide": 0,
+          "img": "ziya",
+          "name": "呲牙"
+        },
+        {
+          "hide": 0,
+          "img": "daxiao",
+          "name": "大笑"
+        },
+        {
+          "hide": 0,
+          "img": "fanu",
+          "name": "发怒"
+        },
+        {
+          "hide": 0,
+          "img": "lingguangyishan",
+          "name": "灵机一动"
+        },
+        {
+          "hide": 0,
+          "img": "lingguangyishan",
+          "name": "灵光一闪"
+        },
+        {
+          "hide": 0,
+          "img": "koubi",
+          "name": "抠鼻"
+        },
+        {
+          "hide": 0,
+          "img": "haixiu",
+          "name": "害羞"
+        },
+        {
+          "hide": 0,
+          "img": "keai",
+          "name": "调皮"
+        },
+        {
+          "hide": 0,
+          "img": "keai",
+          "name": "可爱"
+        },
+        {
+          "hide": 0,
+          "img": "chiguaqunzhong",
+          "name": "吃瓜群众"
+        },
+        {
+          "hide": 0,
+          "img": "yun",
+          "name": "晕"
+        },
+        {
+          "hide": 0,
+          "img": "bizui",
+          "name": "闭嘴"
+        },
+        {
+          "hide": 0,
+          "img": "xiaoku",
+          "name": "笑哭"
+        },
+        {
+          "hide": 0,
+          "img": "nanguo",
+          "name": "难过"
+        },
+        {
+          "hide": 0,
+          "img": "wen",
+          "name": "亲亲"
+        },
+        {
+          "hide": 1,
+          "img": "wen",
+          "name": "吻"
+        },
+        {
+          "hide": 0,
+          "img": "laikanwo",
+          "name": "来看我"
+        },
+        {
+          "hide": 0,
+          "img": "touxiao",
+          "name": "偷笑"
+        },
+        {
+          "hide": 0,
+          "img": "dalian",
+          "name": "打脸"
+        },
+        {
+          "hide": 0,
+          "img": "fanbaiyan",
+          "name": "翻白眼"
+        },
+        {
+          "hide": 1,
+          "img": "fanbaiyan",
+          "name": "傲慢"
+        },
+        {
+          "hide": 0,
+          "img": "hanshui",
+          "name": "睡"
+        },
+        {
+          "hide": 0,
+          "img": "hanshui",
+          "name": "鼾睡"
+        },
+        {
+          "hide": 0,
+          "img": "jianxiao",
+          "name": "奸笑"
+        },
+        {
+          "hide": 0,
+          "img": "songxin",
+          "name": "送心"
+        },
+        {
+          "hide": 0,
+          "img": "daku",
+          "name": "大哭"
+        },
+        {
+          "hide": 0,
+          "img": "zhuakuang",
+          "name": "抓狂"
+        },
+        {
+          "hide": 0,
+          "img": "jingya",
+          "name": "惊讶"
+        },
+        {
+          "hide": 0,
+          "img": "kuye",
+          "name": "酷拽"
+        },
+        {
+          "hide": 0,
+          "img": "qibuchengsheng",
+          "name": "泣不成声"
+        },
+        {
+          "hide": 0,
+          "img": "dajinya",
+          "name": "大金牙"
+        },
+        {
+          "hide": 0,
+          "img": "what",
+          "name": "疑问"
+        },
+        {
+          "hide": 1,
+          "img": "what",
+          "name": "what"
+        },
+        {
+          "hide": 0,
+          "img": "xiaoguzhang",
+          "name": "小鼓掌"
+        },
+        {
+          "img": "tu",
+          "name": "吐"
+        },
+        {
+          "hide": 0,
+          "img": "qiubaobao",
+          "name": "拥抱"
+        },
+        {
+          "hide": 1,
+          "img": "qiubaobao",
+          "name": "求抱抱"
+        },
+        {
+          "hide": 0,
+          "img": "jingkong",
+          "name": "惊恐"
+        },
+        {
+          "hide": 0,
+          "img": "ye",
+          "name": "耶"
+        },
+        {
+          "hide": 0,
+          "img": "zuile",
+          "name": "醉了"
+        },
+        {
+          "hide": 0,
+          "img": "kan",
+          "name": "看"
+        },
+        {
+          "hide": 0,
+          "img": "erha",
+          "name": "二哈"
+        },
+        {
+          "hide": 0,
+          "img": "weixiaodaishu",
+          "name": "微笑袋鼠"
+        },
+        {
+          "hide": 0,
+          "img": "lengmo",
+          "name": "冷漠"
+        },
+        {
+          "hide": 0,
+          "img": "anzhongguancha",
+          "name": "暗中观察"
+        },
+        {
+          "hide": 0,
+          "img": "ningshi",
+          "name": "凝视"
+        },
+        {
+          "hide": 0,
+          "img": "wozhua",
+          "name": "握爪"
+        },
+        {
+          "hide": 0,
+          "img": "jinli",
+          "name": "锦鲤"
+        },
+        {
+          "hide": 0,
+          "img": "lazhu",
+          "name": "蜡烛"
+        },
+        {
+          "hide": 0,
+          "img": "jiayi",
+          "name": "加一"
+        },
+        {
+          "hide": 0,
+          "img": "wosuanle",
+          "name": "我酸了"
+        },
+        {
+          "hide": 0,
+          "img": "jiajitui",
+          "name": "加鸡腿"
+        },
+        {
+          "hide": 0,
+          "img": "wotainanle",
+          "name": "我太南了"
+        },
+        {
+          "hide": 0,
+          "img": "zhaxin",
+          "name": "扎心"
+        },
+        {
+          "hide": 0,
+          "img": "geiguile",
+          "name": "给跪了"
+        },
+        {
+          "hide": 0,
+          "img": "zan",
+          "name": "赞"
+        },
+        {
+          "hide": 0,
+          "img": "guzhang",
+          "name": "鼓掌"
+        },
+        {
+          "hide": 0,
+          "img": "bixin",
+          "name": "比心"
+        },
+        {
+          "hide": 0,
+          "img": "qidao",
+          "name": "感谢"
+        },
+        {
+          "hide": 0,
+          "img": "qidao",
+          "name": "祈祷"
+        },
+        {
+          "hide": 0,
+          "img": "shengli",
+          "name": "胜利"
+        },
+        {
+          "hide": 0,
+          "img": "jiayou",
+          "name": "强壮"
+        },
+        {
+          "hide": 0,
+          "img": "jiayou",
+          "name": "加油"
+        },
+        {
+          "hide": 0,
+          "img": "ok",
+          "name": "OK"
+        },
+        {
+          "hide": 0,
+          "img": "ok",
+          "name": "ok"
+        },
+        {
+          "hide": 0,
+          "img": "ruo",
+          "name": "弱"
+        },
+        {
+          "hide": 0,
+          "img": "baoquan",
+          "name": "抱拳"
+        },
+        {
+          "hide": 0,
+          "img": "gouyin",
+          "name": "勾引"
+        },
+        {
+          "hide": 0,
+          "img": "zaijian",
+          "name": "再见"
+        },
+        {
+          "hide": 0,
+          "img": "woshou",
+          "name": "握手"
+        },
+        {
+          "hide": 0,
+          "img": "meigui",
+          "name": "玫瑰"
+        },
+        {
+          "hide": 0,
+          "img": "666",
+          "name": "666"
+        },
+        {
+          "hide": 0,
+          "img": "xin",
+          "name": "爱心"
+        },
+        {
+          "img": "xin",
+          "name": "心"
+        },
+        {
+          "hide": 0,
+          "img": "hugua",
+          "name": "胡瓜"
+        },
+        {
+          "hide": 0,
+          "img": "kiss",
+          "name": "嘴唇"
+        },
+        {
+          "hide": 0,
+          "img": "kiss",
+          "name": "kiss"
+        },
+        {
+          "hide": 0,
+          "img": "geili",
+          "name": "给力"
+        },
+        {
+          "hide": 0,
+          "img": "pijiu",
+          "name": "啤酒"
+        },
+        {
+          "hide": 0,
+          "img": "sahua",
+          "name": "派对"
+        },
+        {
+          "hide": 0,
+          "img": "sahua",
+          "name": "撒花"
+        },
+        {
+          "hide": 0,
+          "img": "dangao",
+          "name": "蛋糕"
+        },
+        {
+          "hide": 0,
+          "img": "hongbao",
+          "name": "红包"
+        },
+        {
+          "hide": 0,
+          "img": "liwu",
+          "name": "礼物"
+        },
+        {
+          "hide": 0,
+          "img": "fa",
+          "name": "发"
+        },
+        {
+          "hide": 0,
+          "img": "kafei",
+          "name": "咖啡"
+        },
+        {
+          "hide": 0,
+          "img": "taiyang",
+          "name": "太阳"
+        },
+        {
+          "hide": 0,
+          "img": "yueliang",
+          "name": "月亮"
+        },
+        {
+          "hide": 0,
+          "img": "shangxin",
+          "name": "心碎"
+        },
+        {
+          "hide": 0,
+          "img": "shangxin",
+          "name": "伤心"
+        },
+        {
+          "hide": 0,
+          "img": "shi",
+          "name": "便便"
+        },
+        {
+          "hide": 1,
+          "img": "shi",
+          "name": "屎"
+        },
+        {
+          "hide": 0,
+          "img": "fu",
+          "name": "福"
+        },
+        {
+          "hide": 0,
+          "img": "yiqijiayou",
+          "name": "一起加油"
+        },
+        {
+          "hide": 0,
+          "img": "daikouzhao",
+          "name": "戴口罩"
+        },
+        {
+          "hide": 0,
+          "img": "qinxishou",
+          "name": "勤洗手"
+        },
+        {
+          "hide": 0,
+          "img": "buxinyaoyan",
+          "name": "不信谣言"
+        },
+        {
+          "hide": 0,
+          "img": "qingshu",
+          "name": "情书"
+        },
+        {
+          "hide": 0,
+          "img": "iloveyou",
+          "name": "iloveyou"
+        },
+        {
+          "hide": 0,
+          "img": "qiaokeli",
+          "name": "巧克力"
+        },
+        {
+          "hide": 0,
+          "img": "jiezhi",
+          "name": "戒指"
+        },
+        {
+          "hide": 1,
+          "img": "guonianshu",
+          "name": "过年鼠"
+        },
+        {
+          "hide": 1,
+          "img": "denglong",
+          "name": "灯笼"
+        },
+        {
+          "hide": 1,
+          "img": "jiaozi",
+          "name": "饺子"
+        },
+        {
+          "hide": 1,
+          "img": "tangyuan",
+          "name": "汤圆"
+        },
+        {
+          "img": "liulei",
+          "name": "流泪"
+        },
+        {
+          "img": "xiao",
+          "name": "愉快"
+        },
+        {
+          "hide": 0,
+          "img": "xiao",
+          "name": "笑"
+        },
+        {
+          "img": "liangdai",
+          "name": "发呆"
+        },
+        {
+          "hide": 0,
+          "img": "liangdai",
+          "name": "惊呆"
+        },
+        {
+          "img": "jizhi",
+          "name": "机智"
+        },
+        {
+          "img": "kuaikule",
+          "name": "快哭了"
+        },
+        {
+          "img": "jizhang",
+          "name": "击掌"
+        },
+        {
+          "img": "heilian",
+          "name": "黑脸"
+        },
+        {
+          "img": "feiwen",
+          "name": "飞吻"
+        },
+        {
+          "img": "pengquan",
+          "name": "碰拳"
+        },
+        {
+          "img": "tianping",
+          "name": "舔屏"
+        },
+        {
+          "img": "hanxiao",
+          "name": "憨笑"
+        },
+        {
+          "img": "woxiangjingjing",
+          "name": "我想静静"
+        },
+        {
+          "img": "sikao",
+          "name": "思考"
+        },
+        {
+          "img": "daiwugu",
+          "name": "呆无辜"
+        },
+        {
+          "img": "heixian",
+          "name": "尴尬"
+        },
+        {
+          "hide": 0,
+          "img": "heixian",
+          "name": "黑线"
+        },
+        {
+          "img": "deyi",
+          "name": "得意"
+        },
+        {
+          "img": "shuai",
+          "name": "衰"
+        },
+        {
+          "img": "hufen",
+          "name": "互粉"
+        },
+        {
+          "img": "tuxie",
+          "name": "吐血"
+        },
+        {
+          "img": "kelian",
+          "name": "可怜"
+        },
+        {
+          "img": "bukan",
+          "name": "不看"
+        },
+        {
+          "img": "motou",
+          "name": "摸头"
+        },
+        {
+          "img": "quwufen",
+          "name": "去污粉"
+        },
+        {
+          "img": "qian",
+          "name": "钱"
+        },
+        {
+          "img": "piezui",
+          "name": "撇嘴"
+        },
+        {
+          "img": "zhenliang",
+          "name": "震惊"
+        },
+        {
+          "img": "V5",
+          "name": "V5"
+        },
+        {
+          "img": "dao",
+          "name": "菜刀"
+        },
+        {
+          "hide": 0,
+          "img": "dao",
+          "name": "刀"
+        },
+        {
+          "img": "zuoguilian",
+          "name": "做鬼脸"
+        },
+        {
+          "img": "zhoumei",
+          "name": "皱眉"
+        },
+        {
+          "img": "qiaoda",
+          "name": "敲打"
+        },
+        {
+          "img": "gaxiao",
+          "name": "尬笑"
+        },
+        {
+          "img": "kongju",
+          "name": "恐惧"
+        },
+        {
+          "img": "liangxi",
+          "name": "惊喜"
+        },
+        {
+          "img": "shihua",
+          "name": "石化"
+        },
+        {
+          "img": "haqian",
+          "name": "哈欠"
+        },
+        {
+          "img": "zhadan",
+          "name": "炸弹"
+        },
+        {
+          "img": "xu",
+          "name": "嘘"
+        },
+        {
+          "img": "tushe",
+          "name": "吐舌"
+        },
+        {
+          "img": "weiqu",
+          "name": "委屈"
+        },
+        {
+          "img": "tucaihong",
+          "name": "吐彩虹"
+        },
+        {
+          "img": "fendou",
+          "name": "奋斗"
+        },
+        {
+          "img": "wumai",
+          "name": "生病"
+        },
+        {
+          "hide": 0,
+          "img": "wumai",
+          "name": "雾霾"
+        },
+        {
+          "img": "cahan",
+          "name": "擦汗"
+        },
+        {
+          "img": "ruhua",
+          "name": "如花"
+        },
+        {
+          "img": "bishi",
+          "name": "鄙视"
+        },
+        {
+          "img": "qiang",
+          "name": "强"
+        },
+        {
+          "img": "ziweibiezou",
+          "name": "紫薇别走"
+        },
+        {
+          "img": "honglian",
+          "name": "红脸"
+        },
+        {
+          "img": "kun",
+          "name": "困"
+        },
+        {
+          "img": "han",
+          "name": "流汗"
+        },
+        {
+          "hide": 0,
+          "img": "han",
+          "name": "汗"
+        },
+        {
+          "img": "lvmaozi",
+          "name": "绿帽子"
+        },
+        {
+          "img": "zuoshang",
+          "name": "左上"
+        },
+        {
+          "img": "xiongji",
+          "name": "熊吉"
+        },
+        {
+          "img": "tingge",
+          "name": "听歌"
+        },
+        {
+          "img": "kulou",
+          "name": "骷髅"
+        },
+        {
+          "img": "18jin",
+          "name": "18禁"
+        },
+        {
+          "img": "xigua",
+          "name": "西瓜"
+        },
+        {
+          "img": "xieyan",
+          "name": "斜眼"
+        },
+        {
+          "img": "yinxian",
+          "name": "阴险"
+        },
+        {
+          "img": "baiyan",
+          "name": "白眼"
+        },
+        {
+          "img": "diaoxie",
+          "name": "凋谢"
+        },
+        {
+          "img": "heiha",
+          "name": "嘿哈"
+        },
+        {
+          "img": "huaixiao",
+          "name": "坏笑"
+        },
+        {
+          "img": "jiahaoyou",
+          "name": "加好友"
+        },
+        {
+          "img": "jiong",
+          "name": "囧"
+        },
+        {
+          "img": "leiben",
+          "name": "泪奔"
+        },
+        {
+          "img": "masichundeweixiao",
+          "name": "不失礼貌的微笑"
+        },
+        {
+          "img": "quantou",
+          "name": "拳头"
+        },
+        {
+          "img": "youbian",
+          "name": "右边"
+        },
+        {
+          "img": "youhengheng",
+          "name": "右哼哼"
+        },
+        {
+          "img": "youxian",
+          "name": "悠闲"
+        },
+        {
+          "img": "zhoudongyudeningshi",
+          "name": "绝望的凝视"
+        },
+        {
+          "img": "zhouma",
+          "name": "咒骂"
+        },
+        {
+          "img": "zhutou",
+          "name": "猪头"
+        },
+        {
+          "img": "zuobian",
+          "name": "左边"
+        },
+        {
+          "img": "zuohengheng",
+          "name": "左哼哼"
+        }
+      ],
+      "method": "GET",
+      "status": null,
+      "ts": 1775390392990,
+      "url": "https://lf3-beecdn.bytetos.com/obj/ies-fe-bee/bee_prod/biz_181/bee_prod_181_bee_publish_1343.json"
+    },
+    {
+      "body": {
+        "account_info": {
+          "account_type": 0
+        },
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390393046,
+      "url": "/account/api/v1/user/account/info"
+    },
+    {
+      "body": {
+        "extra": {
+          "logid": "202604051959539EDB8EFEBCB135E5C651",
+          "now": 1775390393000
+        },
+        "role_list": [],
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390393073,
+      "url": "/account/api/v1/cert/roles"
+    },
+    {
+      "body": {
+        "comments": [],
+        "extra": {
+          "now": 1775390393000
+        },
+        "status_code": 0,
+        "status_msg": ""
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390393077,
+      "url": "/aweme/v1/creator/notice/comment/?aid=2906&app_name=aweme_creator_platform&device_platform=web&referer=&user_agent=Mozilla%2F5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML,+like+Gecko)+Chrome%2F146.0.0.0+Safari%2F537.36+Edg%2F146.0.0.0&cookie_enabled=true&screen_width=1080&screen_height=1920&browser_language=zh-CN&browser_platform=Win32&browser_name=Mozilla&browser_version=5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML,+like+Gecko)+Chrome%2F146.0.0.0+Safari%2F537.36+Edg%2F146.0.0.0&browser_online=true&timezone_name=Asia%2FShanghai"
+    },
+    {
+      "body": {
+        "extra": {
+          "now": 1775390393000
+        },
+        "status_code": 0,
+        "status_msg": "",
+        "token": "1kakOUWBJBgGpFcmelbyDeCQX2IeJCdU2qjfZXoKxUEM3x6vM3lIPA",
+        "user_id": "701941369542569"
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390393185,
+      "url": "/aweme/v1/creator/im/user_token/?aid=2906&app_name=aweme_creator_platform&device_platform=web&referer=&user_agent=Mozilla%2F5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML,+like+Gecko)+Chrome%2F146.0.0.0+Safari%2F537.36+Edg%2F146.0.0.0&cookie_enabled=true&screen_width=1080&screen_height=1920&browser_language=zh-CN&browser_platform=Win32&browser_name=Mozilla&browser_version=5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML,+like+Gecko)+Chrome%2F146.0.0.0+Safari%2F537.36+Edg%2F146.0.0.0&browser_online=true&timezone_name=Asia%2FShanghai"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390395309
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390395087,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "extra": {
+          "now": 1775390395000
+        },
+        "sdk_cert": "-----BEGIN CERTIFICATE-----\nMIICGTCCAb6gAwIBAgIUS1bU3t2pXeqFhcGsGKN0KHuJDLwwCgYIKoZIzj0EAwIw\nMTELMAkGA1UEBhMCQ04xIjAgBgNVBAMMGXRpY2tldF9ndWFyZF9jYV9lY2RzYV8y\nNTYwHhcNMjYwNDA1MTE1OTU1WhcNMzYwNDA1MTk1OTU1WjAnMQswCQYDVQQGEwJD\nTjEYMBYGA1UEAwwPYmRfdGlja2V0X2d1YXJkMFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEVKyU/y4VfLKughGZhmZcOrn6Db9mFZHB2LpG5sWYkbrQE8Zer7B402jG\nM3q/0mxmU/bbYQIRTF44wmapv1BXBqOBvTCBujAOBgNVHQ8BAf8EBAMCBaAwMQYD\nVR0lBCowKAYIKwYBBQUHAwEGCCsGAQUFBwMCBggrBgEFBQcDAwYIKwYBBQUHAwQw\nKQYDVR0OBCIEIOf3weNELjM2MZP8U38TQndhPcmX27wMSIJieCMl/7SEMCsGA1Ud\nIwQkMCKAIDKlZ+qOZEgSjcxOTUB7cxSbR21TeqTRgNd5lJd7IkeDMB0GA1UdEQQW\nMBSCEmNyZWF0b3IuZG91eWluLmNvbTAKBggqhkjOPQQDAgNJADBGAiEAyMNgyNzq\nMjbX4og+vccuZSl9N5lq73nYCXRAGG4sGgYCIQCHidPr/mERXTRj3d///HNlTRQ2\nWbUpEETJnuNxgQebwA==\n-----END CERTIFICATE-----\n",
+        "status_code": 0,
+        "status_msg": "",
+        "token": "YSHGAwEBBwECBHHZQcsBZwFZuHWq7VBCQQa6lFUrUQ7LpCsCQkPAk2IFM4lsF/nPOIBNKklQqK+Ua4Tix/gXuTf/gC5kjx+X44c7rDRbjrM6sKP2Voi1owPCO+HAFGlabBB16QNdqKsYuyI=",
+        "ts_sign": "#8QoKx7GDeas7fIT4CUJ8fcfDM8mwHcTum8BFal7/JXwYyARasYxpFqXD7eBPyYUK7acriSJw+kgngtbiAvLsfYnJMoiWIOfjuTO+lY0ri7ABZj8MyYweYHd+vfQYmTNzEK0jhozzmX+jUIGJAHQnOOdXq293yilfEIMJYIT7eWT3pG1zHcQO+7thjEInxTtooen6LT++VIkMvggJlMzJ+8jhhpXlZc+dcyPzMVO7bZZzVBFJwK5RQm6rEwDDyf5B1n1A6axblbzSIDGlea+FvVVuWNlhPEYm+HdRQni/bRZyqxiSUq7qETyzuktLF3Hm59iq34t1NHWTU4bQ3CYWmyVHG8yPJRnJqIDpjWv5GGMu1JSDMsgF14UQSaoX6U3QRzmDsoemkQKwe96m+OwR2jEgUiY7NVu86JfARKOvSgCSJA4ow43jz+OH6UG6AmlTHd7aVhtUc0aGceFia3otUU48qYbZZq0JsV1bO+u9utxq9JnfefKwySkVLKfiPnYHbhWwrnBn9SrDHC2vjtJtNqB6rfw2gLxyeTxkJ3uCPMsEZjUxYQQU9Bb++DHIKWRfPiqdGtPQPpLv8nI7iD4YL2gitNiJBTU2U0PuY5+Gwft7sP8XOoCjG6yUoUR6Jy3eCOSO6p3xuip/V6xrHubmg5OAOV6DfxNcMVXA4sSWi8qOqUf4lMe1JD0g6eBKyBxFiJ4Ja7/FNfq0OIgerCLmb1lohTUOZ5aPfMoF/+ViL8yPmTeByabou90l1rqRj5rxjL+97JKFtcWpAfIJixpp5D2hu5SgngtyVoiisxRDbJnicJahTRGHBdtpxgRk5CncsKvWWk9NSybNpQv+ZJCKgx12rEgpQEUflAaLXWcs+kO6lGoD8flxx9sheHOSWR3wozs3LM/0ZouJhz0GdBm+zR7BgurDmS4DJjdydFaUl3xaVOI+v7ttpBSJ4Xq4WeftlV7S6LXRbNBT4amKIwEkDA4Ag5iVYToBe9YT1yOYOCU8YxLvDH4GiLoRHqwpVG5k/IBghQ0pxhGKy0tMastPe2kH24U0hAw/1BingKJs9X4faH9lqEnCyU7ZD3D5Fsbu0j86xpOKFhaTMzJZ6k7Ma7opJ/WB62oWtY8b26yMKvJNsTD6LXsPrWsDmrI+IY+OuKHURdYgfIDnixtyYFbNIct2qL3sT/PLPOdj9tkcKbdhnHuyEX6MV4aelxzEHvY+Wscv7NFjc09DKIMWhmenF7rcHQYjOXWD6DsOtNTnaeuiltNEDoBwLzWnjQ+7gw8i+Do=",
+        "user_id": "701941369542569"
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390395117,
+      "url": "/aweme/v1/creator/im/user_token/v2/?aid=2906&app_name=aweme_creator_platform&device_platform=web&referer=&user_agent=Mozilla%2F5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML,+like+Gecko)+Chrome%2F146.0.0.0+Safari%2F537.36+Edg%2F146.0.0.0&cookie_enabled=true&screen_width=1080&screen_height=1920&browser_language=zh-CN&browser_platform=Win32&browser_name=Mozilla&browser_version=5.0+(Windows+NT+10.0%3B+Win64%3B+x64)+AppleWebKit%2F537.36+(KHTML,+like+Gecko)+Chrome%2F146.0.0.0+Safari%2F537.36+Edg%2F146.0.0.0&browser_online=true&timezone_name=Asia%2FShanghai&certificate=LS0tLS1CRUdJTiBDRVJUSUZJQ0FURSBSRVFVRVNULS0tLS0NCk1JSUJFakNCdVFJQkFEQW5NUXN3Q1FZRFZRUUdFd0pEVGpFWU1CWUdBMVVFQXd3UFltUmZkR2xqYTJWMFgyZDENCllYSmtNRmt3RXdZSEtvWkl6ajBDQVFZSUtvWkl6ajBEQVFjRFFnQUVWS3lVL3k0VmZMS3VnaEdaaG1aY09ybjYNCkRiOW1GWkhCMkxwRzVzV1lrYnJRRThaZXI3QjQwMmpHTTNxLzBteG1VL2JiWVFJUlRGNDR3bWFwdjFCWEJxQXcNCk1DNEdDU3FHU0liM0RRRUpEakVoTUI4d0hRWURWUjBSQkJZd0ZJSVNZM0psWVhSdmNpNWtiM1Y1YVc0dVkyOXQNCk1Bb0dDQ3FHU000OUJBTUNBMGdBTUVVQ0lEYjJ0VGV6VWw1MWxRS1lYckFvbTZFbW00MHlZdHJrK2h4WjcxKzgNCjhQWHdBaUVBMUtLcGR3N3RXZlhRVDBFcFloQldFc1RvbFlXWjBwS2FHNWFsbGtWREdnST0NCi0tLS0tRU5EIENFUlRJRklDQVRFIFJFUVVFU1QtLS0tLQ0K"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390400535
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390400313,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390405329
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390405125,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390410377
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390410155,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390415321
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390415101,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390420336
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390420116,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "extra": {
+          "now": 1775390420000
+        },
+        "message_notice": null,
+        "status_code": 0,
+        "status_msg": ""
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390420191,
+      "url": "/aweme/v1/creator/user_message/notice/"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390425326
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390425105,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390430320
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390430102,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390435427
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390435204,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390440362
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390440160,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "data": {
+          "link_avatar_url": "",
+          "link_start_time": "0",
+          "link_status": 0,
+          "link_title": "",
+          "role": 0,
+          "room_avatar_url": "",
+          "room_id": "",
+          "room_status": 0,
+          "room_title": "",
+          "start_time": "0",
+          "sub_web_id_role": "1056",
+          "user_link_id": ""
+        },
+        "extra": {
+          "now": 1775390445355
+        },
+        "message": "success",
+        "status_code": 0
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390445131,
+      "url": "/webcast/api/platform_following/outside/room/v1/live_status"
+    },
+    {
+      "body": {
+        "extra": {
+          "now": 1775390449000
+        },
+        "status_code": 0,
+        "status_msg": ""
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390449144,
+      "url": "/aweme/v1/creator/msg/top"
+    },
+    {
+      "body": {
+        "extra": {
+          "now": 1775390451000
+        },
+        "message_notice": null,
+        "status_code": 0,
+        "status_msg": ""
+      },
+      "method": "GET",
+      "status": null,
+      "ts": 1775390451068,
+      "url": "/aweme/v1/creator/user_message/notice/"
+    }
+  ]
+}

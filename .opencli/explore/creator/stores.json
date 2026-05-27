@@ -1,0 +1,18 @@
+[
+  {
+    "actions": [
+      "registerAuthPermission",
+      "setAuthPermissionState",
+      "setAuthPermissionRes",
+      "resetAuthPermission",
+      "setUserInfo",
+      "resetUserInfo"
+    ],
+    "id": "Auth",
+    "stateKeys": [
+      "permission",
+      "userInfo"
+    ],
+    "type": "vuex"
+  }
+]

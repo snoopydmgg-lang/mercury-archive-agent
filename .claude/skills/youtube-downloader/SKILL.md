@@ -30,20 +30,18 @@ description: 从 YouTube 下载视频素材到对应项目文件夹。支持整�
 
 **输出目录**: `01_Projects_制作中/{产品名}/01_素材_试用装/`
 
-**Cookie 文件**：始终使用 `--cookies "06_Python Scripts/06_工具/youtube_cookies.txt"`，解决登录墙和年龄限制。
+**配置文件**：`~\AppData\Roaming\yt-dlp\config` 已配置 `--js-runtimes node` 和 `--cookies`，无需每次手动传。
 
 **整集下载命令**:
 ```powershell
-yt-dlp --cookies "06_Python Scripts/06_工具/youtube_cookies.txt" `
-  -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" `
+yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" `
   -o "01_Projects_制作中/{产品名}/01_素材_试用装/%(title)s.%(ext)s" `
   "{URL}"
 ```
 
 **片段截取命令**（yt-dlp 自带 `--download-sections`，需要 ffmpeg）:
 ```powershell
-yt-dlp --cookies "06_Python Scripts/06_工具/youtube_cookies.txt" `
-  -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" `
+yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" `
   -o "01_Projects_制作中/{产品名}/01_素材_试用装/%(title)s.%(ext)s" `
   --download-sections "*{开始时间}-{结束时间}" `
   "{URL}"

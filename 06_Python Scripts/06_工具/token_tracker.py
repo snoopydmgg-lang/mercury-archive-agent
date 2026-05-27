@@ -43,13 +43,39 @@ PRICING = {
         "currency": "RMB",
         "note": "DeepSeek V4 Pro 2.5折优惠价 (原价 ¥12/¥24/¥0.1), 有效期至 2026/05/31"
     },
+    "mimo-v2.5": {
+        "input": 3.50,
+        "output": 10.50,
+        "cache_hit": 0.50,
+        "currency": "RMB",
+        "note": "MiMo V2.5 (非Pro), xiaomimimo.com 定价"
+    },
+    "mimo-v2.5-pro": {
+        "input": 7.00,
+        "output": 21.00,
+        "cache_hit": 1.00,
+        "currency": "RMB",
+        "note": "MiMo V2.5 Pro, xiaomimimo.com 定价 (≤256K); 超256K翻倍"
+    },
+    "mimo-v2-flash": {
+        "input": 0.50,
+        "output": 1.50,
+        "cache_hit": 0.02,
+        "currency": "RMB",
+        "note": "MiMo V2 Flash (Haiku级)"
+    },
 }
 
-DEFAULT_MODEL = "deepseek-v4-pro"
+DEFAULT_MODEL = "mimo-v2.5"
 
 MODEL_ALIAS_MAP = {
-    "claude-opus-4-7": "deepseek-v4-pro",
+    "claude-opus-4-7": "mimo-v2.5-pro",
+    "claude-sonnet-4-6": "mimo-v2.5",
+    "claude-haiku-4-5": "mimo-v2-flash",
     "deepseek-v4-pro": "deepseek-v4-pro",
+    "mimo-v2.5": "mimo-v2.5",
+    "mimo-v2.5-pro": "mimo-v2.5-pro",
+    "mimo-v2-flash": "mimo-v2-flash",
 }
 
 CACHE_VERSION = 3

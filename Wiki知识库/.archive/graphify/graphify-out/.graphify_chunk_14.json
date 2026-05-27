@@ -1,0 +1,1177 @@
+{
+  "nodes": [
+    {
+      "id": "video_management_dashboard",
+      "label": "Douyin Video Management Dashboard",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/06_媒体资源/视频管理.md",
+      "source_location": null,
+      "source_url": "https://buyin.jinritemai.com/dashboard/short-video-diagnosis",
+      "captured_at": "2026-04-26",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_model_combined_report_v2.3",
+      "label": "AI Large Model and CodeSOME Combined Analysis Report v2.3",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-05-02",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_v4_vs_claude_4.6",
+      "label": "DeepSeek-V4 vs Claude-4.6 Comparison Analysis",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-24",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_v4_preview_article",
+      "label": "DeepSeek-V4 Preview: Entering the Era of Million-Context Accessibility",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 预览版：迈入百万上下文普惠时代.md",
+      "source_location": null,
+      "source_url": "https://mp.weixin.qq.com/s/8bxXqS2R8Fx5-1TLDBiEDg",
+      "captured_at": "2026-04-24",
+      "author": "[[深度求索]]",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_api_docs_index",
+      "label": "DeepSeek API Documentation Index",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_api_chat_completion",
+      "label": "DeepSeek Chat Completions API",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_create_chat_completion.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/api/create-chat-completion",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_api_completion",
+      "label": "DeepSeek FIM Completions API (Beta)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_create_completion.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/api/create-completion",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_api_overview",
+      "label": "DeepSeek API Overview",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_deepseek_api.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/api/deepseek-api",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_api_user_balance",
+      "label": "DeepSeek API User Balance Query",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_get_user_balance.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/api/get-user-balance",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_api_list_models",
+      "label": "DeepSeek API List Models",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_list_models.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/api/list-models",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_faq",
+      "label": "DeepSeek API FAQ",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/faq.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/faq",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_anthropic_api",
+      "label": "DeepSeek Anthropic API Compatibility Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_anthropic_api.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/anthropic_api",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_chat_prefix_completion",
+      "label": "DeepSeek Chat Prefix Completion Guide (Beta)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_chat_prefix_completion.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/chat_prefix_completion",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_coding_agents",
+      "label": "DeepSeek Agent Tools Integration Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_coding_agents.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/coding_agents",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_fim_completion",
+      "label": "DeepSeek FIM Completion Guide (Beta)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_fim_completion.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/fim_completion",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_json_mode",
+      "label": "DeepSeek JSON Output Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_json_mode.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/json_mode",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_kv_cache",
+      "label": "DeepSeek KV Cache (Hard Disk Cache) Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_kv_cache.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/kv_cache",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_multi_round_chat",
+      "label": "DeepSeek Multi-Round Chat Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_multi_round_chat.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/multi_round_chat",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_thinking_mode",
+      "label": "DeepSeek Thinking Mode Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_thinking_mode.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/thinking_mode",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_guide_tool_calls",
+      "label": "DeepSeek Tool Calls Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_tool_calls.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/tool_calls",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_docs_quickstart",
+      "label": "DeepSeek API Quickstart Guide",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/index.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_news_api_upgrade",
+      "label": "DeepSeek API Upgrade: Completion, FIM, Function Calling, JSON Output",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/news_news0725.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/news/news0725",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "model_kimi_k2.6",
+      "label": "Kimi K2.6",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "source_url": null,
+      "captured_at": "2026-04-20",
+      "author": "Moonshot AI",
+      "contributor": null
+    },
+    {
+      "id": "model_mimo_v2.5_pro",
+      "label": "MiMo V2.5 Pro",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "source_url": null,
+      "captured_at": "2026-04-22",
+      "author": "Xiaomi",
+      "contributor": null
+    },
+    {
+      "id": "model_deepseek_v4_pro",
+      "label": "DeepSeek V4 Pro",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "source_url": null,
+      "captured_at": "2026-04-24",
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "model_deepseek_v4_flash",
+      "label": "DeepSeek V4 Flash",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "source_url": null,
+      "captured_at": "2026-04-24",
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "model_claude_opus_4.7",
+      "label": "Claude Opus 4.7",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "source_url": null,
+      "captured_at": "2026-04-16",
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "codesome_platform",
+      "label": "CodeSOME API Relay Platform",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: CodeSOME usage data",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dual_model_strategy",
+      "label": "Dual-Model Minimalist Strategy (MiMo + DeepSeek)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Recommended model configuration",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mimo_token_plan",
+      "label": "MiMo Token Plan Subscription",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: MiMo subscription pricing",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Xiaomi",
+      "contributor": null
+    },
+    {
+      "id": "mercury_art_museum_workflow",
+      "label": "Mercury Art Museum 10-Step Workflow",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Workflow model matching",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_v4_pro_max",
+      "label": "DeepSeek V4 Pro Max",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": "Section: Model performance comparison",
+      "source_url": null,
+      "captured_at": "2026-04-24",
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "claude_opus_4.6",
+      "label": "Claude Opus 4.6",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": "Section: Model performance comparison",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "claude_sonnet_4.6",
+      "label": "Claude Sonnet 4.6",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": "Section: Model performance comparison",
+      "source_url": null,
+      "captured_at": null,
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "dsa_sparse_attention",
+      "label": "DeepSeek Sparse Attention (DSA)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 预览版：迈入百万上下文普惠时代.md",
+      "source_location": "Section: Architecture innovation",
+      "source_url": null,
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_thinking_mode",
+      "label": "DeepSeek Thinking Mode (reasoning_effort)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_thinking_mode.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/thinking_mode",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_kvcache_system",
+      "label": "DeepSeek KV Cache Disk System",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_kv_cache.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/kv_cache",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_tool_calls",
+      "label": "DeepSeek Tool Calls (Function Calling)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_tool_calls.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/tool_calls",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_fim_completion",
+      "label": "DeepSeek FIM Fill-In-the-Middle Completion",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_fim_completion.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/fim_completion",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_json_output",
+      "label": "DeepSeek JSON Output Mode",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_json_mode.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/json_mode",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "deepseek_anthropic_compatibility",
+      "label": "DeepSeek Anthropic API Compatibility Layer",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_anthropic_api.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/anthropic_api",
+      "captured_at": null,
+      "author": "DeepSeek",
+      "contributor": null
+    },
+    {
+      "id": "douyin_banyuandao_book",
+      "label": "Ban Yuan Dao (Layout Design Book) Product",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/06_媒体资源/视频管理.md",
+      "source_location": "Multiple video entries",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_gongqijun_book",
+      "label": "Miyazaki Hayao (Ghibli Art Book) Product",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/06_媒体资源/视频管理.md",
+      "source_location": "Multiple video entries",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "model_kimi_k2.6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "model_mimo_v2.5_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "model_deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "model_deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "model_claude_opus_4.7",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model specs table",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "codesome_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: CodeSOME usage data",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "dual_model_strategy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Recommended model configuration",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "mimo_token_plan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: MiMo subscription pricing",
+      "weight": 1.0
+    },
+    {
+      "source": "ai_model_combined_report_v2.3",
+      "target": "mercury_art_museum_workflow",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Workflow model matching",
+      "weight": 1.0
+    },
+    {
+      "source": "dual_model_strategy",
+      "target": "model_mimo_v2.5_pro",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dual_model_strategy",
+      "target": "model_deepseek_v4_flash",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mimo_token_plan",
+      "target": "model_mimo_v2.5_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_vs_claude_4.6",
+      "target": "model_deepseek_v4_pro_max",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": "Section: Model performance comparison",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_vs_claude_4.6",
+      "target": "claude_opus_4.6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": "Section: Model performance comparison",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_vs_claude_4.6",
+      "target": "claude_sonnet_4.6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": "Section: Model performance comparison",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_vs_claude_4.6",
+      "target": "deepseek_v4_preview_article",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 vs Claude-4.6 对比分析.md",
+      "source_location": "References section",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_preview_article",
+      "target": "dsa_sparse_attention",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 预览版：迈入百万上下文普惠时代.md",
+      "source_location": "Section: Architecture innovation",
+      "weight": 1.0
+    },
+    {
+      "source": "model_deepseek_v4_pro",
+      "target": "dsa_sparse_attention",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/AI模型对比/DeepSeek-V4 预览版：迈入百万上下文普惠时代.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_api_chat_completion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 1",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_api_completion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 2",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_api_overview",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 3",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_api_user_balance",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 4",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_api_list_models",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 5",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_faq",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 6",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_anthropic_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 7",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_chat_prefix_completion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 8",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_coding_agents",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 9",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_fim_completion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 10",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_json_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 11",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_kv_cache",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 12",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_multi_round_chat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 13",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_thinking_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 14",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_guide_tool_calls",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 15",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_news_api_upgrade",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 16",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_docs_index",
+      "target": "deepseek_docs_quickstart",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md",
+      "source_location": "Table row 52",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_anthropic_api",
+      "target": "deepseek_anthropic_compatibility",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_anthropic_api.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_thinking_mode",
+      "target": "deepseek_thinking_mode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_thinking_mode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_kv_cache",
+      "target": "deepseek_kvcache_system",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_kv_cache.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_tool_calls",
+      "target": "deepseek_tool_calls",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_tool_calls.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_fim_completion",
+      "target": "deepseek_fim_completion",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_fim_completion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_json_mode",
+      "target": "deepseek_json_output",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_json_mode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_coding_agents",
+      "target": "deepseek_anthropic_compatibility",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_coding_agents.md",
+      "source_location": "Section: Claude Code integration",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_thinking_mode",
+      "target": "deepseek_tool_calls",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_thinking_mode.md",
+      "source_location": "Section: Tool calls in thinking mode",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_thinking_mode",
+      "target": "deepseek_guide_multi_round_chat",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_thinking_mode.md",
+      "source_location": "Section: Multi-round chat splicing",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_chat_prefix_completion",
+      "target": "deepseek_api_chat_completion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_chat_prefix_completion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_guide_fim_completion",
+      "target": "deepseek_api_completion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_fim_completion.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_docs_quickstart",
+      "target": "deepseek_guide_coding_agents",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/index.md",
+      "source_location": "Section: Agent tools",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_docs_quickstart",
+      "target": "deepseek_guide_anthropic_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/index.md",
+      "source_location": "Section: API format",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_news_api_upgrade",
+      "target": "deepseek_json_output",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/news_news0725.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_news_api_upgrade",
+      "target": "deepseek_tool_calls",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/news_news0725.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_news_api_upgrade",
+      "target": "deepseek_fim_completion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/news_news0725.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_platform",
+      "target": "model_claude_opus_4.7",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: CodeSOME usage data",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_chat_completion",
+      "target": "model_deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_create_chat_completion.md",
+      "source_location": "Section: Request body, model field",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_chat_completion",
+      "target": "model_deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_create_chat_completion.md",
+      "source_location": "Section: Request body, model field",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_completion",
+      "target": "model_deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/api_create_completion.md",
+      "source_location": "Section: Request body, model field",
+      "weight": 1.0
+    },
+    {
+      "source": "video_management_dashboard",
+      "target": "douyin_banyuandao_book",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/06_媒体资源/视频管理.md",
+      "source_location": "Multiple video entries about layout design",
+      "weight": 1.0
+    },
+    {
+      "source": "video_management_dashboard",
+      "target": "douyin_gongqijun_book",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/06_媒体资源/视频管理.md",
+      "source_location": "Multiple video entries about Miyazaki",
+      "weight": 1.0
+    },
+    {
+      "source": "mercury_art_museum_workflow",
+      "target": "video_management_dashboard",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/06_媒体资源/视频管理.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "model_kimi_k2.6",
+      "target": "model_mimo_v2.5_pro",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model comparison",
+      "weight": 1.0
+    },
+    {
+      "source": "model_kimi_k2.6",
+      "target": "model_deepseek_v4_pro",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model comparison",
+      "weight": 1.0
+    },
+    {
+      "source": "model_mimo_v2.5_pro",
+      "target": "model_deepseek_v4_pro",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": "Section: Model comparison",
+      "weight": 1.0
+    },
+    {
+      "source": "model_claude_opus_4.7",
+      "target": "claude_opus_4.6",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_thinking_mode",
+      "target": "deepseek_tool_calls",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_thinking_mode.md",
+      "source_location": "Section: Tool calls in thinking mode",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_anthropic_compatibility",
+      "target": "deepseek_guide_coding_agents",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_anthropic_api.md",
+      "source_location": "Section: Claude Code integration",
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_kvcache_system",
+      "target": "deepseek_api_chat_completion",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_kv_cache.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deepseek_api_feature_set",
+      "label": "DeepSeek API Feature Set",
+      "nodes": [
+        "deepseek_thinking_mode",
+        "deepseek_tool_calls",
+        "deepseek_fim_completion",
+        "deepseek_json_output",
+        "deepseek_kvcache_system"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/docs_index.md"
+    },
+    {
+      "id": "ai_model_comparison_2026_q2",
+      "label": "2026 Q2 AI Model Comparison",
+      "nodes": [
+        "model_kimi_k2.6",
+        "model_mimo_v2.5_pro",
+        "model_deepseek_v4_pro",
+        "model_deepseek_v4_flash",
+        "model_claude_opus_4.7"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/20260502_ai_model_codesome_combined_report_v2.3.md"
+    },
+    {
+      "id": "deepseek_agent_tool_integrations",
+      "label": "DeepSeek Agent Tool Integrations",
+      "nodes": [
+        "deepseek_guide_coding_agents",
+        "deepseek_anthropic_compatibility",
+        "deepseek_thinking_mode",
+        "deepseek_tool_calls"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/guides_coding_agents.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -29,7 +29,7 @@ from datetime import datetime
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 # ── 路径配置 ──────────────────────────────────────────────────────────────────
-BASE       = Path(__file__).parent.parent.parent / "03_Assets_全局库"
+BASE       = Path(__file__).parent.parent.parent / "Wiki知识库"
 WIKI_ROOT  = BASE / "wiki"
 RAW_ROOT   = BASE / "raw"
 INDEX_FILE = BASE / "index.md"

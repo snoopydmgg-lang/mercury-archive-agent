@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "ccfb452bd15d6ad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "493cc1094dcb3f82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8f123b10eadb24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects_制作中/有兽焉/01_文案脚本/0522-有兽焉-三套文案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0522-有兽焉-三套文案"
+            }
+          },
+          {
+            "id": "50e86c6a62c34a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_InBox_收件箱/指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "指令"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61dd9c355dcd56fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede3500e1b782308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b961f84a747e9d2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "679a8ca7f560c239",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4d5bfd50150a4797",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "99bc8d696e93af11",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1878ea8f27be99c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c846872c58c25dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "340a2d9271bf5c92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "351555134683da6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "34fec1dbe136259a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d2cda83b85da23e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_InBox_收件箱/指令.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "指令 的大纲"
+            }
+          },
+          {
+            "id": "f0f56e7c1a49c0c4",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 549.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "50e86c6a62c34a8d",
+  "lastOpenFiles": [
+    "00_InBox_收件箱/opencode-tokens-command-开发计划.md",
+    "00_InBox_收件箱/指令.md",
+    "个人治疗方案.md",
+    "CLAUDE.md",
+    "01_Projects_制作中/有兽焉/01_文案脚本/0522-有兽焉-三套文案.md",
+    "Wiki知识库/wiki/个人/个人治疗方案.md",
+    "06_Python Scripts/07_Todoist/add_foot_plan.py",
+    "06_Python Scripts/07_Todoist/cleanup_tasks.py",
+    "06_Python Scripts/07_Todoist/create_treatment_plan.py",
+    "00_InBox_收件箱/opencode-tokens-command-开发计划.md.tmp.6520.606b7d540534",
+    "00_InBox_收件箱/opencode-tokens-command-开发计划.md.tmp.6520.e97f319146e9",
+    "00_InBox_收件箱/opencode-tokens-command-开发计划.md.tmp.6520.ffdf1f7638e1",
+    "00_InBox_收件箱/opencode-tokens-command-开发计划.md.tmp.6520.b5b4d62853cf",
+    "00_InBox_收件箱/opencode-tokens-command-开发计划.md.tmp.6520.1bf8a29a09a6",
+    "06_Python Scripts/06_工具/opencode_tokens.py.tmp.6520.a2710d3acc0e",
+    "06_Python Scripts/06_工具/opencode_tokens.py.tmp.6520.95a315223969",
+    "学习课题/抖音5秒完播率提升/04.md",
+    "学习课题/抖音5秒完播率提升/01.md",
+    "01_Projects_制作中/版式之道/02_脚本_逻辑链/20260414-版式之道-三套文案-DBS优化版.md",
+    "01_Projects_制作中/版式之道/02_脚本_逻辑链/0414-版式之道-重写文案v2.md",
+    "01_Projects_制作中/版式之道/02_脚本_逻辑链/0414-004428-1.md",
+    "01_Projects_制作中/版式之道/01_文案脚本/0426-版式之道-风格1文案.md",
+    "学习课题/抖音5秒完播率提升/03.md",
+    "学习课题/抖音5秒完播率提升/02.md",
+    "学习课题/抖音5秒完播率提升/00-学习计划.md",
+    "学习课题/实拍产品与视频剪辑调色/00-学习计划.md",
+    "学习课题/INDEX.md",
+    "学习课题/实拍产品与视频剪辑调色/03.md",
+    "学习课题/实拍产品与视频剪辑调色/问题.md",
+    "学习课题/实拍产品与视频剪辑调色/04.md",
+    "学习课题/实拍产品与视频剪辑调色/01.md",
+    "Clippings/云顶大数据  资料库 1.md",
+    "06_Python Scripts/04_数据分析/tft_db/TFT_Set17_策略报告.md",
+    "Clippings/云顶大数据  资料库.md",
+    "Clippings/云顶大数据 7.md",
+    "Clippings/云顶大数据 6.md",
+    "01_Projects_制作中/有兽焉/01_素材_试用装/0524-有兽焉-素材b站截图.png",
+    "00_InBox_收件箱/0524-有兽焉-素材b站截图.png",
+    "01_Projects_制作中/版式之道/00_封面设计/00_封面设计/20260414-版式之道-封面-豆包.png",
+    "01_Projects_制作中/版式之道/00_封面设计/00_封面设计/0415-版式之道-封面02.png",
+    "01_Projects_制作中/版式之道/00_封面设计/00_封面设计/0415-版式之道-封面01-v2.png",
+    "01_Projects_制作中/版式之道/00_封面设计/0415-版式之道-封面01.png",
+    "01_Projects_制作中/版式之道/01_素材_试用装/01_素材_钩子/_frames/ws_90s.jpg",
+    "01_Projects_制作中/版式之道/01_素材_试用装/01_素材_钩子/_frames/ws_840s.jpg",
+    "01_Projects_制作中/版式之道/01_素材_试用装/01_素材_钩子/_frames/ws_780s.jpg",
+    "01_Projects_制作中/版式之道/01_素材_试用装/01_素材_钩子/_frames/ws_720s.jpg",
+    "memory/未命名.canvas"
+  ]
+}

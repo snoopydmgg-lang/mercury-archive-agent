@@ -1,0 +1,728 @@
+{
+  "nodes": [
+    {
+      "id": "deepseek_api_platform",
+      "label": "DeepSeek API Platform",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_v4_pro",
+      "label": "DeepSeek V4 Pro",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_v4_flash",
+      "label": "DeepSeek V4 Flash",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "langcli_agent",
+      "label": "Langcli",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_langcli.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/langcli",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nanobot_agent",
+      "label": "Nanobot",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_nanobot.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/nanobot",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "oh_my_pi_agent",
+      "label": "Oh My Pi",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_oh_my_pi.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/oh_my_pi",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openclaw_agent",
+      "label": "OpenClaw",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_openclaw.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/openclaw",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "opencode_agent",
+      "label": "OpenCode",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_opencode.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/opencode",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "pi_mono_agent",
+      "label": "Pi (pi-mono)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_pi_mono.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/pi_mono",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "reasonix_agent",
+      "label": "Reasonix",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_reasonix.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/reasonix",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "workbuddy_agent",
+      "label": "WorkBuddy/CodeBuddy",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_workbuddy.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/workbuddy",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_error_codes",
+      "label": "DeepSeek Error Codes",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_error_codes.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/error_codes",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_pricing",
+      "label": "DeepSeek Pricing",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_rate_limit",
+      "label": "DeepSeek Rate Limiting",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_rate_limit.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/quick_start/rate_limit",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_changelog",
+      "label": "DeepSeek Changelog",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/updates.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kimi_platform",
+      "label": "Kimi Platform (Moonshot AI)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "source_url": "https://platform.kimi.com/docs/overview",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kimi_k25_model",
+      "label": "Kimi K2.5 Model",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "source_url": "https://platform.kimi.com/docs/models",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kimi_api_overview",
+      "label": "Kimi API Overview",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/markdown/api_overview.md",
+      "source_location": null,
+      "source_url": "https://platform.kimi.com/docs/api/overview",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kimi_doc_index",
+      "label": "Kimi Documentation Index",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "source_url": "https://platform.kimi.com/docs/sitemap.xml",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "modelscope_mcp_server",
+      "label": "ModelScope MCP Server",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/markdown/guide_configure_the_modelscope_mcp_server.md",
+      "source_location": null,
+      "source_url": "https://platform.kimi.com/docs/guide/configure-the-modelscope-mcp-server",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_thinking_mode",
+      "label": "DeepSeek Thinking Mode",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/thinking_mode",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deepseek_tool_calls",
+      "label": "DeepSeek Tool Calls",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "source_url": "https://api-docs.deepseek.com/zh-cn/guides/tool_calls",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "deepseek_v4_pro",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_flash",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_pro",
+      "target": "deepseek_thinking_mode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_flash",
+      "target": "deepseek_thinking_mode",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_pro",
+      "target": "deepseek_tool_calls",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_flash",
+      "target": "deepseek_tool_calls",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "langcli_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_langcli.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nanobot_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_nanobot.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oh_my_pi_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_oh_my_pi.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openclaw_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_openclaw.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencode_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_opencode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pi_mono_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_pi_mono.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reasonix_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_reasonix.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "workbuddy_agent",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_workbuddy.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "langcli_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_langcli.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "nanobot_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_nanobot.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oh_my_pi_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_oh_my_pi.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oh_my_pi_agent",
+      "target": "deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_oh_my_pi.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openclaw_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_openclaw.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opencode_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_opencode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pi_mono_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_pi_mono.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "pi_mono_agent",
+      "target": "deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_pi_mono.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reasonix_agent",
+      "target": "deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_reasonix.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reasonix_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_reasonix.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "workbuddy_agent",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_workbuddy.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "workbuddy_agent",
+      "target": "deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_workbuddy.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_pricing",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_rate_limit",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_rate_limit.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_error_codes",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_error_codes.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_changelog",
+      "target": "deepseek_api_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/updates.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_changelog",
+      "target": "deepseek_v4_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/updates.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_changelog",
+      "target": "deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/updates.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kimi_platform",
+      "target": "kimi_k25_model",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kimi_api_overview",
+      "target": "kimi_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/markdown/api_overview.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kimi_doc_index",
+      "target": "kimi_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kimi_doc_index",
+      "target": "kimi_k25_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kimi_doc_index",
+      "target": "modelscope_mcp_server",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_v4_pro",
+      "target": "deepseek_v4_flash",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deepseek_api_platform",
+      "target": "kimi_platform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kimi_k25_model",
+      "target": "deepseek_v4_pro",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/AI模型对比/kimi_docs/docs_index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "reasonix_agent",
+      "target": "deepseek_thinking_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_reasonix.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "oh_my_pi_agent",
+      "target": "deepseek_thinking_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_oh_my_pi.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openclaw_agent",
+      "target": "deepseek_v4_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_openclaw.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "deepseek_agent_ecosystem",
+      "label": "DeepSeek Agent Integration Ecosystem",
+      "nodes": [
+        "langcli_agent",
+        "nanobot_agent",
+        "oh_my_pi_agent",
+        "openclaw_agent",
+        "opencode_agent",
+        "pi_mono_agent",
+        "reasonix_agent",
+        "workbuddy_agent"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_agent_integrations_langcli.md"
+    },
+    {
+      "id": "deepseek_model_family",
+      "label": "DeepSeek V4 Model Family",
+      "nodes": [
+        "deepseek_v4_pro",
+        "deepseek_v4_flash",
+        "deepseek_thinking_mode",
+        "deepseek_tool_calls"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md"
+    },
+    {
+      "id": "deepseek_api_infrastructure",
+      "label": "DeepSeek API Infrastructure",
+      "nodes": [
+        "deepseek_api_platform",
+        "deepseek_pricing",
+        "deepseek_rate_limit",
+        "deepseek_error_codes"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/AI模型对比/deepseek_docs/markdown/quick_start_pricing.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

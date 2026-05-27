@@ -1,0 +1,141 @@
+/* 水星艺术馆 Obsidian 主题 - 强制覆盖版 */
+
+:root {
+  --background-primary: #F5F4F0 !important;
+  --background-primary-alt: #EDECEA !important;
+  --background-secondary: #EBEAE6 !important;
+  --background-secondary-alt: #E3E2DE !important;
+  --background-modifier-border: #D5D3CF !important;
+  --background-modifier-form-field: #EDECEA !important;
+  --background-modifier-box-shadow: rgba(45, 43, 42, 0.05) !important;
+  --background-modifier-success: #D36B4D !important;
+  --background-modifier-error: #C44D3D !important;
+  --background-modifier-error-rgb: 196, 77, 61 !important;
+  --background-modifier-message: #EDECEA !important;
+
+  --text-normal: #2D2B2A !important;
+  --text-muted: #6B6866 !important;
+  --text-faint: #9B9794 !important;
+  --text-on-accent: #F5F4F0 !important;
+  --text-error: #C44D3D !important;
+  --text-success: #D36B4D !important;
+
+  --interactive-normal: #EDECEA !important;
+  --interactive-hover: #E3E2DE !important;
+  --interactive-active: #D36B4D !important;
+  --interactive-accent: #D36B4D !important;
+  --interactive-accent-hover: #BF5E42 !important;
+  --interactive-success: #D36B4D !important;
+
+  --nav-item-color: #2D2B2A !important;
+  --nav-item-color-hover: #D36B4D !important;
+  --nav-item-background-hover: #EDECEA !important;
+  --nav-item-background-active: #E3E2DE !important;
+
+  --tab-text-color: #6B6866 !important;
+  --tab-text-color-focused: #2D2B2A !important;
+  --tab-text-color-hover: #D36B4D !important;
+  --tab-background: #EBEAE6 !important;
+  --tab-background-active: #F5F4F0 !important;
+
+  --tag-background: #D36B4D !important;
+  --tag-background-hover: #BF5E42 !important;
+  --tag-text: #F5F4F0 !important;
+
+  --link-color: #D36B4D !important;
+  --link-color-hover: #BF5E42 !important;
+  --link-unresolved-color: #9B9794 !important;
+
+  --graph-node: #D36B4D !important;
+  --graph-line: #D5D3CF !important;
+  --graph-node-focused: #BF5E42 !important;
+
+  --selection: rgba(211, 107, 77, 0.15) !important;
+  --text-highlight-bg: rgba(211, 107, 77, 0.15) !important;
+
+  --input-background: #EDECEA !important;
+  --input-border: #D5D3CF !important;
+  --input-border-hover: #D36B4D !important;
+  --input-border-focus: #D36B4D !important;
+
+  --scrollbar-bg: #EBEAE6 !important;
+  --scrollbar-thumb-bg: #D5D3CF !important;
+  --scrollbar-thumb-bg-hover: #D36B4D !important;
+
+  --blockquote-border-color: #D36B4D !important;
+  --code-background: #EDECEA !important;
+  --hr-color: #D5D3CF !important;
+
+  --heading-color: #2D2B2A !important;
+}
+
+/* 直接覆盖元素背景 */
+.app-container,
+.workspace,
+.workspace-leaf,
+.view-content,
+.markdown-preview-view,
+.markdown-source-view,
+.nav-header,
+.workspace-tab-header-container,
+.status-bar {
+  background-color: #F5F4F0 !important;
+  color: #2D2B2A !important;
+}
+
+.nav-folder-title,
+.nav-file-title {
+  color: #2D2B2A !important;
+}
+
+/* 去除多余阴影 */
+.workspace-leaf-resize-handle,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+  text-shadow: none !important;
+}
+
+.nav-header,
+.workspace-tab-header {
+  box-shadow: none !important;
+}
+
+/* 表格样式 */
+.markdown-preview-view table {
+  border: 1px solid #D5D3CF !important;
+}
+.markdown-preview-view table th {
+  background: #EBEAE6 !important;
+  font-weight: 600;
+}
+.markdown-preview-view table td,
+.markdown-preview-view table th {
+  border: 1px solid #D5D3CF !important;
+  padding: 6px 10px;
+}
+.markdown-preview-view table tr:nth-child(even) {
+  background: #EDECEA !important;
+}
+
+/* 链接颜色 */
+.internal-link,
+.markdown-preview-view a {
+  color: #D36B4D !important;
+}
+
+/* 标签 */
+.tag {
+  background: #D36B4D !important;
+  color: #F5F4F0 !important;
+}
+
+/* 滚动条 */
+.scrollbar-track-h,
+.scrollbar-track-v {
+  background: #EBEAE6 !important;
+}
+.scrollbar-track-h .scrollbar-thumb,
+.scrollbar-track-v .scrollbar-thumb {
+  background: #D5D3CF !important;
+}

@@ -1,0 +1,16 @@
+{
+  "site": "weixin",
+  "target_url": "https://weixin.qq.com",
+  "final_url": "https://weixin.qq.com/",
+  "title": "微信，是一个生活方式",
+  "framework": {
+    "nextjs": false,
+    "nuxt": true,
+    "react": false,
+    "vue2": false,
+    "vue3": false
+  },
+  "stores": [],
+  "top_strategy": "public",
+  "explored_at": "2026-04-05T14:13:46.972Z"
+}

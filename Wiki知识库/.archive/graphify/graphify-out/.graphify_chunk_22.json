@@ -1,0 +1,931 @@
+{
+  "nodes": [
+    {
+      "id": "dontbesilent_025_solo_company",
+      "label": "一人公司",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/025_一人公司只是表壳，你真正想要的是不那么累地赚钱 一人公司 裸辞 不上班.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_025_productive_interest",
+      "label": "生产型兴趣",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/025_一人公司只是表壳，你真正想要的是不那么累地赚钱 一人公司 裸辞 不上班.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_025_work_life_boundary",
+      "label": "工作生活边界模糊",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/025_一人公司只是表壳，你真正想要的是不那么累地赚钱 一人公司 裸辞 不上班.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_026_emotion_deficit",
+      "label": "情绪无能即生产力",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/026_情绪上的无能，是我的第一生产力 情绪 创业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_026_market_signal",
+      "label": "市场信号处理",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/026_情绪上的无能，是我的第一生产力 情绪 创业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_026_feedback_not_positive_negative",
+      "label": "反馈不分正负分左右",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/026_情绪上的无能，是我的第一生产力 情绪 创业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_027_business_model",
+      "label": "商业模式决定赚钱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/027_善良的李亚鹏，30 年为什么赚不到钱 李亚鹏 赚钱 商业模式.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_027_li_yapeng",
+      "label": "李亚鹏案例",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/027_善良的李亚鹏，30 年为什么赚不到钱 李亚鹏 赚钱 商业模式.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_027_network_not_enough",
+      "label": "人脉不能兑换为钱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/027_善良的李亚鹏，30 年为什么赚不到钱 李亚鹏 赚钱 商业模式.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_028_ai_hollowing",
+      "label": "AI掏空工作",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/028_AI 不会让你失业，但会让你的工作变 low AI失业 AI 失业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_028_digitalization_risk",
+      "label": "数字化程度决定工作安全",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/028_AI 不会让你失业，但会让你的工作变 low AI失业 AI 失业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_029_no_burnout_earning",
+      "label": "不内耗赚钱方式",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/029_3 个月，我设计出了一种不内耗的赚钱方式 内耗 第一桶金 年入百万 创业 辞职.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_029_self_determination_theory",
+      "label": "自我决定理论",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/029_3 个月，我设计出了一种不内耗的赚钱方式 内耗 第一桶金 年入百万 创业 辞职.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_029_three_layer_feedback",
+      "label": "三层正反馈设计",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/029_3 个月，我设计出了一种不内耗的赚钱方式 内耗 第一桶金 年入百万 创业 辞职.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_030_event_based_wealth",
+      "label": "事本位思维",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/030_读完几百本书，终于知道富人穷人到底差在哪 富人 富人思维 商业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_030_intermediate_variables",
+      "label": "中间变量vs直接因素",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/030_读完几百本书，终于知道富人穷人到底差在哪 富人 富人思维 商业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_031_xhs_paid_notes",
+      "label": "小红书付费笔记变现效率低",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/031_小红书付费笔记功能，注定变现效率会极低 小红书 自媒体 商业模式.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_031_traffic_vs_monetization_separation",
+      "label": "公域私域分离",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/031_小红书付费笔记功能，注定变现效率会极低 小红书 自媒体 商业模式.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_033_self_media_formula",
+      "label": "自媒体一句话方法论",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/033_去年涨粉 70 万后，我所有方法压缩成了一句话 自媒体 自媒体IP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_034_precision_customer_acquisition",
+      "label": "精准获客概念误导",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/034_旗帜鲜明地反对「精准获客」概念，这是商业误导 精准获客 dontbesilent 语言的边界就是世界的边界.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_034_wittgenstein_language",
+      "label": "维特根斯坦语言审查",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/034_旗帜鲜明地反对「精准获客」概念，这是商业误导 精准获客 dontbesilent 语言的边界就是世界的边界.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_035_vertical_niche",
+      "label": "垂直=细分且深入",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/035_垂直的意思是细分且深入，不是赚钱少 垂直 生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_036_ai_boss_pressure",
+      "label": "老板AI转型压力",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/036_当老板懂 AI 后：下班前给我 100 张图 AI 失业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_036_ai_first_thinking",
+      "label": "AI First思维",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/036_当老板懂 AI 后：下班前给我 100 张图 AI 失业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_036_leverage_line",
+      "label": "人力正负杠杆线",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/036_当老板懂 AI 后：下班前给我 100 张图 AI 失业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_038_four_layer_question",
+      "label": "四层问题分类法",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/038_如何给 8 千人付费答疑，公开我的底层逻辑 商业模式 底层逻辑.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_038_question_vs_problem",
+      "label": "Question vs Problem",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/038_如何给 8 千人付费答疑，公开我的底层逻辑 商业模式 底层逻辑.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_040_lead_magnet",
+      "label": "引流款设计",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/040_今年给超万人答过疑，聊一下如何设计引流款 引流款 知识付费.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_040_trust_standard",
+      "label": "信任标准建立",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/040_今年给超万人答过疑，聊一下如何设计引流款 引流款 知识付费.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_040_emotional_value_product",
+      "label": "情绪价值型知识付费",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/040_今年给超万人答过疑，聊一下如何设计引流款 引流款 知识付费.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_041_side_hustle_trap",
+      "label": "副业思维陷阱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/041_副业思维锁死了一个人的财富上限 副业 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_043_action_equals_ability",
+      "label": "行动即能力",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/043_不想做，就是不能做。还没做，就是做不了。 执行力 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_043_willpower_not_choice",
+      "label": "意愿非选择而是产物",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/043_不想做，就是不能做。还没做，就是做不了。 执行力 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_044_data_dynamic",
+      "label": "数据动态理解",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/044_40 万粉丝后，我发现 99% 的人不会看数据 dontbesilent 自媒体.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_045_platform_interest_hierarchy",
+      "label": "平台利益层级",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/045_今年涨粉 70 万，一条视频讲清楚限流问题 账号权重 限流.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_045_traffic_separation",
+      "label": "账号合规策略",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/045_今年涨粉 70 万，一条视频讲清楚限流问题 账号权重 限流.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_046_interest_monetization",
+      "label": "兴趣变现三条件",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/046_兴趣变现如何年入百万，5 分钟系统性学会 商业模式 自媒体 兴趣变现 爱好赚钱 兴趣.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_046_writing_and_empathy",
+      "label": "写作能力+理解用户",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/046_兴趣变现如何年入百万，5 分钟系统性学会 商业模式 自媒体 兴趣变现 爱好赚钱 兴趣.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_046_benchmark_clone",
+      "label": "对标全盘复制",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/046_兴趣变现如何年入百万，5 分钟系统性学会 商业模式 自媒体 兴趣变现 爱好赚钱 兴趣.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_047_ai_copywriting",
+      "label": "AI味文案消除",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/047_3 分钟，教你彻底摆脱 AI 味文案 写作 文案 AI.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_047_literary_argumentation",
+      "label": "文学论证代替逻辑论证",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/047_3 分钟，教你彻底摆脱 AI 味文案 写作 文案 AI.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_048_opportunity_is_system",
+      "label": "商机=信息+内部系统",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/048_为什么每次都那么凑巧错过发财的机会？ dontbesilent 商业 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_049_cognitive_hijack",
+      "label": "认知劫持短视频开头",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/049_做短视频的本质是黑掉人的认知系统 短视频算法 自媒体流量 短视频开头.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_049_hook_formula",
+      "label": "开头钩子强度公式",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/049_做短视频的本质是黑掉人的认知系统 短视频算法 自媒体流量 短视频开头.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_049_prediction_reward_naming",
+      "label": "预测-奖励-命名三维度",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/049_做短视频的本质是黑掉人的认知系统 短视频算法 自媒体流量 短视频开头.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_042_doubao_copywriting",
+      "label": "豆包AI写爆款文案",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/042_豆包 AI 手机，两句指令，写完爆款文案 豆包 豆包AI 豆包手机.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "dontbesilent_027_business_model",
+      "target": "dontbesilent_027_li_yapeng",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/027_善良的李亚鹏，30 年为什么赚不到钱 李亚鹏 赚钱 商业模式.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_027_li_yapeng",
+      "target": "dontbesilent_027_network_not_enough",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/027_善良的李亚鹏，30 年为什么赚不到钱 李亚鹏 赚钱 商业模式.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_029_no_burnout_earning",
+      "target": "dontbesilent_029_self_determination_theory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/029_3 个月，我设计出了一种不内耗的赚钱方式 内耗 第一桶金 年入百万 创业 辞职.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_029_no_burnout_earning",
+      "target": "dontbesilent_029_three_layer_feedback",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/029_3 个月，我设计出了一种不内耗的赚钱方式 内耗 第一桶金 年入百万 创业 辞职.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_025_productive_interest",
+      "target": "dontbesilent_029_no_burnout_earning",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/025_一人公司只是表壳，你真正想要的是不那么累地赚钱 一人公司 裸辞 不上班.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_025_productive_interest",
+      "target": "dontbesilent_046_interest_monetization",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/025_一人公司只是表壳，你真正想要的是不那么累地赚钱 一人公司 裸辞 不上班.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_030_intermediate_variables",
+      "target": "dontbesilent_027_business_model",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/030_读完几百本书，终于知道富人穷人到底差在哪 富人 富人思维 商业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_030_event_based_wealth",
+      "target": "dontbesilent_030_intermediate_variables",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/030_读完几百本书，终于知道富人穷人到底差在哪 富人 富人思维 商业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_028_ai_hollowing",
+      "target": "dontbesilent_028_digitalization_risk",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/028_AI 不会让你失业，但会让你的工作变 low AI失业 AI 失业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_036_ai_boss_pressure",
+      "target": "dontbesilent_036_leverage_line",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/036_当老板懂 AI 后：下班前给我 100 张图 AI 失业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_036_ai_first_thinking",
+      "target": "dontbesilent_036_leverage_line",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/036_当老板懂 AI 后：下班前给我 100 张图 AI 失业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_031_traffic_vs_monetization_separation",
+      "target": "dontbesilent_031_xhs_paid_notes",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/031_小红书付费笔记功能，注定变现效率会极低 小红书 自媒体 商业模式.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_031_traffic_vs_monetization_separation",
+      "target": "dontbesilent_045_traffic_separation",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/031_小红书付费笔记功能，注定变现效率会极低 小红书 自媒体 商业模式.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_038_four_layer_question",
+      "target": "dontbesilent_038_question_vs_problem",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/038_如何给 8 千人付费答疑，公开我的底层逻辑 商业模式 底层逻辑.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_038_four_layer_question",
+      "target": "dontbesilent_034_wittgenstein_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/038_如何给 8 千人付费答疑，公开我的底层逻辑 商业模式 底层逻辑.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_034_precision_customer_acquisition",
+      "target": "dontbesilent_034_wittgenstein_language",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/034_旗帜鲜明地反对「精准获客」概念，这是商业误导 精准获客 dontbesilent 语言的边界就是世界的边界.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_040_lead_magnet",
+      "target": "dontbesilent_040_trust_standard",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/040_今年给超万人答过疑，聊一下如何设计引流款 引流款 知识付费.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_040_lead_magnet",
+      "target": "dontbesilent_040_emotional_value_product",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/040_今年给超万人答过疑，聊一下如何设计引流款 引流款 知识付费.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_043_action_equals_ability",
+      "target": "dontbesilent_043_willpower_not_choice",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/043_不想做，就是不能做。还没做，就是做不了。 执行力 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_044_data_dynamic",
+      "target": "dontbesilent_033_self_media_formula",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/044_40 万粉丝后，我发现 99% 的人不会看数据 dontbesilent 自媒体.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_045_platform_interest_hierarchy",
+      "target": "dontbesilent_045_traffic_separation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/045_今年涨粉 70 万，一条视频讲清楚限流问题 账号权重 限流.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_046_interest_monetization",
+      "target": "dontbesilent_046_writing_and_empathy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/046_兴趣变现如何年入百万，5 分钟系统性学会 商业模式 自媒体 兴趣变现 爱好赚钱 兴趣.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_046_interest_monetization",
+      "target": "dontbesilent_046_benchmark_clone",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/046_兴趣变现如何年入百万，5 分钟系统性学会 商业模式 自媒体 兴趣变现 爱好赚钱 兴趣.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_047_ai_copywriting",
+      "target": "dontbesilent_047_literary_argumentation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/047_3 分钟，教你彻底摆脱 AI 味文案 写作 文案 AI.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_048_opportunity_is_system",
+      "target": "dontbesilent_046_benchmark_clone",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/048_为什么每次都那么凑巧错过发财的机会？ dontbesilent 商业 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_049_cognitive_hijack",
+      "target": "dontbesilent_049_hook_formula",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/049_做短视频的本质是黑掉人的认知系统 短视频算法 自媒体流量 短视频开头.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_049_hook_formula",
+      "target": "dontbesilent_049_prediction_reward_naming",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/049_做短视频的本质是黑掉人的认知系统 短视频算法 自媒体流量 短视频开头.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_026_emotion_deficit",
+      "target": "dontbesilent_026_market_signal",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/026_情绪上的无能，是我的第一生产力 情绪 创业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_026_emotion_deficit",
+      "target": "dontbesilent_026_feedback_not_positive_negative",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/026_情绪上的无能，是我的第一生产力 情绪 创业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_025_solo_company",
+      "target": "dontbesilent_041_side_hustle_trap",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/025_一人公司只是表壳，你真正想要的是不那么累地赚钱 一人公司 裸辞 不上班.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_025_work_life_boundary",
+      "target": "dontbesilent_025_productive_interest",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/025_一人公司只是表壳，你真正想要的是不那么累地赚钱 一人公司 裸辞 不上班.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_035_vertical_niche",
+      "target": "dontbesilent_033_self_media_formula",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/035_垂直的意思是细分且深入，不是赚钱少 垂直 生意.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_028_ai_hollowing",
+      "target": "dontbesilent_036_ai_boss_pressure",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/028_AI 不会让你失业，但会让你的工作变 low AI失业 AI 失业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_042_doubao_copywriting",
+      "target": "dontbesilent_047_ai_copywriting",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/042_豆包 AI 手机，两句指令，写完爆款文案 豆包 豆包AI 豆包手机.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_044_data_dynamic",
+      "target": "dontbesilent_049_cognitive_hijack",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/044_40 万粉丝后，我发现 99% 的人不会看数据 dontbesilent 自媒体.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_040_trust_standard",
+      "target": "dontbesilent_029_three_layer_feedback",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/040_今年给超万人答过疑，聊一下如何设计引流款 引流款 知识付费.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_048_opportunity_is_system",
+      "target": "dontbesilent_027_business_model",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/048_为什么每次都那么凑巧错过发财的机会？ dontbesilent 商业 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "dontbesilent_core_earning_framework",
+      "label": "赚钱核心框架：商业模式+执行力+对标",
+      "nodes": [
+        "dontbesilent_027_business_model",
+        "dontbesilent_030_intermediate_variables",
+        "dontbesilent_046_benchmark_clone",
+        "dontbesilent_043_action_equals_ability",
+        "dontbesilent_048_opportunity_is_system"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/027_善良的李亚鹏，30 年为什么赚不到钱 李亚鹏 赚钱 商业模式.md"
+    },
+    {
+      "id": "dontbesilent_ai_disruption_narrative",
+      "label": "AI对工作与创业的冲击叙事",
+      "nodes": [
+        "dontbesilent_028_ai_hollowing",
+        "dontbesilent_028_digitalization_risk",
+        "dontbesilent_036_ai_boss_pressure",
+        "dontbesilent_036_ai_first_thinking",
+        "dontbesilent_036_leverage_line"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/028_AI 不会让你失业，但会让你的工作变 low AI失业 AI 失业.md"
+    },
+    {
+      "id": "dontbesilent_content_creation_system",
+      "label": "内容创作到变现完整系统",
+      "nodes": [
+        "dontbesilent_033_self_media_formula",
+        "dontbesilent_049_cognitive_hijack",
+        "dontbesilent_044_data_dynamic",
+        "dontbesilent_046_interest_monetization",
+        "dontbesilent_045_platform_interest_hierarchy"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/033_去年涨粉 70 万后，我所有方法压缩成了一句话 自媒体 自媒体IP.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

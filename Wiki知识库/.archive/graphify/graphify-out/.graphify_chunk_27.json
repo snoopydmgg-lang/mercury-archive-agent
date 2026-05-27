@@ -1,0 +1,947 @@
+{
+  "nodes": [
+    {
+      "id": "doc_145_milktea_supply_chain",
+      "label": "蜜雪冰城供应链模式：卖奶茶不挣钱，卖原材料才挣钱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/145_卖奶茶根本不挣钱！雪王做知识付费年入百亿 dontbesilent 商业思维 蜜雪冰城上市 知识付费.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_146_content_before_monetize",
+      "label": "先做内容再变现是错误路径",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/146_所有教你「先做内容再变现」的人都是耍流氓 dontbesilent 商业思维 内容变现 起号实操.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_147_table_method",
+      "label": "表格工作法：Excel三步找到可模仿的生意",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/147_3 分钟教会你从零到一找到自己的生意❗️公开我的表格工作法 dontbesilent 商业思维 赚钱思维 创业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_148_pixel_copy_vs_plagiarism",
+      "label": "像素级复制年入百万 vs 搬运抄袭颗粒无收",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/148_像素级复制，年入百万。搬运抄袭，颗粒无收 自媒体运营 dontbesilent 像素级对标 像素级模仿 原创价值.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_149_ip_vs_traffic_business",
+      "label": "IP生意 vs 流量生意：变相打工的本质区别",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/149_表面上是知识付费不挣钱，其实只是变相打工 dontbesilent 知识付费 商业思维 IP生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_150_consultation_three_levels",
+      "label": "一对一咨询三层：从赚钱到收集需求的进化",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/150_做 1 v 1 咨询，越接单越穷，越努力越穷 dontbesilent 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_151_founder_ip_short_video",
+      "label": "过亿老板做短视频更痛苦：创始人IP的降维打击",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/151_越有钱越艰难，过亿的老板们做短视频更痛苦 创始人ip dontbesilent 短视频创业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_152_ai_replaces_knowledge_payment",
+      "label": "20万粉丝被AI干掉：AI知识库替代真人交付",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/152_我全网 20 万粉丝，输出上百万字，还是被 AI 干掉了 AI ai取代人类 自媒体创业 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_153_explosive_vs_no_traffic",
+      "label": "为什么有人上来就爆款：必死梦幻开局 vs 正确逆向路径",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/153_为什么有人上来就爆款，为什么你死活没流量 dontbesilent 流量思维 商业思维 变现思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_154_adversity_quotient",
+      "label": "逆商决定财富上限：痛苦值×认知迭代速度×机会敏锐度",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/154_逆商决定财富上限｜年入百万的决定要素 分享创业干货 财富思维 赚钱思维 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_155_traffic_monetize_exploration",
+      "label": "不要把流量变现摸索阶段当成绝望",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/155_不要把正常的流量变现的摸索阶段，当成是绝望。 dontbesilent 流量变现 从零到一 商业思维 自媒体运营.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_156_unprofitable_business_patterns",
+      "label": "不挣钱的业务都长一个样：12345678链路缺一不可",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/156_连线几百人之后我发现：不挣钱的业务，都长一个样 自媒体创业 知识分享 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_157_information_asymmetry",
+      "label": "信息差赚钱：把饭喂到用户嘴里的完整服务逻辑",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/157_越穷越要野路子，赚钱就靠信息差 信息差赚钱思路 尊重用户 尊重市场 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_158_knowledge_payment_free_vs_paid",
+      "label": "免费内容搞流量 vs 付费内容做交付：井水不犯河水",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/158_一个问题毁掉你的知识付费，我花了四年才搞清楚 dontbesilent 知识付费 内容变现 干货.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_159_viral_video_breakdown",
+      "label": "千万播放视频拆解：15秒爆款开头+原创内容=流量+转粉",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/159_一条视频，播放千万，涨粉 6 万，流程拆解揭秘 短视频运营 自媒体干货 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_160_loss_leader_profit_item",
+      "label": "成本17卖18：引流款亏钱靠利润款复购回本",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/160_成本 ¥17 我卖 ¥18，同行卖 ¥3.9，怎么赚钱 电商创业 私域运营 dontbesilent 我在抖音涨知识 一分钟干货教学.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_161_executiveness_management",
+      "label": "执行力管理：80%能力范围内+20%挑战=持续正反馈",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/161_普通人赚钱第一步：确定性提高执行力的逻辑 执行力 普通人赚钱 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_162_low_fans_high_monetize",
+      "label": "1000粉丝月入4万：低粉高变现的舞蹈论文辅导案例",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/162_1000 粉丝月入 4 万：直播连麦遇到的真实案例 低粉高变现 直播连麦 商业咨询.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_163_business_not_industry",
+      "label": "赚钱靠生意不靠行业：686种组合排列找正确姿势",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/163_赚钱靠生意不靠行业｜24h 找到盈利生意的正确姿势 生意经 从零到一 dontbesilent 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_164_content_production_pipeline",
+      "label": "三平台内容生产流程：推特验证深度+小红书标题+抖音前5秒",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/164_每条抖音视频稳定涨粉 2000+，公开我的内容生产流程 自媒体创业 自媒体运营 dontbesilent 短视频生产.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_165_virtual_material_private_domain",
+      "label": "虚拟资料私域六种打法：从纯卖资料到免费引流高价转化",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/165_同样是卖虚拟资料，为什么别人能卖你 100 倍 虚拟资料项目 虚拟资料 商业思维 私域运营.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_166_jewelry_traffic_vs_brand",
+      "label": "饰品创业：流量生意抄面子，品牌生意抄里子",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/166_饰品创业：流量生意抄面子，品牌生意抄里子 商业思维  饰品创业 商业逻辑.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_supply_chain_model",
+      "label": "供应链模式：不卖产品卖原材料/工具给加盟商",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/145_卖奶茶根本不挣钱！雪王做知识付费年入百亿 dontbesilent 商业思维 蜜雪冰城上市 知识付费.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_content_first_wrong",
+      "label": "先做内容再变现的因果错误：平台80%内容不能变现",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/146_所有教你「先做内容再变现」的人都是耍流氓 dontbesilent 商业思维 内容变现 起号实操.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_benchmarking",
+      "label": "基准测试(Benchmarking)：像素级拆解同行的方法论",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/147_3 分钟教会你从零到一找到自己的生意❗️公开我的表格工作法 dontbesilent 商业思维 赚钱思维 创业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_ip_vs_traffic",
+      "label": "IP生意(卖人) vs 流量生意(卖货)：原创观点是分界线",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/149_表面上是知识付费不挣钱，其实只是变相打工 dontbesilent 知识付费 商业思维 IP生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_five_business_models",
+      "label": "五种商业模式：直销/分销/订阅/广告/会员增值",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/148_像素级复制，年入百万。搬运抄袭，颗粒无收 自媒体运营 dontbesilent 像素级对标 像素级模仿 原创价值.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_adversity_quotient",
+      "label": "逆商(AQ)：痛苦值×认知迭代速度×机会敏锐度决定财富上限",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/154_逆商决定财富上限｜年入百万的决定要素 分享创业干货 财富思维 赚钱思维 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_content_monetize_80_20",
+      "label": "内容变现80/20法则：80%内容不能变现，能高效变现不到1%",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/146_所有教你「先做内容再变现」的人都是耍流氓 dontbesilent 商业思维 内容变现 起号实操.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_loss_leader_model",
+      "label": "引流款+利润款模型：亏钱获客靠复购回本",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/160_成本 ¥17 我卖 ¥18，同行卖 ¥3.9，怎么赚钱 电商创业 私域运营 dontbesilent 我在抖音涨知识 一分钟干货教学.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_executiveness_cap_energy",
+      "label": "执行力=能力管理+能量管理，不等于热情",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/161_普通人赚钱第一步：确定性提高执行力的逻辑 执行力 普通人赚钱 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_low_fans_high_convert",
+      "label": "低粉高变现模型：高客单价一对一交付，私域转化率70%",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/162_1000 粉丝月入 4 万：直播连麦遇到的真实案例 低粉高变现 直播连麦 商业咨询.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_business_not_industry",
+      "label": "赚钱靠生意不靠行业：686种排列组合找具体生意",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/163_赚钱靠生意不靠行业｜24h 找到盈利生意的正确姿势 生意经 从零到一 dontbesilent 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_three_platform_pipeline",
+      "label": "三平台内容生产流水线：推特验证+小红书封面+抖音前5秒",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/164_每条抖音视频稳定涨粉 2000+，公开我的内容生产流程 自媒体创业 自媒体运营 dontbesilent 短视频生产.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_private_domain_6_models",
+      "label": "虚拟资料私域六种打法：从纯卖资料到免费引流的完整谱系",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/165_同样是卖虚拟资料，为什么别人能卖你 100 倍 虚拟资料项目 虚拟资料 商业思维 私域运营.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_flow_vs_brand_copy",
+      "label": "流量抄面子(形式) vs 品牌抄里子(内在逻辑)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/166_饰品创业：流量生意抄面子，品牌生意抄里子 商业思维  饰品创业 商业逻辑.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_viral_hook_5sec",
+      "label": "5秒完播率：低于40%垃圾，50%小爆款，60%大爆款",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/159_一条视频，播放千万，涨粉 6 万，流程拆解揭秘 短视频运营 自媒体干货 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_free_paid_separation",
+      "label": "免费内容迎合算法 vs 付费内容迎合用户需求：各司其职",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/158_一个问题毁掉你的知识付费，我花了四年才搞清楚 dontbesilent 知识付费 内容变现 干货.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_information_asymmetry_full_service",
+      "label": "信息差赚钱的完整服务：不只是卖码，要把饭喂到嘴里",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/157_越穷越要野路子，赚钱就靠信息差 信息差赚钱思路 尊重用户 尊重市场 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_correct_path_reverse",
+      "label": "正确路径：先找对标→确定商业模式→模仿发内容→持续变现→爆款",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/153_为什么有人上来就爆款，为什么你死活没流量 dontbesilent 流量思维 商业思维 变现思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_consultation_pivot",
+      "label": "一对一咨询三层进化：赚钱→标准化→收集需求打磨产品",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/150_做 1 v 1 咨询，越接单越穷，越努力越穷 dontbesilent 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_unprofitable_business_chain",
+      "label": "变现链路12345678：种草→从众→转化→私域→多次种草→下单→履约",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/156_连线几百人之后我发现：不挣钱的业务，都长一个样 自媒体创业 知识分享 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_145_milktea_supply_chain",
+      "target": "concept_supply_chain_model",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/145_卖奶茶根本不挣钱！雪王做知识付费年入百亿 dontbesilent 商业思维 蜜雪冰城上市 知识付费.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_145_milktea_supply_chain",
+      "target": "concept_ip_vs_traffic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/145_卖奶茶根本不挣钱！雪王做知识付费年入百亿 dontbesilent 商业思维 蜜雪冰城上市 知识付费.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "doc_146_content_before_monetize",
+      "target": "concept_content_first_wrong",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/146_所有教你「先做内容再变现」的人都是耍流氓 dontbesilent 商业思维 内容变现 起号实操.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_146_content_before_monetize",
+      "target": "concept_content_monetize_80_20",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/146_所有教你「先做内容再变现」的人都是耍流氓 dontbesilent 商业思维 内容变现 起号实操.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_147_table_method",
+      "target": "concept_benchmarking",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/147_3 分钟教会你从零到一找到自己的生意❗️公开我的表格工作法 dontbesilent 商业思维 赚钱思维 创业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_147_table_method",
+      "target": "doc_148_pixel_copy_vs_plagiarism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/147_3 分钟教会你从零到一找到自己的生意❗️公开我的表格工作法 dontbesilent 商业思维 赚钱思维 创业思维.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "doc_148_pixel_copy_vs_plagiarism",
+      "target": "concept_five_business_models",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/148_像素级复制，年入百万。搬运抄袭，颗粒无收 自媒体运营 dontbesilent 像素级对标 像素级模仿 原创价值.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_148_pixel_copy_vs_plagiarism",
+      "target": "concept_ip_vs_traffic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/148_像素级复制，年入百万。搬运抄袭，颗粒无收 自媒体运营 dontbesilent 像素级对标 像素级模仿 原创价值.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "doc_149_ip_vs_traffic_business",
+      "target": "concept_ip_vs_traffic",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/149_表面上是知识付费不挣钱，其实只是变相打工 dontbesilent 知识付费 商业思维 IP生意.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_150_consultation_three_levels",
+      "target": "concept_consultation_pivot",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/150_做 1 v 1 咨询，越接单越穷，越努力越穷 dontbesilent 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_151_founder_ip_short_video",
+      "target": "concept_viral_hook_5sec",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/151_越有钱越艰难，过亿的老板们做短视频更痛苦 创始人ip dontbesilent 短视频创业.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "doc_152_ai_replaces_knowledge_payment",
+      "target": "concept_ip_vs_traffic",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/152_我全网 20 万粉丝，输出上百万字，还是被 AI 干掉了 AI ai取代人类 自媒体创业 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "doc_152_ai_replaces_knowledge_payment",
+      "target": "concept_consultation_pivot",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/152_我全网 20 万粉丝，输出上百万字，还是被 AI 干掉了 AI ai取代人类 自媒体创业 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "doc_153_explosive_vs_no_traffic",
+      "target": "concept_correct_path_reverse",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/153_为什么有人上来就爆款，为什么你死活没流量 dontbesilent 流量思维 商业思维 变现思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_154_adversity_quotient",
+      "target": "concept_adversity_quotient",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/154_逆商决定财富上限｜年入百万的决定要素 分享创业干货 财富思维 赚钱思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_155_traffic_monetize_exploration",
+      "target": "concept_content_monetize_80_20",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/155_不要把正常的流量变现的摸索阶段，当成是绝望。 dontbesilent 流量变现 从零到一 商业思维 自媒体运营.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "doc_155_traffic_monetize_exploration",
+      "target": "concept_correct_path_reverse",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/155_不要把正常的流量变现的摸索阶段，当成是绝望。 dontbesilent 流量变现 从零到一 商业思维 自媒体运营.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "doc_156_unprofitable_business_patterns",
+      "target": "concept_unprofitable_business_chain",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/156_连线几百人之后我发现：不挣钱的业务，都长一个样 自媒体创业 知识分享 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_157_information_asymmetry",
+      "target": "concept_information_asymmetry_full_service",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/157_越穷越要野路子，赚钱就靠信息差 信息差赚钱思路 尊重用户 尊重市场 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_158_knowledge_payment_free_vs_paid",
+      "target": "concept_free_paid_separation",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/158_一个问题毁掉你的知识付费，我花了四年才搞清楚 dontbesilent 知识付费 内容变现 干货.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_159_viral_video_breakdown",
+      "target": "concept_viral_hook_5sec",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/159_一条视频，播放千万，涨粉 6 万，流程拆解揭秘 短视频运营 自媒体干货 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_160_loss_leader_profit_item",
+      "target": "concept_loss_leader_model",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/160_成本 ¥17 我卖 ¥18，同行卖 ¥3.9，怎么赚钱 电商创业 私域运营 dontbesilent 我在抖音涨知识 一分钟干货教学.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_160_loss_leader_profit_item",
+      "target": "doc_159_viral_video_breakdown",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/160_成本 ¥17 我卖 ¥18，同行卖 ¥3.9，怎么赚钱 电商创业 私域运营 dontbesilent 我在抖音涨知识 一分钟干货教学.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_161_executiveness_management",
+      "target": "concept_executiveness_cap_energy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/161_普通人赚钱第一步：确定性提高执行力的逻辑 执行力 普通人赚钱 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_162_low_fans_high_monetize",
+      "target": "concept_low_fans_high_convert",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/162_1000 粉丝月入 4 万：直播连麦遇到的真实案例 低粉高变现 直播连麦 商业咨询.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_162_low_fans_high_monetize",
+      "target": "concept_consultation_pivot",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/162_1000 粉丝月入 4 万：直播连麦遇到的真实案例 低粉高变现 直播连麦 商业咨询.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "doc_163_business_not_industry",
+      "target": "concept_business_not_industry",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/163_赚钱靠生意不靠行业｜24h 找到盈利生意的正确姿势 生意经 从零到一 dontbesilent 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_164_content_production_pipeline",
+      "target": "concept_three_platform_pipeline",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/164_每条抖音视频稳定涨粉 2000+，公开我的内容生产流程 自媒体创业 自媒体运营 dontbesilent 短视频生产.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_165_virtual_material_private_domain",
+      "target": "concept_private_domain_6_models",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/165_同样是卖虚拟资料，为什么别人能卖你 100 倍 虚拟资料项目 虚拟资料 商业思维 私域运营.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_166_jewelry_traffic_vs_brand",
+      "target": "concept_flow_vs_brand_copy",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/166_饰品创业：流量生意抄面子，品牌生意抄里子 商业思维  饰品创业 商业逻辑.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_166_jewelry_traffic_vs_brand",
+      "target": "concept_ip_vs_traffic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/166_饰品创业：流量生意抄面子，品牌生意抄里子 商业思维  饰品创业 商业逻辑.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "concept_supply_chain_model",
+      "target": "concept_loss_leader_model",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/145_卖奶茶根本不挣钱！雪王做知识付费年入百亿 dontbesilent 商业思维 蜜雪冰城上市 知识付费.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "concept_ip_vs_traffic",
+      "target": "concept_flow_vs_brand_copy",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/149_表面上是知识付费不挣钱，其实只是变相打工 dontbesilent 知识付费 商业思维 IP生意.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "concept_benchmarking",
+      "target": "concept_correct_path_reverse",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/147_3 分钟教会你从零到一找到自己的生意❗️公开我的表格工作法 dontbesilent 商业思维 赚钱思维 创业思维.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "concept_content_first_wrong",
+      "target": "concept_correct_path_reverse",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/146_所有教你「先做内容再变现」的人都是耍流氓 dontbesilent 商业思维 内容变现 起号实操.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_viral_hook_5sec",
+      "target": "concept_three_platform_pipeline",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/159_一条视频，播放千万，涨粉 6 万，流程拆解揭秘 短视频运营 自媒体干货 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "concept_free_paid_separation",
+      "target": "concept_private_domain_6_models",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/158_一个问题毁掉你的知识付费，我花了四年才搞清楚 dontbesilent 知识付费 内容变现 干货.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "concept_loss_leader_model",
+      "target": "concept_private_domain_6_models",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/160_成本 ¥17 我卖 ¥18，同行卖 ¥3.9，怎么赚钱 电商创业 私域运营 dontbesilent 我在抖音涨知识 一分钟干货教学.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "concept_adversity_quotient",
+      "target": "concept_executiveness_cap_energy",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/154_逆商决定财富上限｜年入百万的决定要素 分享创业干货 财富思维 赚钱思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "concept_low_fans_high_convert",
+      "target": "concept_consultation_pivot",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/162_1000 粉丝月入 4 万：直播连麦遇到的真实案例 低粉高变现 直播连麦 商业咨询.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "concept_business_not_industry",
+      "target": "concept_benchmarking",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/163_赚钱靠生意不靠行业｜24h 找到盈利生意的正确姿势 生意经 从零到一 dontbesilent 商业思维.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "concept_information_asymmetry_full_service",
+      "target": "concept_loss_leader_model",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/157_越穷越要野路子，赚钱就靠信息差 信息差赚钱思路 尊重用户 尊重市场 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "concept_unprofitable_business_chain",
+      "target": "concept_correct_path_reverse",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/156_连线几百人之后我发现：不挣钱的业务，都长一个样 自媒体创业 知识分享 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "knowledge_payment_ecosystem",
+      "label": "知识付费商业生态：供应链→IP→变现→交付→AI冲击",
+      "nodes": [
+        "concept_supply_chain_model",
+        "concept_ip_vs_traffic",
+        "concept_consultation_pivot",
+        "concept_free_paid_separation",
+        "doc_152_ai_replaces_knowledge_payment"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/145_卖奶茶根本不挣钱！雪王做知识付费年入百亿 dontbesilent 商业思维 蜜雪冰城上市 知识付费.md"
+    },
+    {
+      "id": "content_creation_framework",
+      "label": "内容创作方法论体系：对标→验证→生产→爆款→变现",
+      "nodes": [
+        "concept_benchmarking",
+        "concept_correct_path_reverse",
+        "concept_viral_hook_5sec",
+        "concept_three_platform_pipeline",
+        "concept_free_paid_separation"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/164_每条抖音视频稳定涨粉 2000+，公开我的内容生产流程 自媒体创业 自媒体运营 dontbesilent 短视频生产.md"
+    },
+    {
+      "id": "monetization_model_spectrum",
+      "label": "变现模型谱系：引流款→利润款→私域→虚拟资料→高价服务",
+      "nodes": [
+        "concept_loss_leader_model",
+        "concept_private_domain_6_models",
+        "concept_low_fans_high_convert",
+        "concept_information_asymmetry_full_service",
+        "concept_unprofitable_business_chain"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/160_成本 ¥17 我卖 ¥18，同行卖 ¥3.9，怎么赚钱 电商创业 私域运营 dontbesilent 我在抖音涨知识 一分钟干货教学.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

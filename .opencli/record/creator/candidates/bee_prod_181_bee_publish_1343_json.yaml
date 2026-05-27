@@ -1,0 +1,28 @@
+site: creator
+name: bee_prod_181_bee_publish_1343_json
+description: creator bee_prod_181_bee_publish_1343_json (recorded)
+domain: creator.douyin.com
+strategy: cookie
+browser: true
+args:
+  limit:
+    type: int
+    default: 20
+    description: Number of items
+pipeline:
+  - navigate: https://creator.douyin.com
+  - evaluate: |-
+      (async () => {
+        const res = await fetch("https://lf3-beecdn.bytetos.com/obj/ies-fe-bee/bee_prod/biz_181/bee_prod_181_bee_publish_1343.json", { credentials: 'include' });
+        const data = await res.json();
+        return (data || []).map(item => ({
+                title: item?.name
+              }));
+      })()
+  - map:
+      rank: ${{ index + 1 }}
+      title: ${{ item.title }}
+  - limit: ${{ args.limit | default(20) }}
+columns:
+  - rank
+  - title

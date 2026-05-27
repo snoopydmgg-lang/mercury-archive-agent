@@ -4,6 +4,16 @@
 
 ---
 
+## 2026-05-27
+
+- **OpenCode TUI 插件 vs Server 插件**：两种插件类型完全不同。Server 插件用 `import type { Plugin }` + `export default (async () => {...}) satisfies Plugin`；TUI 插件用 `import type { TuiPlugin, TuiPluginApi }` + `export default { id: "xxx", tui: async (api) => {...} } satisfies TuiPlugin`
+- **TUI 插件支持 SolidJS JSX**：opencode 的 `bunfig.toml` 配置了 `preload = ["@opentui/solid/preload"]`，`.tsx` 文件的 JSX 会被正确编译，可直接在 TUI 插件中使用 `<div>` 等 JSX 语法
+- **TUI 有 12 个 slot 可接入**：`sidebar_footer`（侧边栏底部）、`app_bottom`（主内容区下方）、`home_footer`（首页底部）等，每个 slot 在对应 `.tsx` 布局文件中通过 `<Slot name="..." />` 渲染
+- **插件文件路径**：TUI 插件放在 `.opencode/plugins/` 目录下，文件扩展名用 `.tsx`（支持 JSX）
+- **Token HUD 方案**：opencode TUI 没有内置持续 HUD 显示，但可通过 TUI 插件的 `sidebar_footer` slot 实现。备选方案：另一个终端窗口运行 `Get-Content <hud_file> -Wait` 持续监控
+
+---
+
 ## 2026-05-21
 
 - **HUD hybrid 架构**：旧 statusline 用 session token delta 算费用，compaction 后失真。新方案：`billing_cache.json`（token_tracker 同步 CSV 写入）= 权威基底，`billing_realtime_state.json`（statusline 写入）= 实时估算基准点。token 增量只做临时估算用 `~` 标记，compaction/session/cache 变化时自动重建基准。自检：`test_statusline.ps1`（8 项测试），恢复：`hud_backup_stable/`

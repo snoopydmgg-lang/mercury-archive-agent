@@ -1,0 +1,1256 @@
+{
+  "nodes": [
+    {
+      "id": "n_claude_code",
+      "name": "Claude Code",
+      "type": "Tool",
+      "description": "Anthropic的官方CLI工具，用于AI辅助编码和知识管理",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Claude-Code高级配置.md",
+      "metadata": {
+        "title": "Claude Code高级配置",
+        "tags": ["AI工具", "Claude", "CLI"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_codesome",
+      "name": "CodeSOME",
+      "type": "Tool",
+      "description": "第三方Claude Code平台，提供按量付费和月卡两种模式，GPT5.4模型",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/CodeSOME定价方案.md",
+      "metadata": {
+        "title": "CodeSOME定价方案",
+        "tags": ["AI工具", "代理平台", "定价"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_minimax",
+      "name": "MiniMax",
+      "type": "Tool",
+      "description": "批量API提供商，适合脚本批量处理，月消费¥49可获1.47B tokens",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/MiniMax_vs_CodeSOME_使用习惯分析.md",
+      "metadata": {
+        "title": "MiniMax vs CodeSOME 使用习惯分析",
+        "tags": ["AI工具", "API", "批量处理"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_graphify",
+      "name": "Graphify",
+      "type": "Tool",
+      "description": "知识图谱CLI工具+Agent Skill，实现70倍token压缩，AST+LLM双轨提取",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Graphify使用指南.md",
+      "metadata": {
+        "title": "Graphify使用指南",
+        "tags": ["知识图谱", "CLI", "Agent"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_markitdown",
+      "name": "MarkItDown",
+      "type": "Tool",
+      "description": "微软文档转换工具v0.1.5，PDF转Markdown，60%成功率，集成到wiki-manager Skill",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/MarkItDown集成部署报告_20260417.md",
+      "metadata": {
+        "title": "MarkItDown集成部署报告",
+        "tags": ["文档转换", "部署", "集成"],
+        "录入日期": "2026-04-17"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_opcode",
+      "name": "Opcode",
+      "type": "Tool",
+      "description": "Tauri 2 + React 18 GUI包装器，Claude Code CLI的图形界面，v0.2.1",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Opcode使用指南.md",
+      "metadata": {
+        "title": "Opcode使用指南",
+        "tags": ["GUI", "Claude Code", "包装器"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_playwright",
+      "name": "Playwright",
+      "type": "Tool",
+      "description": "AI + Playwright CLI浏览器自动化，4倍token节省，Skill固化方法论",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Playwright自动化.md",
+      "metadata": {
+        "title": "Playwright自动化",
+        "tags": ["浏览器自动化", "CLI", "Skill"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_openrouter",
+      "name": "OpenRouter",
+      "type": "Tool",
+      "description": "模型市场，300+模型、40+提供商的综合定价表",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/openrouter-pricing.md",
+      "metadata": {
+        "title": "OpenRouter定价",
+        "tags": ["模型市场", "定价", "API"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_ofoxai",
+      "name": "OfoxAI",
+      "type": "Tool",
+      "description": "模型提供商，跨提供商定价比较",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/OfoxAI模型定价.md",
+      "metadata": {
+        "title": "OfoxAI模型定价",
+        "tags": ["模型定价", "提供商"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_llm_wiki",
+      "name": "LLM-Wiki范式",
+      "type": "Concept",
+      "description": "Karpathy提出的知识库范式，三层架构（Raw Sources / The Wiki / The Schema），四文件隔离",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库运作指南.md",
+      "metadata": {
+        "title": "知识库运作指南",
+        "tags": ["知识库", "架构", "Karpathy"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_8_sentence_formula",
+      "name": "8句公式",
+      "type": "Concept",
+      "description": "文案结构：反常识断言→权威数据反转→价值重构→数据堆叠→要素展开→权威深描→差距制造→背书收尾，72K播放+¥12,000 GMV双验证",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["文案创作", "公式", "爆款"],
+        "录入日期": "2026-04-26",
+        "updated": "2026-05-05"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_5s_completion_rate",
+      "name": "5s完播率",
+      "type": "Metric",
+      "description": "核心指标，≥30%算法放量临界点，均播放14,683；≥20%及格线；<20%卡在初级流量池",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["指标", "算法", "放量"],
+        "录入日期": "2026-04-26",
+        "updated": "2026-05-05"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_dbs_inspection",
+      "name": "DBS检定",
+      "type": "Concept",
+      "description": "文案质量检查标准：7项必检（开头3秒钩子、核心卖点30秒内、反常识观点、行动召唤、无AI味、开头独立、口播友好）",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md",
+      "metadata": {
+        "title": "文案创作知识库-MOC",
+        "tags": ["文案创作", "质量检查", "标准"],
+        "录入日期": "2026-04-16"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_2s_to_5s_conversion",
+      "name": "2s→5s转化率",
+      "type": "Metric",
+      "description": "爆款与普通作品核心差异：爆款69.1% vs 平均44.7%，差54%，比2s跳出率更重要",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["指标", "转化率", "核心差异"],
+        "录入日期": "2026-04-26",
+        "updated": "2026-05-05"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_hook_types",
+      "name": "4种万能句式",
+      "type": "Concept",
+      "description": "痛点暴击反问式、利益反差颠覆式、结果前置悬念式、避坑警告式",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["钩子", "句式", "文案技巧"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_copywriting_style_yushangyuan",
+      "name": "余上沅的奇妙屋",
+      "type": "Concept",
+      "description": "文案风格1：学术深度解析与工艺细节呈现，数据堆叠+权威背书+专业术语",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["文案风格", "学术", "深度"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_copywriting_style_jiumi",
+      "name": "九厘米的雾",
+      "type": "Concept",
+      "description": "文案风格2：内行人解码世界规则、用极致细节重塑实体价值",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["文案风格", "内行解码", "细节"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_copywriting_style_adscout",
+      "name": "Ad Scout",
+      "type": "Concept",
+      "description": "文案风格3：知识降维打击式焦虑营销与物质丰盛感交付",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["文案风格", "焦虑营销", "转化"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_product_banshizhidao",
+      "name": "版式之道",
+      "type": "Product",
+      "description": "日本18位设计大师版式设计教材，72K播放+¥12,000 GMV验证产品",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["产品", "设计", "版式"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_product_ghibli",
+      "name": "宫崎骏作品集",
+      "type": "Product",
+      "description": "吉卜力官方授权，11部经典电影，17万张原画手稿，280页全彩精印",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["产品", "动画", "吉卜力"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_product_chinese_colors",
+      "name": "中国传统色",
+      "type": "Product",
+      "description": "384种中国传统色×24节气×72物候，192件故宫文物手绘，豆瓣9.3分",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md",
+      "metadata": {
+        "title": "中国传统色 - 文案参考资料",
+        "tags": ["产品", "色彩", "故宫", "东方美学"],
+        "录入日期": "2026-05-03",
+        "updated": "2026-05-05"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_product_photography",
+      "name": "摄影构图艺术",
+      "type": "Product",
+      "description": "职业摄影师实战总结，9大构图法则，200余张实拍对比，180页精印",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["产品", "摄影", "构图"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_feishu_bot",
+      "name": "飞书机器人",
+      "type": "System",
+      "description": "飞书App ID/Secret配置，Bitable选品追踪数据库，16个字段结构",
+      "source_file": "Wiki知识库/wiki/工具与系统/账号运营/飞书机器人配置.md",
+      "metadata": {
+        "title": "飞书机器人配置",
+        "tags": ["飞书", "自动化", "选品"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_wiki_lint",
+      "name": "wiki_lint",
+      "type": "Tool",
+      "description": "知识库健康检查工具，覆盖12个维度",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库工具链速查.md",
+      "metadata": {
+        "title": "知识库工具链速查",
+        "tags": ["知识库", "检查工具", "Python"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_knowledge_base_architecture",
+      "name": "知识库架构",
+      "type": "Concept",
+      "description": "三层架构（Raw Sources/The Wiki/The Schema）+ 四文件隔离（index.md/log.md/raw/wiki）",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/从零搭建知识库指南.md",
+      "metadata": {
+        "title": "从零搭建知识库指南",
+        "tags": ["知识库", "架构", "指南"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_skill_system",
+      "name": "Skill系统",
+      "type": "System",
+      "description": "Claude Code Skills：wiki-manager, obsidian-wiki, copywriter, cover-generator等，7个已集成/26个待集成",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/工具脚本Skill集成分析报告_20260417.md",
+      "metadata": {
+        "title": "工具脚本Skill集成分析报告",
+        "tags": ["Skill", "集成", "Agent"],
+        "录入日期": "2026-04-17"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_algorithm_distribution",
+      "name": "算法分发机制",
+      "type": "Concept",
+      "description": "抖音算法扫描标题+封面贴标签，初始推送几十-几百次测试数据，数据不佳则停止分发",
+      "source_file": "Wiki知识库/wiki/抖音运营/算法分发机制.md",
+      "metadata": {
+        "title": "抖音算法分发机制",
+        "tags": ["抖音", "算法", "流量"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_showcase_strategy",
+      "name": "橱窗运营策略",
+      "type": "Concept",
+      "description": "四条流量渠道（短视频/直播/图文/私域），选品策略，100产品目标+每周更新",
+      "source_file": "Wiki知识库/wiki/抖音运营/橱窗运营策略.md",
+      "metadata": {
+        "title": "橱窗运营策略",
+        "tags": ["抖音", "橱窗", "运营"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_follower_growth",
+      "name": "粉丝增长方法论",
+      "type": "Concept",
+      "description": "三大策略（质量/爆款、数量/一致性、话题借势），直播优化，平台合规",
+      "source_file": "Wiki知识库/wiki/抖音运营/粉丝增长方法论.md",
+      "metadata": {
+        "title": "粉丝增长方法论",
+        "tags": ["抖音", "增长", "方法论"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_visual_design_system",
+      "name": "视觉设计系统",
+      "type": "Concept",
+      "description": "新古典人文主义设计哲学，主背景#F5F4F0/主文本#2D2B2A/点缀色#D36B4D，3:4竖版，2-5%噪点",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md",
+      "metadata": {
+        "title": "文案创作知识库-MOC",
+        "tags": ["视觉设计", "色彩系统", "规范"],
+        "录入日期": "2026-04-16"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_bgm_blacklist",
+      "name": "BGM黑名单",
+      "type": "Concept",
+      "description": "禁止使用：Max Richter, Hans Zimmer(部分),久石让,Yiruma等，禁止流行乐/抖音热曲/有歌词曲目",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["BGM", "黑名单", "音乐"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_6_sins_of_low_5s",
+      "name": "低5s完播六大死因",
+      "type": "Concept",
+      "description": "无冲突情绪开场、产品公告式、问句+产品堆砌、猎奇标题党、抽象概念开头、好概念被超长正文淹没",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["文案诊断", "5s完播", "死因"],
+        "录入日期": "2026-04-26",
+        "updated": "2026-05-05"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_copywriting_moc",
+      "name": "文案创作知识库-MOC",
+      "type": "Document",
+      "description": "文案创作导航地图，涵盖风格体系、钩子库、叙事节奏、转折技巧、结尾话术、DBS检定、BGM、视觉设计、竞品分析、选品评估",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md",
+      "metadata": {
+        "title": "文案创作知识库-MOC",
+        "tags": ["MOC", "导航", "文案创作"],
+        "录入日期": "2026-04-16"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_chinese_colors_stories",
+      "name": "中国传统色颜色故事",
+      "type": "Concept",
+      "description": "8个冷门颜色故事：盈盈、老僧衣、牙绯、欧碧、苍黄、玄天、冻缥、骝骊，一手素材优先使用",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md",
+      "metadata": {
+        "title": "中国传统色 - 文案参考资料",
+        "tags": ["颜色故事", "素材", "差异化"],
+        "录入日期": "2026-05-03",
+        "updated": "2026-05-05"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_competitor_analysis",
+      "name": "竞品分析",
+      "type": "Concept",
+      "description": "15篇竞品文案拆解：七猫读书x9、古月安的宝藏x4、余上沅的奇妙屋x2、炸裂的布克x1",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md",
+      "metadata": {
+        "title": "中国传统色 - 文案参考资料",
+        "tags": ["竞品分析", "拆解", "策略"],
+        "录入日期": "2026-05-03"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_feishu_bitable",
+      "name": "飞书多维表格",
+      "type": "System",
+      "description": "选品追踪数据库，16个字段结构，用于产品数据管理和流程追踪",
+      "source_file": "Wiki知识库/wiki/工具与系统/账号运营/飞书机器人配置.md",
+      "metadata": {
+        "title": "飞书机器人配置",
+        "tags": ["飞书", "数据库", "选品"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_hermes_agent",
+      "name": "Hermes Agent",
+      "type": "Tool",
+      "description": "知识图谱构建Agent，用于知识库的自动化构建和维护",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库运作指南.md",
+      "metadata": {
+        "title": "知识库运作指南",
+        "tags": ["Agent", "知识图谱", "自动化"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_knowledge_toolchain",
+      "name": "知识库工具链",
+      "type": "System",
+      "description": "工具矩阵：Obsidian+Claudian, Claude Code CLI, Graphify, Web Clipper, wiki_lint.py, wiki_moc_generator.py, batch_classify_notes.py, Obsidian Git",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库工具链速查.md",
+      "metadata": {
+        "title": "知识库工具链速查",
+        "tags": ["工具链", "知识库", "速查"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_product_selection",
+      "name": "选品评估标准",
+      "type": "Concept",
+      "description": "硬性指标：客单价50-200元、佣金率≥20%、近30天销量≥500、短视频出单占比≥30%",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md",
+      "metadata": {
+        "title": "文案创作知识库-MOC",
+        "tags": ["选品", "评估", "指标"],
+        "录入日期": "2026-04-16"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_4_dimensions_constraints",
+      "name": "四维约束",
+      "type": "Concept",
+      "description": "文案画面脚本约束：视觉化转化、景别调度、情绪曲线、视觉连贯性",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md",
+      "metadata": {
+        "title": "文案生成规则",
+        "tags": ["约束", "画面脚本", "视觉"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_data_review_37works",
+      "name": "全量37条作品数据复盘",
+      "type": "Concept",
+      "description": "账号健康基线：5s完播率21.25%、2s跳出率53.08%、均播放时长6.0s；品类排名：版式设计>P宫崎骏>纸雕书>摄影>莎士比亚",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md",
+      "metadata": {
+        "title": "文案创作知识库-MOC",
+        "tags": ["数据复盘", "全量数据", "品类分析"],
+        "录入日期": "2026-04-16"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_code_subscription_guide",
+      "name": "大模型订阅指南",
+      "type": "Document",
+      "description": "Claude订阅层级（Pro $20, Max 5x $100, Max 20x $200）+ API定价 + MiniMax使用分析",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/大模型订阅指南.md",
+      "metadata": {
+        "title": "大模型订阅指南",
+        "tags": ["订阅", "定价", "Claude"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_optimal_subscription_strategy",
+      "name": "CodeSOME订阅最佳策略",
+      "type": "Concept",
+      "description": "最优方案：MiniMax ¥49/月批量脚本 + CodeSOME CC月卡15刀 ¥138/月交互开发 = ¥187/月",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/CodeSOME订阅最佳策略.md",
+      "metadata": {
+        "title": "CodeSOME订阅最佳策略",
+        "tags": ["订阅策略", "成本优化", "AI工具"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_chinese_colors_3_styles",
+      "name": "中国传统色三大风格适配",
+      "type": "Concept",
+      "description": "余上沅：颜色考古学切入/考据之旅；九厘米：24节气编码系统解码；Ad Scout：设计师配色武器库缺失",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md",
+      "metadata": {
+        "title": "中国传统色 - 文案参考资料",
+        "tags": ["风格适配", "文案策略", "差异化"],
+        "录入日期": "2026-05-03"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_forbidden_hooks",
+      "name": "禁用钩子库",
+      "type": "Concept",
+      "description": "竞品过度使用已免疫的钩子：美拉德/莫兰迪弱爆了(10次)、老祖宗的审美(几乎每篇)、拿回审美权(七猫专属)、99%的人不知道(知乎体)",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md",
+      "metadata": {
+        "title": "中国传统色 - 文案参考资料",
+        "tags": ["禁用", "钩子", "竞品避坑"],
+        "录入日期": "2026-05-03"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_72k_viral_elements",
+      "name": "72K爆款要素",
+      "type": "Concept",
+      "description": "反常识断言+数字冲击（留白九成）、高商业价值品类、句句有料信息密度、精准身份焦虑触发",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md",
+      "metadata": {
+        "title": "文案创作知识库-MOC",
+        "tags": ["爆款", "要素", "72K"],
+        "录入日期": "2026-04-16"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_graphify_70x_compression",
+      "name": "Graphify 70倍压缩",
+      "type": "Concept",
+      "description": "知识图谱压缩技术，AST+LLM双轨，7步管道：Detect→Ingest→Build→Cluster→Analyse→Report→Export",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Graphify使用指南.md",
+      "metadata": {
+        "title": "Graphify使用指南",
+        "tags": ["压缩", "知识图谱", "管道"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    },
+    {
+      "id": "n_claude_code_config_layers",
+      "name": "Claude Code双层配置",
+      "type": "Concept",
+      "description": "系统级（CLAUDE.md, settings.json, rules）+ 项目级（CLAUDE.md, MEMORY.md, commands, settings）7文件配置体系",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Claude-Code高级配置.md",
+      "metadata": {
+        "title": "Claude Code高级配置",
+        "tags": ["配置", "系统级", "项目级"],
+        "录入日期": "2026-04-26"
+      },
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n_codesome",
+      "target": "n_claude_code",
+      "type": "wraps",
+      "description": "CodeSOME是Claude Code CLI的第三方代理平台",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/CodeSOME定价方案.md"
+    },
+    {
+      "source": "n_opcode",
+      "target": "n_claude_code",
+      "type": "wraps",
+      "description": "Opcode是Claude Code CLI的GUI包装器",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Opcode使用指南.md"
+    },
+    {
+      "source": "n_optimal_subscription_strategy",
+      "target": "n_codesome",
+      "type": "recommends",
+      "description": "最优策略推荐CodeSOME CC月卡15刀用于交互开发",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/CodeSOME订阅最佳策略.md"
+    },
+    {
+      "source": "n_optimal_subscription_strategy",
+      "target": "n_minimax",
+      "type": "recommends",
+      "description": "最优策略推荐MiniMax ¥49/月用于批量脚本处理",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/CodeSOME订阅最佳策略.md"
+    },
+    {
+      "source": "n_graphify",
+      "target": "n_knowledge_base_architecture",
+      "type": "implements",
+      "description": "Graphify实现知识图谱构建，支持知识库三层架构的自动化提取",
+      "confidence_score": 0.9,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Graphify使用指南.md"
+    },
+    {
+      "source": "n_graphify",
+      "target": "n_hermes_agent",
+      "type": "integrates_with",
+      "description": "Graphify与Hermes Agent集成用于知识图谱自动化构建",
+      "confidence_score": 0.8,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库运作指南.md"
+    },
+    {
+      "source": "n_markitdown",
+      "target": "n_skill_system",
+      "type": "integrated_into",
+      "description": "MarkItDown已集成到wiki-manager Skill中",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/MarkItDown集成部署报告_20260417.md"
+    },
+    {
+      "source": "n_playwright",
+      "target": "n_skill_system",
+      "type": "supports",
+      "description": "Playwright通过Skill固化实现浏览器自动化",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Playwright自动化.md"
+    },
+    {
+      "source": "n_wiki_lint",
+      "target": "n_knowledge_base_architecture",
+      "type": "validates",
+      "description": "wiki_lint检查知识库健康，覆盖12个维度",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库工具链速查.md"
+    },
+    {
+      "source": "n_8_sentence_formula",
+      "target": "n_product_banshizhidao",
+      "type": "validated_by",
+      "description": "8句公式在版式之道产品上验证：72K播放+¥12,000 GMV",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_5s_completion_rate",
+      "target": "n_algorithm_distribution",
+      "type": "triggers",
+      "description": "5s完播率≥30%触发算法放量，是流量分发的关键阈值",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_dbs_inspection",
+      "target": "n_8_sentence_formula",
+      "type": "validates",
+      "description": "DBS检定验证8句公式文案的7项质量标准",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_hook_types",
+      "target": "n_8_sentence_formula",
+      "type": "feeds_into",
+      "description": "4种万能句式为8句公式的句1（反常识断言）提供变体",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_copywriting_style_yushangyuan",
+      "target": "n_8_sentence_formula",
+      "type": "adapts",
+      "description": "余上沅风格适配8句公式：句1用'最被低估的真相'，句7用'入门和精通的鸿沟'",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_copywriting_style_jiumi",
+      "target": "n_8_sentence_formula",
+      "type": "adapts",
+      "description": "九厘米风格适配8句公式：标准句式，'行业最大的谎言'开头",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_copywriting_style_adscout",
+      "target": "n_8_sentence_formula",
+      "type": "adapts",
+      "description": "Ad Scout风格适配8句公式：句1用'为什么你的产出总像负面比喻'",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_copywriting_moc",
+      "target": "n_8_sentence_formula",
+      "type": "references",
+      "description": "MOC导航地图引用8句公式作为核心文案结构",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_copywriting_moc",
+      "target": "n_dbs_inspection",
+      "type": "references",
+      "description": "MOC导航地图引用DBS检定作为质量检查标准",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_copywriting_moc",
+      "target": "n_visual_design_system",
+      "type": "references",
+      "description": "MOC导航地图引用视觉设计系统作为封面/画面规范",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_copywriting_moc",
+      "target": "n_bgm_blacklist",
+      "type": "references",
+      "description": "MOC导航地图引用BGM使用指南和黑名单",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_chinese_colors_3_styles",
+      "target": "n_copywriting_style_yushangyuan",
+      "type": "adapts_for",
+      "description": "中国传统色适配余上沅风格：颜色考古学切入，考据之旅叙事",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+    },
+    {
+      "source": "n_chinese_colors_3_styles",
+      "target": "n_copywriting_style_jiumi",
+      "type": "adapts_for",
+      "description": "中国传统色适配九厘米风格：24节气编码系统解码",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+    },
+    {
+      "source": "n_chinese_colors_3_styles",
+      "target": "n_copywriting_style_adscout",
+      "type": "adapts_for",
+      "description": "中国传统色适配Ad Scout风格：设计师配色武器库缺失焦虑",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+    },
+    {
+      "source": "n_chinese_colors_stories",
+      "target": "n_product_chinese_colors",
+      "type": "content_of",
+      "description": "8个冷门颜色故事是中国传统色产品的核心创作素材",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+    },
+    {
+      "source": "n_competitor_analysis",
+      "target": "n_product_chinese_colors",
+      "type": "analyzes",
+      "description": "15篇竞品文案拆解针对中国传统色产品",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+    },
+    {
+      "source": "n_forbidden_hooks",
+      "target": "n_competitor_analysis",
+      "type": "derived_from",
+      "description": "禁用钩子库基于竞品15篇文案拆解数据",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+    },
+    {
+      "source": "n_6_sins_of_low_5s",
+      "target": "n_5s_completion_rate",
+      "type": "diagnoses",
+      "description": "六大死因诊断低5s完播率的根因",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_2s_to_5s_conversion",
+      "target": "n_5s_completion_rate",
+      "type": "underlying_metric_of",
+      "description": "2s→5s转化率是5s完播率的底层驱动因素",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_4_dimensions_constraints",
+      "target": "n_8_sentence_formula",
+      "type": "constrains",
+      "description": "四维约束规范8句公式文案的视觉脚本实现",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案生成规则.md"
+    },
+    {
+      "source": "n_algorithm_distribution",
+      "target": "n_showcase_strategy",
+      "type": "drives",
+      "description": "算法分发机制驱动橱窗运营的流量获取策略",
+      "confidence_score": 0.8,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/抖音运营/算法分发机制.md"
+    },
+    {
+      "source": "n_follower_growth",
+      "target": "n_algorithm_distribution",
+      "type": "leverages",
+      "description": "粉丝增长方法论利用算法分发机制实现流量获取",
+      "confidence_score": 0.8,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/抖音运营/粉丝增长方法论.md"
+    },
+    {
+      "source": "n_feishu_bot",
+      "target": "n_feishu_bitable",
+      "type": "manages",
+      "description": "飞书机器人管理多维表格中的选品追踪数据",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/账号运营/飞书机器人配置.md"
+    },
+    {
+      "source": "n_feishu_bitable",
+      "target": "n_product_selection",
+      "type": "tracks",
+      "description": "飞书多维表格追踪选品评估数据",
+      "confidence_score": 0.8,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/工具与系统/账号运营/飞书机器人配置.md"
+    },
+    {
+      "source": "n_skill_system",
+      "target": "n_claude_code",
+      "type": "extends",
+      "description": "Skill系统扩展Claude Code的功能，7个已集成/26个待集成",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/工具脚本Skill集成分析报告_20260417.md"
+    },
+    {
+      "source": "n_knowledge_toolchain",
+      "target": "n_knowledge_base_architecture",
+      "type": "supports",
+      "description": "知识库工具链支撑知识库三层架构的运作",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库工具链速查.md"
+    },
+    {
+      "source": "n_graphify_70x_compression",
+      "target": "n_graphify",
+      "type": "core_feature_of",
+      "description": "70倍压缩是Graphify的核心技术特性",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Graphify使用指南.md"
+    },
+    {
+      "source": "n_claude_code_config_layers",
+      "target": "n_claude_code",
+      "type": "configures",
+      "description": "双层配置体系管理Claude Code的系统级和项目级行为",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/Claude-Code高级配置.md"
+    },
+    {
+      "source": "n_data_review_37works",
+      "target": "n_5s_completion_rate",
+      "type": "measures",
+      "description": "37条作品全量数据复盘测量5s完播率基线为21.25%",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_72k_viral_elements",
+      "target": "n_product_banshizhidao",
+      "type": "produced_by",
+      "description": "72K爆款要素在版式之道产品上首次验证",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_code_subscription_guide",
+      "target": "n_optimal_subscription_strategy",
+      "type": "informs",
+      "description": "大模型订阅指南为最优订阅策略提供定价数据基础",
+      "confidence_score": 0.8,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/大模型订阅指南.md"
+    },
+    {
+      "source": "n_code_subscription_guide",
+      "target": "n_claude_code",
+      "type": "documents_pricing_for",
+      "description": "订阅指南记录Claude Code的官方定价层级",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/大模型订阅指南.md"
+    },
+    {
+      "source": "n_showcase_strategy",
+      "target": "n_product_selection",
+      "type": "requires",
+      "description": "橱窗运营策略需要选品评估标准支撑",
+      "confidence_score": 0.8,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/抖音运营/橱窗运营策略.md"
+    },
+    {
+      "source": "n_product_chinese_colors",
+      "target": "n_product_selection",
+      "type": "evaluated_by",
+      "description": "中国传统色产品经过选品评估标准筛选",
+      "confidence_score": 0.7,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+    },
+    {
+      "source": "n_openrouter",
+      "target": "n_ofoxai",
+      "type": "competes_with",
+      "description": "OpenRouter和OfoxAI同为模型市场/提供商，存在定价竞争",
+      "confidence_score": 0.7,
+      "confidence_level": "INFERRED",
+      "source_file": "Wiki知识库/wiki/工具与系统/AI工具谱/openrouter-pricing.md"
+    },
+    {
+      "source": "n_copywriting_style_yushangyuan",
+      "target": "n_copywriting_moc",
+      "type": "documented_in",
+      "description": "余上沅风格在MOC导航地图中有详细文档",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_copywriting_style_jiumi",
+      "target": "n_copywriting_moc",
+      "type": "documented_in",
+      "description": "九厘米风格在MOC导航地图中有详细文档",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_copywriting_style_adscout",
+      "target": "n_copywriting_moc",
+      "type": "documented_in",
+      "description": "Ad Scout风格在MOC导航地图中有详细文档",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+    },
+    {
+      "source": "n_knowledge_base_architecture",
+      "target": "n_llm_wiki",
+      "type": "based_on",
+      "description": "知识库架构基于Karpathy LLM-Wiki范式",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库运作指南.md"
+    },
+    {
+      "source": "n_graphify",
+      "target": "n_knowledge_toolchain",
+      "type": "part_of",
+      "description": "Graphify是知识库工具链的核心组件之一",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库工具链速查.md"
+    },
+    {
+      "source": "n_wiki_lint",
+      "target": "n_knowledge_toolchain",
+      "type": "part_of",
+      "description": "wiki_lint是知识库工具链的健康检查组件",
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_file": "Wiki知识库/wiki/工具与系统/知识库架构/知识库工具链速查.md"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "he_ai_tool_subscription_ecosystem",
+      "name": "AI工具订阅生态",
+      "description": "围绕Claude Code形成的工具订阅生态：官方订阅+第三方代理+批量API+模型市场",
+      "nodes": ["n_claude_code", "n_codesome", "n_minimax", "n_openrouter"],
+      "confidence_score": 0.9,
+      "confidence_level": "INFERRED",
+      "source_files": [
+        "Wiki知识库/wiki/工具与系统/AI工具谱/CodeSOME订阅最佳策略.md",
+        "Wiki知识库/wiki/工具与系统/AI工具谱/大模型订阅指南.md"
+      ]
+    },
+    {
+      "id": "he_knowledge_base_toolchain",
+      "name": "知识库工具链生态",
+      "description": "知识库运作所需的完整工具链：架构设计+健康检查+图谱构建+文档转换+Agent",
+      "nodes": ["n_knowledge_base_architecture", "n_wiki_lint", "n_graphify", "n_markitdown", "n_hermes_agent"],
+      "confidence_score": 0.9,
+      "confidence_level": "INFERRED",
+      "source_files": [
+        "Wiki知识库/wiki/工具与系统/知识库架构/知识库工具链速查.md",
+        "Wiki知识库/wiki/工具与系统/知识库架构/知识库运作指南.md"
+      ]
+    },
+    {
+      "id": "he_copywriting_workflow",
+      "name": "文案创作完整工作流",
+      "description": "从风格选择→钩子设计→8句公式→DBS检定→视觉脚本→BGM选配的完整文案工作流",
+      "nodes": ["n_copywriting_moc", "n_8_sentence_formula", "n_dbs_inspection", "n_hook_types", "n_4_dimensions_constraints", "n_bgm_blacklist"],
+      "confidence_score": 0.95,
+      "confidence_level": "EXTRACTED",
+      "source_files": [
+        "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md",
+        "Wiki知识库/wiki/文案创作/文案生成规则.md"
+      ]
+    },
+    {
+      "id": "he_three_copywriting_styles",
+      "name": "三大文案风格体系",
+      "description": "水星艺术馆三套文案风格：余上沅的奇妙屋（学术深度）、九厘米的雾（内行解码）、Ad Scout（焦虑营销）",
+      "nodes": ["n_copywriting_style_yushangyuan", "n_copywriting_style_jiumi", "n_copywriting_style_adscout"],
+      "confidence_score": 1.0,
+      "confidence_level": "EXTRACTED",
+      "source_files": [
+        "Wiki知识库/wiki/文案创作/文案生成规则.md",
+        "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+      ]
+    },
+    {
+      "id": "he_douyin_operations",
+      "name": "抖音运营体系",
+      "description": "抖音运营三大支柱：算法分发机制+橱窗运营策略+粉丝增长方法论",
+      "nodes": ["n_algorithm_distribution", "n_showcase_strategy", "n_follower_growth"],
+      "confidence_score": 0.9,
+      "confidence_level": "INFERRED",
+      "source_files": [
+        "Wiki知识库/wiki/抖音运营/算法分发机制.md",
+        "Wiki知识库/wiki/抖音运营/橱窗运营策略.md",
+        "Wiki知识库/wiki/抖音运营/粉丝增长方法论.md"
+      ]
+    },
+    {
+      "id": "he_data_driven_copywriting",
+      "name": "数据驱动文案优化体系",
+      "description": "基于全量数据复盘的文案优化：5s完播率阈值+2s→5s转化率+六大死因诊断+72K爆款要素",
+      "nodes": ["n_5s_completion_rate", "n_2s_to_5s_conversion", "n_6_sins_of_low_5s", "n_72k_viral_elements", "n_data_review_37works"],
+      "confidence_score": 0.95,
+      "confidence_level": "EXTRACTED",
+      "source_files": [
+        "Wiki知识库/wiki/文案创作/文案生成规则.md",
+        "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+      ]
+    },
+    {
+      "id": "he_chinese_colors_product_ecosystem",
+      "name": "中国传统色产品创作生态",
+      "description": "中国传统色产品的完整创作生态：产品素材+8个颜色故事+三大风格适配+竞品分析+禁用钩子",
+      "nodes": ["n_product_chinese_colors", "n_chinese_colors_stories", "n_chinese_colors_3_styles", "n_competitor_analysis", "n_forbidden_hooks"],
+      "confidence_score": 0.95,
+      "confidence_level": "EXTRACTED",
+      "source_files": [
+        "Wiki知识库/wiki/文案创作/选题库/中国传统色-文案参考资料.md"
+      ]
+    },
+    {
+      "id": "he_claude_code_configuration",
+      "name": "Claude Code配置生态",
+      "description": "Claude Code的完整配置体系：双层配置+GUI包装+第三方代理",
+      "nodes": ["n_claude_code", "n_claude_code_config_layers", "n_opcode", "n_codesome"],
+      "confidence_score": 0.9,
+      "confidence_level": "INFERRED",
+      "source_files": [
+        "Wiki知识库/wiki/工具与系统/AI工具谱/Claude-Code高级配置.md",
+        "Wiki知识库/wiki/工具与系统/AI工具谱/Opcode使用指南.md"
+      ]
+    },
+    {
+      "id": "he_visual_content_production",
+      "name": "视觉内容制作体系",
+      "description": "从文案到视觉的完整制作链：文案公式→视觉设计系统→四维约束→BGM选配",
+      "nodes": ["n_8_sentence_formula", "n_visual_design_system", "n_4_dimensions_constraints", "n_bgm_blacklist"],
+      "confidence_score": 0.85,
+      "confidence_level": "INFERRED",
+      "source_files": [
+        "Wiki知识库/wiki/文案创作/文案生成规则.md",
+        "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+      ]
+    },
+    {
+      "id": "he_product_portfolio",
+      "name": "水星艺术馆产品矩阵",
+      "description": "水星艺术馆核心产品线：版式之道（设计）、宫崎骏（动画）、中国传统色（色彩）、摄影构图（摄影）",
+      "nodes": ["n_product_banshizhidao", "n_product_ghibli", "n_product_chinese_colors", "n_product_photography"],
+      "confidence_score": 0.9,
+      "confidence_level": "INFERRED",
+      "source_files": [
+        "Wiki知识库/wiki/文案创作/文案生成规则.md",
+        "Wiki知识库/wiki/文案创作/文案创作知识库-MOC.md"
+      ]
+    }
+  ]
+}

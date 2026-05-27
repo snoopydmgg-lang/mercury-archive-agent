@@ -1,0 +1,1004 @@
+{
+  "nodes": [
+    {
+      "id": "wang_xiaobo_yizhi_telixing_de_zhu",
+      "label": "一只特立独行的猪 (王小波)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-一只特立独行的猪.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "王小波",
+      "contributor": null
+    },
+    {
+      "id": "sanshi_sui_qian_de_meitian",
+      "label": "三十岁前的每一天",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-三十岁前的每一天.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "renlei_jianshi_sapiens",
+      "label": "人类简史 (Sapiens)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "尤瓦尔·赫拉利",
+      "contributor": null
+    },
+    {
+      "id": "xiaogou_qianqian",
+      "label": "小狗钱钱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-小狗钱钱.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "博多·舍费尔",
+      "contributor": null
+    },
+    {
+      "id": "yingxiangli_influence",
+      "label": "影响力 (Influence)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-影响力.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "罗伯特·西奥迪尼",
+      "contributor": null
+    },
+    {
+      "id": "beilun_miti_zhishi_cuiruoxing",
+      "label": "悖论、谜题、及知识的脆弱性",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tigao_zhishang",
+      "label": "提高智商",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-提高智商.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ai_de_yishu",
+      "label": "爱的艺术 (The Art of Loving)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-爱的艺术.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "埃里希·弗洛姆",
+      "contributor": null
+    },
+    {
+      "id": "yuanjian_far_sighted",
+      "label": "远见 (Far-sighted)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-远见.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gaoxiao_xuexi",
+      "label": "高效学习",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-高效学习.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "yangzhai_sanyao",
+      "label": "阳宅三要 (Feng Shui Reference)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/graphify-out/converted/笔记、阳宅三要_e0458cdd.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "gongzuo_xiaofeizhuyi_xinqiongren",
+      "label": "工作、消费主义和新穷人",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：工作、消费主义和新穷人.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "齐格蒙特·鲍曼",
+      "contributor": null
+    },
+    {
+      "id": "wo_bushi_jiaoni_zha",
+      "label": "我不是教你诈",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：我不是教你诈.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "刘墉",
+      "contributor": null
+    },
+    {
+      "id": "shendu_shuofui",
+      "label": "深度说服",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：深度说服.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "jingli_guanli",
+      "label": "精力管理 (The Power of Full Engagement)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：精力管理.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "吉姆·洛尔",
+      "contributor": null
+    },
+    {
+      "id": "zhixie_xinshidai",
+      "label": "致谢新时代",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：致谢新时代.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "刘锦程",
+      "contributor": null
+    },
+    {
+      "id": "beitaoyongyongqi",
+      "label": "被讨厌的勇气 (The Courage to Be Disliked)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "岸见一郎 / 古贺史健",
+      "contributor": null
+    },
+    {
+      "id": "getnote_ai_liuliang_siwie",
+      "label": "AI时代流量思维转型",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI时代流量思维转型：从搞流量到搞用户的深度策略｜Get笔记.md",
+      "source_location": null,
+      "source_url": "https://www.biji.com/note/9PWOW9k876Em7jbP/web",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": "Get笔记"
+    },
+    {
+      "id": "getnote_ai_agent",
+      "label": "AI智能体Agent深度解析",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "source_url": "https://www.biji.com/note/pMrXBVrdwVoZbAeJ/web",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": "Get笔记"
+    },
+    {
+      "id": "getnote_app_intro",
+      "label": "Get笔记 - AI驱动的高效知识管理应用",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Get笔记 - AI驱动的高效知识管理应用.md",
+      "source_location": null,
+      "source_url": "https://www.biji.com/post/qY2BZ56Y/1900525870674877912/web",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": "Get笔记"
+    },
+    {
+      "id": "getnote_remotion_ai",
+      "label": "Remotion+AI动效制作全攻略",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Remotion+AI动效制作全攻略｜Get笔记.md",
+      "source_location": null,
+      "source_url": "https://www.biji.com/note/qJLWd5mmjKK7eqjP/web",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": "Get笔记"
+    },
+    {
+      "id": "getnote_scott_adams",
+      "label": "Scott Adams的平庸者逆袭系统",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Scott Adams的平庸者逆袭系统｜Get笔记.md",
+      "source_location": null,
+      "source_url": "https://www.biji.com/note/VMnqapwDjgpLp6Vv/web",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": "Get笔记"
+    },
+    {
+      "id": "concept_cognitive_revolution",
+      "label": "认知革命 (Cognitive Revolution)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_agricultural_revolution",
+      "label": "农业革命 (Agricultural Revolution)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_imagined_order",
+      "label": "想象构建的秩序 (Imagined Order)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_adler_teleology",
+      "label": "阿德勒目的论 (Adlerian Teleology)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_task_separation",
+      "label": "课题分离 (Task Separation)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_community_feeling",
+      "label": "共同体感觉 (Community Feeling)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_energy_pyramid",
+      "label": "精力金字塔 (Energy Pyramid)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：精力管理.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_work_ethic",
+      "label": "工作伦理 (Work Ethics)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：工作、消费主义和新穷人.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_skill_stacking",
+      "label": "技能叠加 (Skill Stacking)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Scott Adams的平庸者逆袭系统｜Get笔记.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ai_agent_planning",
+      "label": "Agent规划能力 (Planning)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ai_agent_memory",
+      "label": "Agent记忆系统 (Memory)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ai_agent_tools",
+      "label": "Agent工具使用 (Tools/Function Calling)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_hempel_raven",
+      "label": "亨普尔乌鸦悖论 (Hempel's Raven)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ockham_razor",
+      "label": "奥卡姆剃刀 (Ockham's Razor)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_grue_paradox",
+      "label": "绿蓝-蓝绿悖论 (Grue-Blue Paradox)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_smart_goals",
+      "label": "SMART原则",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-三十岁前的每一天.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_pdca_cycle",
+      "label": "PDCA循环模型",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-三十岁前的每一天.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_holistic_learning",
+      "label": "整体性学习 (Holistic Learning)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-高效学习.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_72_formula",
+      "label": "72公式 (Rule of 72)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-小狗钱钱.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_success_journal",
+      "label": "成功日记 (Success Journal)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-小狗钱钱.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_private_domain_traffic",
+      "label": "私域流量 (Private Domain Traffic)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI时代流量思维转型：从搞流量到搞用户的深度策略｜Get笔记.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_remotion",
+      "label": "Remotion (React视频框架)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Remotion+AI动效制作全攻略｜Get笔记.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bagua_wuxing",
+      "label": "八卦与五行 (Bagua & Five Elements)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/graphify-out/converted/笔记、阳宅三要_e0458cdd.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_five_principles_energy",
+      "label": "精力管理四原则",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：精力管理.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "renlei_jianshi_sapiens",
+      "target": "concept_cognitive_revolution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renlei_jianshi_sapiens",
+      "target": "concept_agricultural_revolution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "renlei_jianshi_sapiens",
+      "target": "concept_imagined_order",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beitaoyongyongqi",
+      "target": "concept_adler_teleology",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beitaoyongyongqi",
+      "target": "concept_task_separation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beitaoyongyongqi",
+      "target": "concept_community_feeling",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jingli_guanli",
+      "target": "concept_energy_pyramid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：精力管理.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "jingli_guanli",
+      "target": "concept_five_principles_energy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：精力管理.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gongzuo_xiaofeizhuyi_xinqiongren",
+      "target": "concept_work_ethic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：工作、消费主义和新穷人.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getnote_scott_adams",
+      "target": "concept_skill_stacking",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Scott Adams的平庸者逆袭系统｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getnote_ai_agent",
+      "target": "concept_ai_agent_planning",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getnote_ai_agent",
+      "target": "concept_ai_agent_memory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getnote_ai_agent",
+      "target": "concept_ai_agent_tools",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beilun_miti_zhishi_cuiruoxing",
+      "target": "concept_hempel_raven",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beilun_miti_zhishi_cuiruoxing",
+      "target": "concept_ockham_razor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beilun_miti_zhishi_cuiruoxing",
+      "target": "concept_grue_paradox",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sanshi_sui_qian_de_meitian",
+      "target": "concept_smart_goals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-三十岁前的每一天.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "sanshi_sui_qian_de_meitian",
+      "target": "concept_pdca_cycle",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-三十岁前的每一天.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gaoxiao_xuexi",
+      "target": "concept_holistic_learning",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-高效学习.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xiaogou_qianqian",
+      "target": "concept_72_formula",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-小狗钱钱.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "xiaogou_qianqian",
+      "target": "concept_success_journal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-小狗钱钱.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getnote_ai_liuliang_siwie",
+      "target": "concept_private_domain_traffic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI时代流量思维转型：从搞流量到搞用户的深度策略｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "getnote_remotion_ai",
+      "target": "concept_remotion",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Remotion+AI动效制作全攻略｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "yangzhai_sanyao",
+      "target": "concept_bagua_wuxing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/graphify-out/converted/笔记、阳宅三要_e0458cdd.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "beitaoyongyongqi",
+      "target": "concept_adler_teleology",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "concept_task_separation",
+      "target": "concept_community_feeling",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_cognitive_revolution",
+      "target": "concept_imagined_order",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-人类简史.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_work_ethic",
+      "target": "concept_imagined_order",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：工作、消费主义和新穷人.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "concept_energy_pyramid",
+      "target": "concept_five_principles_energy",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：精力管理.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_ai_agent_planning",
+      "target": "concept_ai_agent_memory",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_ai_agent_memory",
+      "target": "concept_ai_agent_tools",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_hempel_raven",
+      "target": "concept_grue_paradox",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_smart_goals",
+      "target": "concept_pdca_cycle",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-三十岁前的每一天.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "concept_72_formula",
+      "target": "concept_success_journal",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-小狗钱钱.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "concept_skill_stacking",
+      "target": "concept_holistic_learning",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Scott Adams的平庸者逆袭系统｜Get笔记.md",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "concept_ockham_razor",
+      "target": "concept_holistic_learning",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "wang_xiaobo_yizhi_telixing_de_zhu",
+      "target": "concept_holistic_learning",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-一只特立独行的猪.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "getnote_ai_liuliang_siwie",
+      "target": "concept_private_domain_traffic",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI时代流量思维转型：从搞流量到搞用户的深度策略｜Get笔记.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_private_domain_traffic",
+      "target": "concept_work_ethic",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI时代流量思维转型：从搞流量到搞用户的深度策略｜Get笔记.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "concept_remotion",
+      "target": "concept_ai_agent_tools",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/Remotion+AI动效制作全攻略｜Get笔记.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "concept_bagua_wuxing",
+      "target": "concept_imagined_order",
+      "relation": "semantically_similar_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.3,
+      "source_file": "Wiki知识库/graphify-out/converted/笔记、阳宅三要_e0458cdd.md",
+      "source_location": null,
+      "weight": 0.3
+    },
+    {
+      "source": "concept_ockham_razor",
+      "target": "concept_grue_paradox",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "gongzuo_xiaofeizhuyi_xinqiongren",
+      "target": "concept_imagined_order",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：工作、消费主义和新穷人.md",
+      "source_location": null,
+      "weight": 0.65
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "personal_growth_knowledge_system",
+      "label": "个人成长知识体系",
+      "nodes": [
+        "beitaoyongyongqi",
+        "jingli_guanli",
+        "sanshi_sui_qian_de_meitian",
+        "xiaogou_qianqian",
+        "gaoxiao_xuexi",
+        "getnote_scott_adams"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/"
+    },
+    {
+      "id": "ai_technology_ecosystem",
+      "label": "AI技术生态知识图谱",
+      "nodes": [
+        "getnote_ai_agent",
+        "concept_ai_agent_planning",
+        "concept_ai_agent_memory",
+        "concept_ai_agent_tools"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/GetNote/AI智能体Agent深度解析｜Get笔记.md"
+    },
+    {
+      "id": "philosophy_of_knowledge",
+      "label": "知识哲学与认识论",
+      "nodes": [
+        "beilun_miti_zhishi_cuiruoxing",
+        "concept_hempel_raven",
+        "concept_ockham_razor",
+        "concept_grue_paradox"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记-悖论、谜题、及知识的脆弱性.md"
+    },
+    {
+      "id": "adlerian_psychology_framework",
+      "label": "阿德勒心理学框架",
+      "nodes": [
+        "beitaoyongyongqi",
+        "concept_adler_teleology",
+        "concept_task_separation",
+        "concept_community_feeling"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/05_个人成长/个人成长/笔记：被讨厌的勇气.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

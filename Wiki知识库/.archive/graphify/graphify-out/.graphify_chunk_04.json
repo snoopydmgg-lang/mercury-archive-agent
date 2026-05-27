@@ -1,0 +1,1165 @@
+{
+  "nodes": [
+    {
+      "id": "claude_anti_ban_guide",
+      "label": "Claude防封号指南",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "GPT-4o",
+      "contributor": null
+    },
+    {
+      "id": "codesome_subscription",
+      "label": "Codesome订阅服务",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome｜码点什么订阅.md",
+      "source_location": null,
+      "source_url": "https://fk.codesome.cn/",
+      "captured_at": "2026-04-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "iproyal_order",
+      "label": "IPRoyal静态住宅代理订单",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/iproyal订单.md",
+      "source_location": null,
+      "source_url": "https://dashboard.iproyal.com/me/orders/69961959",
+      "captured_at": "2026-04-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_gemini_models",
+      "label": "OpenRouter Gemini模型列表",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/models?arch=Gemini",
+      "captured_at": "2026-04-12",
+      "author": "Google",
+      "contributor": null
+    },
+    {
+      "id": "openrouter_models_listing",
+      "label": "OpenRouter通用模型列表",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/models",
+      "captured_at": "2026-04-13",
+      "author": "Google",
+      "contributor": null
+    },
+    {
+      "id": "ofox_ai_model_marketplace",
+      "label": "OfoxAI模型广场",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/OfoxAI 模型广场.md",
+      "source_location": null,
+      "source_url": "https://ofox.ai/zh/models",
+      "captured_at": "2026-04-13",
+      "author": "Ofox AI",
+      "contributor": null
+    },
+    {
+      "id": "opcode_readme",
+      "label": "opcode - Claude Code GUI工具(getAsterisk)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/opcodeREADME.md",
+      "source_location": null,
+      "source_url": "https://github.com/getAsterisk/opcode",
+      "captured_at": null,
+      "author": "Asterisk",
+      "contributor": null
+    },
+    {
+      "id": "winfunc_opcode",
+      "label": "opcode - Claude Code GUI工具(winfunc fork)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/winfuncopcode A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.md",
+      "source_location": null,
+      "source_url": "https://github.com/winfunc/opcode",
+      "captured_at": "2026-04-14",
+      "author": "winfunc",
+      "contributor": "Asterisk"
+    },
+    {
+      "id": "winfunc_opcode_readme",
+      "label": "opcode(winfunc fork) README详情",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/winfuncopcode A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more 1.md",
+      "source_location": null,
+      "source_url": "https://github.com/winfunc/opcode/blob/main/README.md",
+      "captured_at": "2026-04-14",
+      "author": "winfunc",
+      "contributor": "Asterisk"
+    },
+    {
+      "id": "codesome_third_party_config",
+      "label": "Codesome第三方客户端接入配置指南",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/第三方客户端接入 Codesome 配置指南 - 飞书云文档.md",
+      "source_location": null,
+      "source_url": "https://zvgmnl1sw58.feishu.cn/wiki/MYfswYAPuidk1dk7zzWcbI7RnDc",
+      "captured_at": "2026-04-14",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "codesome_api_pricing",
+      "label": "Codesome API服务接入指南与定价说明",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome API 服务接入指南与定价说明 - 飞书云文档.md",
+      "source_location": null,
+      "source_url": "https://zvgmnl1sw58.feishu.cn/wiki/Un77wjDYhiRYnok8iG8cS44lnh2",
+      "captured_at": "2026-04-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimax_mcp_tools",
+      "label": "MiniMax MCP图片理解与网络搜索工具",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "source_url": "https://platform.minimaxi.com/docs/token-plan/mcp-guide",
+      "captured_at": "2026-04-12",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimax_token_plan_faq",
+      "label": "MiniMax Token Plan常见问题",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/常见问题 - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "source_url": "https://platform.minimaxi.com/docs/token-plan/faq",
+      "captured_at": "2026-04-13",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipuai_platform",
+      "label": "智谱AI开放平台(GLM模型定价)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/智谱AI开放平台.md",
+      "source_location": null,
+      "source_url": "https://bigmodel.cn/pricing",
+      "captured_at": "2026-04-12",
+      "author": "北京智谱华章科技股份有限公司",
+      "contributor": null
+    },
+    {
+      "id": "adspower_chain_proxy_sop",
+      "label": "AdsPower + 静态住宅IP链式代理排障与SOP",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_agentic_usage",
+      "label": "OpenRouter SDK Agentic Usage指南",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Agentic Usage - OpenRouter SDK.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/sdks/agentic-usage",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_agent_migration",
+      "label": "OpenRouter SDK Agent迁移指南",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Migrate to @openrouteragent - OpenRouter SDK.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/sdks/agent-migration",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_model_fallbacks",
+      "label": "OpenRouter模型自动故障转移",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Model Fallbacks - Automatic Failover Between Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/guides/routing/model-fallbacks",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_api_reference",
+      "label": "OpenRouter API参考文档",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter API Reference.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/api/reference/overview",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_models_doc",
+      "label": "OpenRouter统一模型访问文档",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Models - Unified Access to 300+ AI Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/guides/overview/models",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "openrouter_multimodal",
+      "label": "OpenRouter多模态能力文档",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Multimodal Capabilities.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/guides/overview/multimodal/overview",
+      "captured_at": "2026-04-11",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "adspower",
+      "label": "AdsPower指纹浏览器",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "source_url": "https://www.adspower.com/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "iproyal",
+      "label": "IPRoyal静态住宅代理服务商",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/iproyal订单.md",
+      "source_location": null,
+      "source_url": "https://iproyal.com/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "claude_code",
+      "label": "Claude Code CLI",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/opcodeREADME.md",
+      "source_location": null,
+      "source_url": "https://claude.ai/code",
+      "captured_at": null,
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "openrouter_platform",
+      "label": "OpenRouter统一AI模型API平台",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter API Reference.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "minimax_platform",
+      "label": "MiniMax开放平台",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/常见问题 - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "source_url": "https://platform.minimaxi.com/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "codesome_platform",
+      "label": "Codesome Claude Code API代理平台",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome｜码点什么订阅.md",
+      "source_location": null,
+      "source_url": "https://cc.codesome.ai/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhipuai_glm",
+      "label": "智谱AI GLM系列模型",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/智谱AI开放平台.md",
+      "source_location": null,
+      "source_url": "https://bigmodel.cn/",
+      "captured_at": null,
+      "author": "北京智谱华章科技股份有限公司",
+      "contributor": null
+    },
+    {
+      "id": "ofox_ai",
+      "label": "OfoxAI模型聚合平台",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/OfoxAI 模型广场.md",
+      "source_location": null,
+      "source_url": "https://ofox.ai/",
+      "captured_at": null,
+      "author": "Ofox AI",
+      "contributor": null
+    },
+    {
+      "id": "gemini_3_pro",
+      "label": "Google Gemini 3 Pro",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/google/gemini-3-pro-image-preview",
+      "captured_at": null,
+      "author": "Google",
+      "contributor": null
+    },
+    {
+      "id": "gemini_3_flash",
+      "label": "Google Gemini 3 Flash",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/google/gemini-3-flash-preview",
+      "captured_at": null,
+      "author": "Google",
+      "contributor": null
+    },
+    {
+      "id": "gemini_31_pro",
+      "label": "Google Gemini 3.1 Pro",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/google/gemini-3.1-pro-preview",
+      "captured_at": null,
+      "author": "Google",
+      "contributor": null
+    },
+    {
+      "id": "minimax_m27",
+      "label": "MiniMax M2.7模型",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/常见问题 - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "MiniMax",
+      "contributor": null
+    },
+    {
+      "id": "glm_5_1",
+      "label": "GLM-5.1长程任务模型",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/智谱AI开放平台.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "智谱AI",
+      "contributor": null
+    },
+    {
+      "id": "openrouter_sdk",
+      "label": "OpenRouter SDK(@openrouter/sdk + @openrouter/agent)",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Agentic Usage - OpenRouter SDK.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/docs/sdks/agentic-usage",
+      "captured_at": null,
+      "author": "OpenRouter",
+      "contributor": null
+    },
+    {
+      "id": "minimax_coding_plan_mcp",
+      "label": "minimax-coding-plan-mcp",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "MiniMax",
+      "contributor": null
+    },
+    {
+      "id": "mcp_protocol",
+      "label": "Model Context Protocol (MCP)",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chain_proxy_architecture",
+      "label": "链式代理架构(Chain Proxy)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ccswitch",
+      "label": "CCSwitch代理路由工具",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "whoer_net",
+      "label": "whoer.net指纹伪装度检测",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "source_url": "https://whoer.net/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ipinfo_io",
+      "label": "ipinfo.io IP属性检测",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/iproyal订单.md",
+      "source_location": null,
+      "source_url": "https://ipinfo.io/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "scamalytics",
+      "label": "scamalytics.com欺诈风险检测",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "source_url": "https://scamalytics.com/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "qwen36_plus",
+      "label": "Qwen 3.6 Plus",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/qwen/qwen3.6-plus",
+      "captured_at": null,
+      "author": "Alibaba/Qwen",
+      "contributor": null
+    },
+    {
+      "id": "gemma4_26b",
+      "label": "Google Gemma 4 26B A4B",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/google/gemma-4-26b-a4b-it",
+      "captured_at": null,
+      "author": "Google DeepMind",
+      "contributor": null
+    },
+    {
+      "id": "claude_sonnet_46",
+      "label": "Claude Sonnet 4.6",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/anthropic/claude-sonnet-4.6",
+      "captured_at": null,
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "claude_opus_46",
+      "label": "Claude Opus 4.6",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "source_url": "https://openrouter.ai/anthropic/claude-opus-4.6",
+      "captured_at": null,
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "cherry_studio",
+      "label": "Cherry Studio",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/第三方客户端接入 Codesome 配置指南 - 飞书云文档.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nuoma_ai",
+      "label": "牛马AI客户端",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/第三方客户端接入 Codesome 配置指南 - 飞书云文档.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "claude_anti_ban_guide",
+      "target": "adspower",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_anti_ban_guide",
+      "target": "iproyal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_anti_ban_guide",
+      "target": "whoer_net",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_anti_ban_guide",
+      "target": "ipinfo_io",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_anti_ban_guide",
+      "target": "scamalytics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "iproyal_order",
+      "target": "iproyal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/iproyal订单.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "iproyal_order",
+      "target": "adspower",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/iproyal订单.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "adspower_chain_proxy_sop",
+      "target": "chain_proxy_architecture",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "adspower_chain_proxy_sop",
+      "target": "adspower",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "adspower_chain_proxy_sop",
+      "target": "iproyal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "adspower_chain_proxy_sop",
+      "target": "ccswitch",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "adspower_chain_proxy_sop",
+      "target": "claude_code",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_subscription",
+      "target": "codesome_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome｜码点什么订阅.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_api_pricing",
+      "target": "codesome_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome API 服务接入指南与定价说明 - 飞书云文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_third_party_config",
+      "target": "codesome_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/第三方客户端接入 Codesome 配置指南 - 飞书云文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_third_party_config",
+      "target": "cherry_studio",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/第三方客户端接入 Codesome 配置指南 - 飞书云文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_third_party_config",
+      "target": "nuoma_ai",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/第三方客户端接入 Codesome 配置指南 - 飞书云文档.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_platform",
+      "target": "claude_code",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome｜码点什么订阅.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_platform",
+      "target": "openrouter_platform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome｜码点什么订阅.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ofox_ai",
+      "target": "openrouter_platform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/OfoxAI 模型广场.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_gemini_models",
+      "target": "openrouter_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_gemini_models",
+      "target": "gemini_3_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_gemini_models",
+      "target": "gemini_3_flash",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_gemini_models",
+      "target": "gemini_31_pro",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models 1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_models_listing",
+      "target": "openrouter_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_models_listing",
+      "target": "claude_opus_46",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_models_listing",
+      "target": "claude_sonnet_46",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_models_listing",
+      "target": "gemma4_26b",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_models_listing",
+      "target": "qwen36_plus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opcode_readme",
+      "target": "claude_code",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/opcodeREADME.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "opcode_readme",
+      "target": "mcp_protocol",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/opcodeREADME.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winfunc_opcode",
+      "target": "opcode_readme",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/winfuncopcode A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winfunc_opcode_readme",
+      "target": "opcode_readme",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/winfuncopcode A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more 1.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "winfunc_opcode",
+      "target": "winfunc_opcode_readme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/winfuncopcode A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_mcp_tools",
+      "target": "minimax_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_mcp_tools",
+      "target": "minimax_coding_plan_mcp",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_mcp_tools",
+      "target": "mcp_protocol",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_mcp_tools",
+      "target": "claude_code",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_token_plan_faq",
+      "target": "minimax_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/常见问题 - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_token_plan_faq",
+      "target": "minimax_m27",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/常见问题 - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipuai_platform",
+      "target": "zhipuai_glm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/智谱AI开放平台.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipuai_platform",
+      "target": "glm_5_1",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/智谱AI开放平台.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "ofox_ai_model_marketplace",
+      "target": "ofox_ai",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/OfoxAI 模型广场.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_agentic_usage",
+      "target": "openrouter_sdk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Agentic Usage - OpenRouter SDK.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_agent_migration",
+      "target": "openrouter_sdk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Migrate to @openrouteragent - OpenRouter SDK.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_model_fallbacks",
+      "target": "openrouter_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/Model Fallbacks - Automatic Failover Between Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_api_reference",
+      "target": "openrouter_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter API Reference.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_api_reference",
+      "target": "openrouter_sdk",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter API Reference.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_models_doc",
+      "target": "openrouter_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Models - Unified Access to 300+ AI Models.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_multimodal",
+      "target": "openrouter_platform",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter Multimodal Capabilities.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chain_proxy_architecture",
+      "target": "adspower",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chain_proxy_architecture",
+      "target": "iproyal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/架构文档：AdsPower + 静态住宅 IP 链式代理排障与 SOP.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "openrouter_api_reference",
+      "target": "claude_sonnet_46",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter API Reference.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_mcp_tools",
+      "target": "minimax_m27",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/图片理解 & 网络搜索 MCP - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "codesome_subscription",
+      "target": "claude_code",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/codesome｜码点什么订阅.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "minimax_platform",
+      "target": "claude_code",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/常见问题 - MiniMax 开放平台文档中心.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "zhipuai_glm",
+      "target": "openrouter_platform",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/智谱AI开放平台.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "claude_code",
+      "target": "openrouter_platform",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter API Reference.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "claude_environment_setup_chain",
+      "label": "Claude账号环境搭建完整链路",
+      "nodes": [
+        "iproyal",
+        "adspower",
+        "chain_proxy_architecture",
+        "whoer_net",
+        "ipinfo_io",
+        "scamalytics",
+        "claude_code"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/Claude防封号指南.md.md"
+    },
+    {
+      "id": "ai_model_api_providers",
+      "label": "AI模型API聚合与代理平台生态",
+      "nodes": [
+        "openrouter_platform",
+        "ofox_ai",
+        "codesome_platform",
+        "minimax_platform",
+        "zhipuai_glm"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/OfoxAI 模型广场.md"
+    },
+    {
+      "id": "openrouter_sdk_ecosystem",
+      "label": "OpenRouter SDK完整生态",
+      "nodes": [
+        "openrouter_platform",
+        "openrouter_sdk",
+        "openrouter_api_reference",
+        "openrouter_model_fallbacks",
+        "openrouter_multimodal"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/04_学习笔记/AI学习/AI学习/OpenRouter API Reference.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

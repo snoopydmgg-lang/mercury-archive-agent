@@ -1,1 +1,11 @@
-{}
+{
+  "baseFontSize": 16,
+  "accentColor": "#D36B4D",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "cssTheme": "",
+  "snippet": [
+    "shuixing-theme"
+  ]
+}

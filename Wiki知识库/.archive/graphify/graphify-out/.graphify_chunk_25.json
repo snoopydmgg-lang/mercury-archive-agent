@@ -1,0 +1,875 @@
+{
+  "nodes": [
+    {
+      "id": "dontbesilent_blogger",
+      "label": "dontbesilent",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_三方博弈流量模型",
+      "label": "三方博弈流量模型 (Three-party Game Traffic Model)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_原方法",
+      "label": "原方法 (Meta-method)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_反脆弱思维",
+      "label": "反脆弱思维 (Antifragile Thinking)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/102_月薪是人生最大陷阱，稳定是穷人的精神鸦片 月薪二千五命比咖啡苦 反脆弱 dontbesilent 死工资 反脆弱思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_AI不被淘汰",
+      "label": "AI不被淘汰 (AI as Anti-Displacement Tool)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/103_AI 不是用来赚钱的，是用来不被淘汰的 AI 人工智能 赚钱思维 商业思维 第四次工业革命.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_高毛利生意",
+      "label": "高毛利生意 (High Margin Business)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/104_高毛利生意可能是普通人唯一的活路 毛利 单量 从0到1 生意 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_私域流量负债论",
+      "label": "私域流量负债论 (Private Domain Traffic as Liability)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/105_99% 的私域流量都不是资产，而是负债 私域 私域流量 dontbesilent 公域 公域流量和私域流量.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_习得性无助",
+      "label": "习得性无助 (Learned Helplessness)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/106_不相信自己能赚到钱，是一种习得性无助 dontbesilent 习得性无助 习得性无助如何解决 第一桶金 赚钱是一种能力.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_一人公司批判",
+      "label": "一人公司批判 (One-Person Company Critique)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/107_「一人公司」是一场违背商业规律的造富神话 一人公司的优缺点 科斯定律 组织管理 商业思维 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_交易成本与老实人",
+      "label": "交易成本与老实人心态 (Transaction Costs and Honest Person Mindset)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/108_总想解决问题的老实人心态，是赚钱最大障碍 dontbesilent 赚钱思维 交易成本 交易成本理论 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_用户需求陷阱",
+      "label": "用户需求陷阱 (User Needs Trap)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/109_从用户需求出发，是你做不成生意的第一步 用户需求 需求 需求痛点产品 dontbesilent 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_AI智能体工作流",
+      "label": "AI智能体视频创作工作流 (AI Agent Video Workflow)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/110_如何用 4 个智能体 5 分钟完成爆款视频创作 智能体 AI 爆款短视频 AI爆款 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_烂好人障碍",
+      "label": "烂好人赚钱障碍 (Nice Guy as Money Barrier)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/111_普通人想赚钱，求你先干掉心中的那个"烂好人" 真实生活分享计划 赚钱思维 商业思维 商业思维认知 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_第一桶金故事",
+      "label": "第一桶金故事 (First Pot of Gold Story)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/112_赚第一桶金用了 1 天，破除执念花了 3 年 真实生活分享计划 dontbesilent 第一桶金 创业记录 第一桶金的故事.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_抄袭事件",
+      "label": "抄袭事件 (Plagiarism Incident)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/113_抄我的人很多，抄了我还要开课的这是头一个 抄袭 抄袭可耻尊重原创 被抄袭 抄袭事件 福布斯中国u30.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_小红书开店",
+      "label": "小红书开店经验 (Xiaohongshu Store Experience)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/114_在小红书卖了 5 千单，开店的坑一篇讲清楚 小红书开店 小红书运营 小红书店铺 小红书店铺开通 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_虚拟资料定价",
+      "label": "虚拟资料定价策略 (Virtual Product Pricing Strategy)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/115_薄利多销只会坑死自己，虚拟资料如何科学定价 虚拟资料 定价策略 定价 dontbesilent 定价技巧.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_赚钱系统框架",
+      "label": "赚钱系统框架 (Money-Making System Framework)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/116_3 分钟学会，让「赚钱」变得清晰且有迹可循 干货分享 观点分享 dontbesilent dontbesilent聊赚钱 赚钱有迹可循.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_系统性思维赚钱",
+      "label": "系统性思维赚钱 (Systematic Thinking for Money)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/117_搞不清楚赚钱的这套系统，人就真的赚不到钱 干货都在这 商业思维 系统性思维 dontbesilent dontbesilent聊赚钱.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_私域四维模型",
+      "label": "私域四维模型 (Private Domain 4D Model)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/118_独家四维模型，5 分钟理解做私域底层逻辑 dontbesilent 私域 私域运营 公域流量 思维模型.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_系统性思维训练",
+      "label": "系统性思维训练 (Systematic Thinking Training)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/119_5 分钟教你系统性思维，养一个会赚钱的脑子 系统性思维 dontbesilent 会赚钱 思维训练 商业认知.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_平台思维",
+      "label": "平台思维 (Platform Thinking)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/120_搞懂平台想要啥，比你闷头发 100 条都有用 流量思维 平台思维 自媒体底层逻辑 dontbesilent 自媒体干货.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "dontbesilent_原创爆款逻辑",
+      "label": "原创爆款逻辑 (Original Viral Content Logic)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/121_如何只靠原创涨粉 20 万，我的爆款逻辑 创业vlog 自媒体 dontbesilent 原创爆款 内容逻辑.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_科斯定律",
+      "label": "科斯定律 (Coase Theorem)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/107_「一人公司」是一场违背商业规律的造富神话 一人公司的优缺点 科斯定律 组织管理 商业思维 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_反脆弱",
+      "label": "反脆弱 (Antifragile by Nassim Taleb)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/102_月薪是人生最大陷阱，稳定是穷人的精神鸦片 月薪二千五命比咖啡苦 反脆弱 dontbesilent 死工资 反脆弱思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_习得性无助",
+      "label": "习得性无助 (Learned Helplessness by Seligman)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/106_不相信自己能赚到钱，是一种习得性无助 dontbesilent 习得性无助 习得性无助如何解决 第一桶金 赚钱是一种能力.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_交易成本理论",
+      "label": "交易成本理论 (Transaction Cost Theory)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/108_总想解决问题的老实人心态，是赚钱最大障碍 dontbesilent 赚钱思维 交易成本 交易成本理论 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_锚定效应",
+      "label": "锚定效应 (Anchoring Effect)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/121_如何只靠原创涨粉 20 万，我的爆款逻辑 创业vlog 自媒体 dontbesilent 原创爆款 内容逻辑.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_损失厌恶",
+      "label": "损失厌恶 (Loss Aversion)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_注意力经济",
+      "label": "注意力经济 (Attention Economy)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_认知冲突",
+      "label": "认知冲突 (Cognitive Conflict)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_价值倒挂",
+      "label": "价值倒挂 (Value Inversion)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_热力学第二定律",
+      "label": "热力学第二定律/熵增定律 (Second Law of Thermodynamics / Entropy)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/102_月薪是人生最大陷阱，稳定是穷人的精神鸦片 月薪二千五命比咖啡苦 反脆弱 dontbesilent 死工资 反脆弱思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_广告负载率",
+      "label": "广告负载率 (Ad Load Rate)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_五秒完播率",
+      "label": "五秒完播率 (5-Second Completion Rate)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干费 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_CES评分",
+      "label": "CES评分 (Community Engagement Score)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/120_搞懂平台想要啥，比你闷头发 100 条都有用 流量思维 平台思维 自媒体底层逻辑 dontbesilent 自媒体干货.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_银弹问题",
+      "label": "银弹问题 (Silver Bullet Problem)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/119_5 分钟教你系统性思维，养一个会赚钱的脑子 系统性思维 dontbesilent 会赚钱 思维训练 商业认知.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_15%法则",
+      "label": "15%法则 (15% Rule for Pricing)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/115_薄利多销只会坑死自己，虚拟资料如何科学定价 虚拟资料 定价策略 定价 dontbesilent 定价技巧.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_引流款利润款",
+      "label": "引流款与利润款 (Traffic Product vs Profit Product)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/115_薄利多销只会坑死自己，虚拟资料如何科学定价 虚拟资料 定价策略 定价 dontbesilent 定价技巧.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platform_小红书",
+      "label": "小红书 (Xiaohongshu / RED)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/114_在小红书卖了 5 千单，开店的坑一篇讲清楚 小红书开店 小红书运营 小红书店铺 小红书店铺开通 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "platform_抖音",
+      "label": "抖音 (Douyin / TikTok China)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/120_搞懂平台想要啥，比你闷头发 100 条都有用 流量思维 平台思维 自媒体底层逻辑 dontbesilent 自媒体干货.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "dontbesilent_三方博弈流量模型",
+      "target": "concept_广告负载率",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_三方博弈流量模型",
+      "target": "concept_五秒完播率",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_三方博弈流量模型",
+      "target": "concept_注意力经济",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "dontbesilent_原方法",
+      "target": "concept_损失厌恶",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_原方法",
+      "target": "concept_认知冲突",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_原方法",
+      "target": "concept_价值倒挂",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_原方法",
+      "target": "concept_注意力经济",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_反脆弱思维",
+      "target": "concept_反脆弱",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/102_月薪是人生最大陷阱，稳定是穷人的精神鸦片 月薪二千五命比咖啡苦 反脆弱 dontbesilent 死工资 反脆弱思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_反脆弱思维",
+      "target": "concept_热力学第二定律",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/102_月薪是人生最大陷阱，稳定是穷人的精神鸦片 月薪二千五命比咖啡苦 反脆弱 dontbesilent 死工资 反脆弱思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_一人公司批判",
+      "target": "concept_科斯定律",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/107_「一人公司」是一场违背商业规律的造富神话 一人公司的优缺点 科斯定律 组织管理 商业思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_一人公司批判",
+      "target": "concept_交易成本理论",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/107_「一人公司」是一场违背商业规律的造富神话 一人公司的优缺点 科斯定律 组织管理 商业思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_交易成本与老实人",
+      "target": "concept_交易成本理论",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/108_总想解决问题的老实人心态，是赚钱最大障碍 dontbesilent 赚钱思维 交易成本 交易成本理论 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_习得性无助",
+      "target": "concept_习得性无助",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/106_不相信自己能赚到钱，是一种习得性无助 dontbesilent 习得性无助 习得性无助如何解决 第一桶金 赚钱是一种能力.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_原创爆款逻辑",
+      "target": "concept_锚定效应",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/121_如何只靠原创涨粉 20 万，我的爆款逻辑 创业vlog 自媒体 dontbesilent 原创爆款 内容逻辑.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_平台思维",
+      "target": "concept_CES评分",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/120_搞懂平台想要啥，比你闷头发 100 条都有用 流量思维 平台思维 自媒体底层逻辑 dontbesilent 自媒体干货.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_平台思维",
+      "target": "concept_五秒完播率",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/120_搞懂平台想要啥，比你闷头发 100 条都有用 流量思维 平台思维 自媒体底层逻辑 dontbesilent 自媒体干货.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_系统性思维训练",
+      "target": "concept_银弹问题",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/119_5 分钟教你系统性思维，养一个会赚钱的脑子 系统性思维 dontbesilent 会赚钱 思维训练 商业认知.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_虚拟资料定价",
+      "target": "concept_15%法则",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/115_薄利多销只会坑死自己，虚拟资料如何科学定价 虚拟资料 定价策略 定价 dontbesilent 定价技巧.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_虚拟资料定价",
+      "target": "concept_引流款利润款",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/115_薄利多销只会坑死自己，虚拟资料如何科学定价 虚拟资料 定价策略 定价 dontbesilent 定价技巧.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_三方博弈流量模型",
+      "target": "platform_小红书",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_平台思维",
+      "target": "platform_小红书",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/120_搞懂平台想要啥，比你闷头发 100 条都有用 流量思维 平台思维 自媒体底层逻辑 dontbesilent 自媒体干货.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_平台思维",
+      "target": "platform_抖音",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/120_搞懂平台想要啥，比你闷头发 100 条都有用 流量思维 平台思维 自媒体底层逻辑 dontbesilent 自媒体干货.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_小红书开店",
+      "target": "platform_小红书",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/114_在小红书卖了 5 千单，开店的坑一篇讲清楚 小红书开店 小红书运营 小红书店铺 小红书店铺开通 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_原方法",
+      "target": "concept_认知冲突",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/101_我涨粉 40 万没花一分钱 AI 自媒体 流量 短视频 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dontbesilent_私域流量负债论",
+      "target": "dontbesilent_私域四维模型",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/105_99% 的私域流量都不是资产，而是负债 私域 私域流量 dontbesilent 公域 公域流量和私域流量.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "dontbesilent_系统性思维赚钱",
+      "target": "dontbesilent_系统性思维训练",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/117_搞不清楚赚钱的这套系统，人就真的赚不到钱 干货都在这 商业思维 系统性思维 dontbesilent dontbesilent聊赚钱.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "dontbesilent_系统性思维赚钱",
+      "target": "dontbesilent_赚钱系统框架",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/117_搞不清楚赚钱的这套系统，人就真的赚不到钱 干货都在这 商业思维 系统性思维 dontbesilent dontbesilent聊赚钱.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "dontbesilent_反脆弱思维",
+      "target": "dontbesilent_习得性无助",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/102_月薪是人生最大陷阱，稳定是穷人的精神鸦片 月薪二千五命比咖啡苦 反脆弱 dontbesilent 死工资 反脆弱思维.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "dontbesilent_高毛利生意",
+      "target": "dontbesilent_虚拟资料定价",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/104_高毛利生意可能是普通人唯一的活路 毛利 单量 从0到1 生意 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "dontbesilent_AI智能体工作流",
+      "target": "dontbesilent_原方法",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/110_如何用 4 个智能体 5 分钟完成爆款视频创作 智能体 AI 爆款短视频 AI爆款 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "dontbesilent_原创爆款逻辑",
+      "target": "dontbesilent_原方法",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/121_如何只靠原创涨粉 20 万，我的爆款逻辑 创业vlog 自媒体 dontbesilent 原创爆款 内容逻辑.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "dontbesilent_烂好人障碍",
+      "target": "dontbesilent_习得性无助",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/111_普通人想赚钱，求你先干掉心中的那个"烂好人" 真实生活分享计划 赚钱思维 商业思维 商业思维认知 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "dontbesilent_第一桶金故事",
+      "target": "dontbesilent_习得性无助",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/112_赚第一桶金用了 1 天，破除执念花了 3 年 真实生活分享计划 dontbesilent 第一桶金 创业记录 第一桶金的故事.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "dontbesilent_用户需求陷阱",
+      "target": "dontbesilent_交易成本与老实人",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/109_从用户需求出发，是你做不成生意的第一步 用户需求 需求 需求痛点产品 dontbesilent 商业思维.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "dontbesilent_AI不被淘汰",
+      "target": "dontbesilent_AI智能体工作流",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/103_AI 不是用来赚钱的，是用来不被淘汰的 AI 人工智能 赚钱思维 商业思维 第四次工业革命.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "dontbesilent_抄袭事件",
+      "target": "dontbesilent_原创爆款逻辑",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/113_抄我的人很多，抄了我还要开课的这是头一个 抄袭 抄袭可耻尊重原创 被抄袭 抄袭事件 福布斯中国u30.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "dontbesilent_小红书开店",
+      "target": "dontbesilent_私域流量负债论",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/114_在小红书卖了 5 千单，开店的坑一篇讲清楚 小红书开店 小红书运营 小红书店铺 小红书店铺开通 dontbesilent.md",
+      "source_location": null,
+      "weight": 0.7
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "content_creation_system",
+      "label": "内容创作与流量体系 (Content Creation & Traffic System)",
+      "nodes": [
+        "dontbesilent_三方博弈流量模型",
+        "dontbesilent_原方法",
+        "dontbesilent_AI智能体工作流",
+        "dontbesilent_原创爆款逻辑",
+        "dontbesilent_平台思维"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/100_分享创业干货 干货 运营干货 自媒体创业 新媒体运营.md"
+    },
+    {
+      "id": "business_mindset_framework",
+      "label": "商业思维框架 (Business Mindset Framework)",
+      "nodes": [
+        "dontbesilent_反脆弱思维",
+        "dontbesilent_交易成本与老实人",
+        "dontbesilent_一人公司批判",
+        "dontbesilent_用户需求陷阱",
+        "dontbesilent_烂好人障碍"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/102_月薪是人生最大陷阱，稳定是穷人的精神鸦片 月薪二千五命比咖啡苦 反脆弱 dontbesilent 死工资 反脆弱思维.md"
+    },
+    {
+      "id": "monetization_strategy",
+      "label": "变现与定价体系 (Monetization & Pricing System)",
+      "nodes": [
+        "dontbesilent_高毛利生意",
+        "dontbesilent_虚拟资料定价",
+        "dontbesilent_私域四维模型",
+        "dontbesilent_小红书开店"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/104_高毛利生意可能是普通人唯一的活路 毛利 单量 从0到1 生意 dontbesilent.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

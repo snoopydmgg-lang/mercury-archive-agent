@@ -1,6 +1,6 @@
 ---
 name: video-folder-workflow
-description: "Use when user asks to analyze videos, provide music/copywriting suggestions. Examples: "帮我看看这个视频配什么音乐", "分析视频内容", "配什么音乐""
+description: 'Use when user asks to analyze videos, provide music/copywriting suggestions. Examples: "帮我看看这个视频配什么音乐", "分析视频内容", "配什么音乐"'
 ---
 
 # 视频分析工作流

@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 16,
+  "accentColor": "#D36B4D",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "shuixing-theme"
+  ],
+  "theme": "moonstone"
+}

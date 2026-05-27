@@ -1,0 +1,48 @@
+[
+  {
+    "name": "notices",
+    "description": "zhihu notices",
+    "strategy": "cookie",
+    "confidence": 0.35,
+    "endpoint": "www.zhihu.com/api/v4/creators/notices?limit={}&offset={}&page_source={}&type={}",
+    "itemPath": null,
+    "recommendedColumns": [
+      "title",
+      "url"
+    ],
+    "recommendedArgs": [
+      {
+        "name": "limit",
+        "type": "int",
+        "required": false,
+        "default": 20
+      },
+      {
+        "name": "page",
+        "type": "int",
+        "required": false,
+        "default": 1
+      }
+    ]
+  },
+  {
+    "name": "roundtables",
+    "description": "zhihu roundtables",
+    "strategy": "cookie",
+    "confidence": 0.25,
+    "endpoint": "www.zhihu.com/api/v4/roundtables?limit={}",
+    "itemPath": null,
+    "recommendedColumns": [
+      "title",
+      "url"
+    ],
+    "recommendedArgs": [
+      {
+        "name": "limit",
+        "type": "int",
+        "required": false,
+        "default": 20
+      }
+    ]
+  }
+]

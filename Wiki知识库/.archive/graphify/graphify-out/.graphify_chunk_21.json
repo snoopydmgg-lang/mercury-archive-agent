@@ -1,0 +1,1379 @@
+{
+  "nodes": [
+    {
+      "id": "doc_video_product_selection_strategy",
+      "label": "视频图文带货选品策略",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/Get笔记提取/视频图文带货选品策略：原则与方法全解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_001_language_boundary",
+      "label": "你追不到她和你做不好自媒体是同一个原因",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/001_你追不到她和你做不好自媒体，是同一个原因 dontbesilent 语言的边界 自媒体.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_002_self_media_dignity",
+      "label": "如何在要脸的情况下做好自媒体",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_003_ai_content_quality",
+      "label": "平时和我聊天的人里没拿过诺奖的不多了",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/003_平时和我聊天的人里，没拿过诺奖的不多了 AI AI生成 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_004_xiaohongshu_sued",
+      "label": "小红书被告了但这事十年前就注定了",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/004_小红书被告了，但这事十年前就注定了 起诉小红书 小红书.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_005_plagiarism",
+      "label": "一觉醒来发现我被700万粉丝大V致敬了",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/005_一觉醒来，发现我被 700 万粉丝大V \"致敬\" 了 抄袭 洗稿.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_006_talent_is拖延",
+      "label": "赚钱最大的弯路是找一个自己擅长的事",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/006_赚钱最大的弯路是：找一个自己擅长的事 商业思维 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_007_business_model_100w",
+      "label": "100万之后我才想清楚什么钱不能赚",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/007_100 万之后，我才想清楚什么钱不能赚 商业 商业思维 商业模式.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_008_business_model_100w_v2",
+      "label": "100万之后我才想清楚什么钱不能赚(续)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/008_100 万之后，我才想清楚什么钱不能赚 商业 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_009_tweets_to_software",
+      "label": "我把一万条推文做成了软件",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_010_prediction_vs_execution",
+      "label": "想预测成功的人都不适合创业",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/010_想预测成功的人都不适合创业 创业 心态 知识.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_011_direct_vs_indirect_money",
+      "label": "你直接赚钱就有钱间接赚钱永远没钱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/011_你直接赚钱就有钱，间接赚钱永远没钱 商业 创业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_012_vague_words_cost_money",
+      "label": "你说的每一个模糊的词都在让你亏钱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/012_你说的每一个模糊的词，都在让你亏钱 语言 自媒体 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_014_ai_calls_human",
+      "label": "为啥我一个人能运营7个账号让AI可以调用人",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_015_execution_vs_escape",
+      "label": "只要你没在执行你就是在逃避执行",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/015_只要你没在执行，你就是在逃避执行 执行力 逃避 拖延.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_016_ai_trains_human",
+      "label": "你没训练过AI AI训练你也失败了",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/016_你没训练过 AI，AI 训练你也失败了 AI AIGC 自媒体 文案 文字.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_017_ainative_reading",
+      "label": "出版社让我出书我说今年戒掉了读书",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/017_出版社让我出书，我说今年戒掉了读书 AI 读书 AINative.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_018_ai_learning_10x",
+      "label": "如何借助AI比任何人学得快10倍",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_019_education_as_consumption",
+      "label": "绝大多数人花钱上学读书和花钱喝杯奶茶没有本质区别",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/019_绝大多数人花钱上学读书，和花钱喝杯奶茶没有本质区别 上学读书 学历 学历教育 赚钱 赚钱思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_021_ai_division_of_labor",
+      "label": "AI不是新范式是1960s分工模式的低成本实现",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_022_employment_mindset",
+      "label": "一个人赚不到钱的核心原因就是上班上多了",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "doc_dbs_023_xiaohongshu_new_rules",
+      "label": "小红书新规逼我停更11万粉账号",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/023_小红书新规，逼我停更 11 万粉账号 小红书 小红书运营 小红书开店 小红书营销 小红书规则.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_language_boundary",
+      "label": "语言的边界就是思维的边界",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/001_你追不到她和你做不好自媒体，是同一个原因 dontbesilent 语言的边界 自媒体.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_self_media",
+      "label": "自媒体",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/001_你追不到她和你做不好自媒体，是同一个原因 dontbesilent 语言的边界 自媒体.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_traffic",
+      "label": "流量",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/Get笔记提取/视频图文带货选品策略：原则与方法全解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_monetization",
+      "label": "变现",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/Get笔记提取/视频图文带货选品策略：原则与方法全解析.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_content_creation",
+      "label": "内容创作",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ai_writing",
+      "label": "AI写作",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/003_平时和我聊天的人里，没拿过诺奖的不多了 AI AI生成 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_xiaohongshu",
+      "label": "小红书",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/004_小红书被告了，但这事十年前就注定了 起诉小红书 小红书.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_plagiarism",
+      "label": "抄袭洗稿",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/005_一觉醒来，发现我被 700 万粉丝大V \"致敬\" 了 抄袭 洗稿.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_business_model",
+      "label": "商业模式",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/007_100 万之后，我才想清楚什么钱不能赚 商业 商业思维 商业模式.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_talent_myth",
+      "label": "天赋论的谬误",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/006_赚钱最大的弯路是：找一个自己擅长的事 商业思维 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_convexity_strategy",
+      "label": "凸性策略(塔勒布)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/006_赚钱最大的弯路是：找一个自己擅长的事 商业思维 dontbesilent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_dbs_skill",
+      "label": "DBS Skill(dontbesilent技能包)",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_knowledge_to_software",
+      "label": "知识即软件(文字可执行化)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_execution",
+      "label": "执行力",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/015_只要你没在执行，你就是在逃避执行 执行力 逃避 拖延.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_procrastination_escape",
+      "label": "拖延即逃避执行",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/015_只要你没在执行，你就是在逃避执行 执行力 逃避 拖延.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ai_trains_human",
+      "label": "AI在训练人(非人训练AI)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/016_你没训练过 AI，AI 训练你也失败了 AI AIGC 自媒体 文案 文字.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_tacit_to_explicit",
+      "label": "隐性知识显性化",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/016_你没训练过 AI，AI 训练你也失败了 AI AIGC 自媒体 文案 文字.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_ainative",
+      "label": "AI Native工作方式",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/017_出版社让我出书，我说今年戒掉了读书 AI 读书 AINative.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bloom_two_sigma",
+      "label": "布鲁姆Two Sigma问题",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_education_consumption",
+      "label": "教育是消费非投资",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/019_绝大多数人花钱上学读书，和花钱喝杯奶茶没有本质区别 上学读书 学历 学历教育 赚钱 赚钱思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_division_of_labor_1960s",
+      "label": "1960s分工模式(AI的本质)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_human_ai_collaboration",
+      "label": "人机协作分工",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_employment_mindset",
+      "label": "上班思维(服从换安全)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_three_positive_feedback",
+      "label": "三重正反馈机制",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_direct_vs_indirect",
+      "label": "直接赚钱vs间接赚钱",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/011_你直接赚钱就有钱，间接赚钱永远没钱 商业 创业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_vertical_traffic_myth",
+      "label": "垂直流量的谬误",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_content_quality_over_hacks",
+      "label": "讲清楚比技巧更重要",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_xiaohongshu_traffic_pool",
+      "label": "小红书流量池机制",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/004_小红书被告了，但这事十年前就注定了 起诉小红书 小红书.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_content_data_analysis",
+      "label": "内容数据驱动决策",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_agent_role_list",
+      "label": "Agent角色名单体系",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "dontbesilent",
+      "contributor": null
+    },
+    {
+      "id": "concept_ai_native_learning",
+      "label": "AI原生学习法(交互式学习)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_prediction_is_entrepreneurship_enemy",
+      "label": "预测未来是创业的大敌",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/010_想预测成功的人都不适合创业 创业 心态 知识.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_market_uncertainty",
+      "label": "市场不确定性是利润来源",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/011_你直接赚钱就有钱，间接赚钱永远没钱 商业 创业.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "tool_claude_code",
+      "label": "Claude Code",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": "Anthropic",
+      "contributor": null
+    },
+    {
+      "id": "tool_openclaw",
+      "label": "OpenClaw(小龙虾)",
+      "file_type": "code",
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-21",
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "doc_dbs_001_language_boundary",
+      "target": "concept_language_boundary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/001_你追不到她和你做不好自媒体，是同一个原因 dontbesilent 语言的边界 自媒体.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_language_boundary",
+      "target": "concept_self_media",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/001_你追不到她和你做不好自媒体，是同一个原因 dontbesilent 语言的边界 自媒体.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_002_self_media_dignity",
+      "target": "concept_self_media",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_002_self_media_dignity",
+      "target": "concept_content_quality_over_hacks",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_002_self_media_dignity",
+      "target": "concept_vertical_traffic_myth",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_vertical_traffic_myth",
+      "target": "concept_content_quality_over_hacks",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/002_如何在要脸的情况下，做好自媒体？ 自媒体 要脸.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_003_ai_content_quality",
+      "target": "concept_ai_writing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/003_平时和我聊天的人里，没拿过诺奖的不多了 AI AI生成 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_003_ai_content_quality",
+      "target": "concept_content_creation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/003_平时和我聊天的人里，没拿过诺奖的不多了 AI AI生成 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_004_xiaohongshu_sued",
+      "target": "concept_xiaohongshu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/004_小红书被告了，但这事十年前就注定了 起诉小红书 小红书.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_004_xiaohongshu_sued",
+      "target": "concept_xiaohongshu_traffic_pool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/004_小红书被告了，但这事十年前就注定了 起诉小红书 小红书.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_005_plagiarism",
+      "target": "concept_plagiarism",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/005_一觉醒来，发现我被 700 万粉丝大V \"致敬\" 了 抄袭 洗稿.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_006_talent_is拖延",
+      "target": "concept_talent_myth",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/006_赚钱最大的弯路是：找一个自己擅长的事 商业思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_006_talent_is拖延",
+      "target": "concept_convexity_strategy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/006_赚钱最大的弯路是：找一个自己擅长的事 商业思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_talent_myth",
+      "target": "concept_procrastination_escape",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/006_赚钱最大的弯路是：找一个自己擅长的事 商业思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_convexity_strategy",
+      "target": "concept_execution",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/006_赚钱最大的弯路是：找一个自己擅长的事 商业思维 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_007_business_model_100w",
+      "target": "concept_business_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/007_100 万之后，我才想清楚什么钱不能赚 商业 商业思维 商业模式.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_008_business_model_100w_v2",
+      "target": "concept_business_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/008_100 万之后，我才想清楚什么钱不能赚 商业 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_007_business_model_100w",
+      "target": "doc_dbs_008_business_model_100w_v2",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/007_100 万之后，我才想清楚什么钱不能赚 商业 商业思维 商业模式.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_009_tweets_to_software",
+      "target": "concept_dbs_skill",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_009_tweets_to_software",
+      "target": "concept_knowledge_to_software",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_dbs_skill",
+      "target": "tool_claude_code",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_knowledge_to_software",
+      "target": "concept_ai_writing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_010_prediction_vs_execution",
+      "target": "concept_prediction_is_entrepreneurship_enemy",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/010_想预测成功的人都不适合创业 创业 心态 知识.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_prediction_is_entrepreneurship_enemy",
+      "target": "concept_execution",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/010_想预测成功的人都不适合创业 创业 心态 知识.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_011_direct_vs_indirect_money",
+      "target": "concept_direct_vs_indirect",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/011_你直接赚钱就有钱，间接赚钱永远没钱 商业 创业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_011_direct_vs_indirect_money",
+      "target": "concept_market_uncertainty",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/011_你直接赚钱就有钱，间接赚钱永远没钱 商业 创业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_direct_vs_indirect",
+      "target": "concept_market_uncertainty",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/011_你直接赚钱就有钱，间接赚钱永远没钱 商业 创业.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_012_vague_words_cost_money",
+      "target": "concept_language_boundary",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/012_你说的每一个模糊的词，都在让你亏钱 语言 自媒体 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_012_vague_words_cost_money",
+      "target": "concept_self_media",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/012_你说的每一个模糊的词，都在让你亏钱 语言 自媒体 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_012_vague_words_cost_money",
+      "target": "concept_content_creation",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/012_你说的每一个模糊的词，都在让你亏钱 语言 自媒体 dontbesilent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_014_ai_calls_human",
+      "target": "concept_agent_role_list",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_014_ai_calls_human",
+      "target": "tool_claude_code",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_014_ai_calls_human",
+      "target": "tool_openclaw",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_agent_role_list",
+      "target": "concept_human_ai_collaboration",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/014_为啥我一个人能运营7个账号？因为实现了让 AI 可以调用人 Agent openclaw AI AI协作 Claudecode.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_015_execution_vs_escape",
+      "target": "concept_execution",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/015_只要你没在执行，你就是在逃避执行 执行力 逃避 拖延.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_015_execution_vs_escape",
+      "target": "concept_procrastination_escape",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/015_只要你没在执行，你就是在逃避执行 执行力 逃避 拖延.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_execution",
+      "target": "concept_procrastination_escape",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/015_只要你没在执行，你就是在逃避执行 执行力 逃避 拖延.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_016_ai_trains_human",
+      "target": "concept_ai_trains_human",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/016_你没训练过 AI，AI 训练你也失败了 AI AIGC 自媒体 文案 文字.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_016_ai_trains_human",
+      "target": "concept_tacit_to_explicit",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/016_你没训练过 AI，AI 训练你也失败了 AI AIGC 自媒体 文案 文字.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_ai_trains_human",
+      "target": "concept_tacit_to_explicit",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/016_你没训练过 AI，AI 训练你也失败了 AI AIGC 自媒体 文案 文字.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_017_ainative_reading",
+      "target": "concept_ainative",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/017_出版社让我出书，我说今年戒掉了读书 AI 读书 AINative.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_018_ai_learning_10x",
+      "target": "concept_bloom_two_sigma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_018_ai_learning_10x",
+      "target": "concept_ai_native_learning",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_018_ai_learning_10x",
+      "target": "tool_claude_code",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_bloom_two_sigma",
+      "target": "concept_ai_native_learning",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_ai_native_learning",
+      "target": "tool_claude_code",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/018_如何借助 AI 比任何人学得快 10 倍 学习 学习方法 AI Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_019_education_as_consumption",
+      "target": "concept_education_consumption",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/019_绝大多数人花钱上学读书，和花钱喝杯奶茶没有本质区别 上学读书 学历 学历教育 赚钱 赚钱思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_021_ai_division_of_labor",
+      "target": "concept_division_of_labor_1960s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_021_ai_division_of_labor",
+      "target": "concept_human_ai_collaboration",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_021_ai_division_of_labor",
+      "target": "concept_content_data_analysis",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_division_of_labor_1960s",
+      "target": "concept_human_ai_collaboration",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_022_employment_mindset",
+      "target": "concept_employment_mindset",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_022_employment_mindset",
+      "target": "concept_three_positive_feedback",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_employment_mindset",
+      "target": "concept_direct_vs_indirect",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_employment_mindset",
+      "target": "concept_procrastination_escape",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_three_positive_feedback",
+      "target": "concept_execution",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/022_一个人赚不到钱的核心原因就是：上班上多了 上班思维 赚钱思维 赚钱 商业思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_023_xiaohongshu_new_rules",
+      "target": "concept_xiaohongshu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/023_小红书新规，逼我停更 11 万粉账号 小红书 小红书运营 小红书开店 小红书营销 小红书规则.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_023_xiaohongshu_new_rules",
+      "target": "concept_xiaohongshu_traffic_pool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/023_小红书新规，逼我停更 11 万粉账号 小红书 小红书运营 小红书开店 小红书营销 小红书规则.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_video_product_selection_strategy",
+      "target": "concept_traffic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/Get笔记提取/视频图文带货选品策略：原则与方法全解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_video_product_selection_strategy",
+      "target": "concept_monetization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/Get笔记提取/视频图文带货选品策略：原则与方法全解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_traffic",
+      "target": "concept_monetization",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/Get笔记提取/视频图文带货选品策略：原则与方法全解析.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_005_plagiarism",
+      "target": "doc_dbs_002_self_media_dignity",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/005_一觉醒来，发现我被 700 万粉丝大V \"致敬\" 了 抄袭 洗稿.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_ai_writing",
+      "target": "concept_ai_trains_human",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/016_你没训练过 AI，AI 训练你也失败了 AI AIGC 自媒体 文案 文字.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_ainative",
+      "target": "concept_division_of_labor_1960s",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/017_出版社让我出书，我说今年戒掉了读书 AI 读书 AINative.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_ainative",
+      "target": "concept_human_ai_collaboration",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/017_出版社让我出书，我说今年戒掉了读书 AI 读书 AINative.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_education_consumption",
+      "target": "concept_prediction_is_entrepreneurship_enemy",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/019_绝大多数人花钱上学读书，和花钱喝杯奶茶没有本质区别 上学读书 学历 学历教育 赚钱 赚钱思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_education_consumption",
+      "target": "concept_direct_vs_indirect",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/019_绝大多数人花钱上学读书，和花钱喝杯奶茶没有本质区别 上学读书 学历 学历教育 赚钱 赚钱思维.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_017_ainative_reading",
+      "target": "concept_bloom_two_sigma",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/017_出版社让我出书，我说今年戒掉了读书 AI 读书 AINative.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_content_data_analysis",
+      "target": "concept_content_creation",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/021_AI 不是新范式，是 1960s 分工模式的低成本实现 AIGC AI工作流 自媒体创作 Agent.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "doc_dbs_009_tweets_to_software",
+      "target": "concept_knowledge_to_software",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/009_我把一万条推文做成了软件，还反向推动了YC CEO更新产品 Claude dontbesilent AI skill 开源.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_dontbesilent_content_methodology",
+      "label": "dontbesilent内容方法论体系",
+      "nodes": [
+        "concept_language_boundary",
+        "concept_content_quality_over_hacks",
+        "concept_execution",
+        "concept_human_ai_collaboration"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/"
+    },
+    {
+      "id": "hyper_ai_paradigm_shift",
+      "label": "AI时代范式转变(从人主导到人机协作)",
+      "nodes": [
+        "concept_ainative",
+        "concept_ai_trains_human",
+        "concept_human_ai_collaboration",
+        "concept_division_of_labor_1960s"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/"
+    },
+    {
+      "id": "hyper_entrepreneurship_mindset",
+      "label": "创业心态破除系列(上班思维/拖延/间接赚钱)",
+      "nodes": [
+        "concept_employment_mindset",
+        "concept_direct_vs_indirect",
+        "concept_procrastination_escape",
+        "concept_market_uncertainty"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/博主文案库/dontbesilent/"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,840 @@
+{
+  "nodes": [
+    {
+      "id": "moebius_comic_artist",
+      "label": "墨比斯 (Moebius)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/九厘米的雾/019_插画界最严厉的父亲墨比斯.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dai_dunbang_artist",
+      "label": "戴敦邦 - 国画大家",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/九厘米的雾/034_戴敦邦画的四大名著人物卡.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "dai_dunbang_famous_four",
+      "label": "四大名著人物卡 - 戴敦邦画作集",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/九厘米的雾/034_戴敦邦画的四大名著人物卡.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "banshi_zhi_dao_book",
+      "label": "版式之道 - 日式设计",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/001_日本版式最狠的不是好看.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mary_ann_north",
+      "label": "玛丽安娜·诺斯 (Mary Anna North) - 植物画家",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/002_她终生未婚用14年走遍17个国家.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "flowers_and_exploration_book",
+      "label": "花朵与探险 - 诺斯画廊作品集",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/002_她终生未婚用14年走遍17个国家.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "math_and_art_concept",
+      "label": "数学与艺术 - 审美提升",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/003_你以为艺术只是靠虚无缥缈的感觉吗.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "miyazaki_hayao",
+      "label": "宫崎骏 - 动画大师",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/005_真的要被宫崎骏的操作笑死了.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wind_rises_film",
+      "label": "你想活出怎样的人生 (宫崎骏动画)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/005_真的要被宫崎骏的操作笑死了.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "xing_lu_zhongguo_book",
+      "label": "行路中国 - 590处文明坐标",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/007_行路中国追溯上下五千年文明脉络.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "ggac_competition_6",
+      "label": "第六届GGAC大赛 - 逐光作品集",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/008_逐光第六届GGAC大赛作品集.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "randall_munroe",
+      "label": "兰道尔·门罗 (Randall Munroe) - 科普漫画家",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/011_兰道尔门罗把无聊问题变成硬核知识.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "what_if_book_series",
+      "label": "What If 脑洞问答三部曲",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/011_兰道尔门罗把无聊问题变成硬核知识.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "zhongguo_chuantong_se",
+      "label": "中国传统色 - 郭浩考据384种传统色",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/013_如果浪漫有排位那中国传统色一定一骑绝尘.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "car_design_culture",
+      "label": "汽车设计与汽车文化",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/014_汽车曾是设计师手中最自由的画作.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "face_visual_influence_book",
+      "label": "面孔 - 卡尔多·法尔奇内利 (视觉面孔影响力)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/015_你相信吗面孔的影响力远比我们以为的要大得多.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "miyazaki_why_great",
+      "label": "宫崎骏凭什么那么牛 - 动画艺术殿堂",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/019_宫崎骏凭什么那么牛.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "mondo_poster_company",
+      "label": "Mondo - 电影海报公司",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/024_一家不拍电影的公司却成了电影圈的硬通货.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "miaozan_copywriting_book",
+      "label": "秒赞：文案女王20年创作技巧与心法 - 林桂枝",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/14864629秒赞：文案女王20年创作技巧与心法 林桂枝(1).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "林桂枝",
+      "contributor": null
+    },
+    {
+      "id": "douyin_ecommerce_guide",
+      "label": "1小时学会抖音玩法 - 头号玩家",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "头号玩家",
+      "contributor": null
+    },
+    {
+      "id": "pdf_conversion_report",
+      "label": "PDF批量转换报告 (MarkItDown)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/PDF转换报告_20260417.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-17",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "liujincheng_competency",
+      "label": "刘锦程 - 管理人员胜任力测评",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": "北森云计算有限公司"
+    },
+    {
+      "id": "liujincheng_potential",
+      "label": "刘锦程 - 管理潜质测评报告",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理潜质测评报告.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": "北森云计算有限公司"
+    },
+    {
+      "id": "liujincheng_360_assessment",
+      "label": "刘锦程 - 360度能力评估反馈个人报告",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程评估反馈个人报告.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": "中建四局建设发展有限公司"
+    },
+    {
+      "id": "liujincheng_person",
+      "label": "刘锦程 - 人物",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nasa_organization",
+      "label": "NASA - 美国国家航空航天局",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/011_兰道尔门罗把无聊问题变成硬核知识.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bill_gates",
+      "label": "比尔·盖茨 - What If读者",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/011_兰道尔门罗把无聊问题变成硬核知识.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "darwin_reference",
+      "label": "达尔文 - 评价诺斯画作",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/002_她终生未婚用14年走遍17个国家.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kew_gardens_gallery",
+      "label": "邱园诺斯画廊 - 全球唯一女性艺术家永久展览",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/002_她终生未婚用14年走遍17个国家.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "98_water_margin_tv",
+      "label": "98版水浒传 - 戴敦邦水墨人物画片尾",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/博主文案库/九厘米的雾/034_戴敦邦画的四大名著人物卡.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "beisen_cloud_hr",
+      "label": "北森云计算 - 人才测评平台",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cscec4b",
+      "label": "中建四局建设发展有限公司",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程评估反馈个人报告.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_ecommerce_concept",
+      "label": "抖音电商运营 - 内容+直播+电商模式",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_seo_concept",
+      "label": "抖音SEO - 搜索引擎优化",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_live_streaming",
+      "label": "抖音直播带货 - 话术与选品策略",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_product_window",
+      "label": "抖音商品橱窗 - 流量转化工具",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_small_shop",
+      "label": "抖音小店 - 电商变现工具",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_traffic_pool",
+      "label": "抖音流量池分级机制",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "juliang_engine",
+      "label": "巨量引擎 - 字节跳动广告投放平台",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "juliang_xingtu",
+      "label": "巨量星图 - 推广任务接单平台",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "qianchuan_ads",
+      "label": "巨量千川 - 电商广告平台",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "douyin_governance_convention",
+      "label": "抖音社区自律公约",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "copywriting_techniques_book",
+      "label": "秒赞 - 文案创作方法论 (17章体系)",
+      "file_type": "document",
+      "source_file": "Wiki知识库/raw/参考书籍/14864629秒赞：文案女王20年创作技巧与心法 林桂枝(1).md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": "林桂枝",
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "dai_dunbang_artist",
+      "target": "dai_dunbang_famous_four",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/九厘米的雾/034_戴敦邦画的四大名著人物卡.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dai_dunbang_artist",
+      "target": "98_water_margin_tv",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/九厘米的雾/034_戴敦邦画的四大名著人物卡.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "dai_dunbang_artist",
+      "target": "ggac_competition_6",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/008_逐光第六届GGAC大赛作品集.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "randall_munroe",
+      "target": "what_if_book_series",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/011_兰道尔门罗把无聊问题变成硬核知识.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "randall_munroe",
+      "target": "nasa_organization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/011_兰道尔门罗把无聊问题变成硬核知识.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "bill_gates",
+      "target": "what_if_book_series",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/011_兰道尔门罗把无聊问题变成硬核知识.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "mary_ann_north",
+      "target": "flowers_and_exploration_book",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/002_她终生未婚用14年走遍17个国家.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "mary_ann_north",
+      "target": "darwin_reference",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/002_她终生未婚用14年走遍17个国家.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "mary_ann_north",
+      "target": "kew_gardens_gallery",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/002_她终生未婚用14年走遍17个国家.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "miyazaki_hayao",
+      "target": "wind_rises_film",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/005_真的要被宫崎骏的操作笑死了.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "miyazaki_hayao",
+      "target": "miyazaki_why_great",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/005_真的要被宫崎骏的操作笑死了.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "liujincheng_person",
+      "target": "liujincheng_competency",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "liujincheng_person",
+      "target": "liujincheng_potential",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理潜质测评报告.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "liujincheng_person",
+      "target": "liujincheng_360_assessment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程评估反馈个人报告.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "liujincheng_competency",
+      "target": "beisen_cloud_hr",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "liujincheng_potential",
+      "target": "beisen_cloud_hr",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理潜质测评报告.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "liujincheng_360_assessment",
+      "target": "cscec4b",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程评估反馈个人报告.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "douyin_ecommerce_concept",
+      "target": "douyin_traffic_pool",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "douyin_ecommerce_concept",
+      "target": "douyin_live_streaming",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "douyin_ecommerce_concept",
+      "target": "douyin_product_window",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "douyin_ecommerce_concept",
+      "target": "douyin_small_shop",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "douyin_ecommerce_concept",
+      "target": "douyin_seo_concept",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "juliang_engine",
+      "target": "douyin_ecommerce_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "juliang_xingtu",
+      "target": "douyin_ecommerce_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "qianchuan_ads",
+      "target": "douyin_ecommerce_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "douyin_governance_convention",
+      "target": "douyin_ecommerce_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "copywriting_techniques_book",
+      "target": "miaozan_copywriting_book",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/参考书籍/14864629秒赞：文案女王20年创作技巧与心法 林桂枝(1).md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "math_and_art_concept",
+      "target": "face_visual_influence_book",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/003_你以为艺术只是靠虚无缥缈的感觉吗.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "banshi_zhi_dao_book",
+      "target": "car_design_culture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/001_日本版式最狠的不是好看.md",
+      "source_location": null,
+      "weight": 0.5
+    },
+    {
+      "source": "mondo_poster_company",
+      "target": "car_design_culture",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/024_一家不拍电影的公司却成了电影圈的硬通货.md",
+      "source_location": null,
+      "weight": 0.5
+    },
+    {
+      "source": "douyin_ecommerce_guide",
+      "target": "douyin_ecommerce_concept",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "liujincheng_competency",
+      "target": "liujincheng_potential",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "liujincheng_competency",
+      "target": "liujincheng_360_assessment",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md",
+      "source_location": null,
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "miyazaki_creative_world",
+      "label": "宫崎骏创意宇宙 (动画+电影+漫画)",
+      "nodes": ["miyazaki_hayao", "wind_rises_film", "miyazaki_why_great"],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/博主文案库/余上沅的奇妙屋/005_真的要被宫崎骏的操作笑死了.md"
+    },
+    {
+      "id": "liujincheng_assessment_suite",
+      "label": "刘锦程管理能力评估三件套",
+      "nodes": ["liujincheng_competency", "liujincheng_potential", "liujincheng_360_assessment"],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "Wiki知识库/raw/参考书籍/刘锦程管理人员胜任力测评.md"
+    },
+    {
+      "id": "douyin_ecommerce_platform_suite",
+      "label": "抖音电商全链路工具生态",
+      "nodes": ["douyin_ecommerce_concept", "juliang_engine", "juliang_xingtu", "qianchuan_ads"],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "Wiki知识库/raw/参考书籍/1小时学会抖音玩法：引爆日销量教你做抖音上火爆出圈的生意.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

@@ -1,0 +1,15 @@
+{
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "02_Archive_冷备份/",
+    ".*\\.(mp4|mov|avi|mkv|pdf|psd|ai|zip)$",
+    "06_Python Scripts/",
+    "_AI生成文件/",
+    ".*[Rr][Ee][Aa][Dd][Mm][Ee]\\.md$",
+    ".*(README|Readme|readme|LICENSE|License|CHANGELOG|Changelog|NOTICE|model_card).*",
+    "03_Assets_全局库/"
+  ],
+  "snippet": [
+    "shuixing-theme"
+  ]
+}
