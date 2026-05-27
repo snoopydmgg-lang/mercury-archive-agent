@@ -1,9 +1,12 @@
 /**
- * token-hud — OpenCode TUI Plugin: Token HUD in sidebar_footer slot
+ * token-hud — OpenCode TUI Plugin: Mercury Archive Dashboard
  *
- * Mercury Archive style token usage display.
- * Data: OpenCode SQLite DB (~/.local/share/opencode/opencode.db)
- * Also writes token_hud.txt for external consumption.
+ * Full card-style dashboard in sidebar_footer slot:
+ *   SESSION → CONTEXT → LSP → MODIFIED FILES → TOKEN ARCHIVE
+ *
+ * Mercury Archive palette: #D36B4D accent / #8A8580 muted / #E6C8B5 soft
+ * Visual: neoclassical humanism, archival card feel, thin borders,
+ *         no heavy shadows, no neon, no emoji overload.
  */
 
 import type { TuiPlugin, TuiPluginApi } from "@opencode-ai/plugin"
@@ -21,31 +24,39 @@ const USD_TO_RMB = 7.2
 const DAILY_BUDGET = 10.0
 const MONTHLY_BUDGET = 200.0
 const SESSION_LARGE_THRESHOLD = 10_000_000
-const PROGRESS_WIDTH = 16
+const PROGRESS_WIDTH = 14
+const MAX_FILES = 6
 
 // Mercury Archive palette
-const MERCURY_ACCENT = "#D36B4D"
-const MERCURY_MUTED = "#8A8580"
-const MERCURY_SOFT = "#E6C8B5"
+const ACCENT = "#D36B4D"
+const MUTED = "#8A8580"
+const SOFT = "#E6C8B5"
 
 // ── Helpers ──
 
 function formatTokens(n: number): string {
   if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(1)}M`
-  if (n >= 1_000) return `${Math.round(n / 1_000)}K`
-  return String(n)
+  if (n >= 1_000) return `${Math.round(n / 1_000).toLocaleString()}K`
+  return n.toLocaleString()
 }
 
 function thinBar(value: number, max: number): string {
   const width = PROGRESS_WIDTH
   const ratio = max > 0 ? Math.min(value / max, 1) : 0
   const filled = Math.floor(ratio * width)
-  const fill = "━"    // U+2501 filled
-  const empty = "─"   // U+2500 unfilled
-  const pointer = "╸" // U+2578
+  const fill = "━"     // ━
+  const empty = "─"    // ─
+  const pointer = "╸"  // ╸
+  const pointerL = "╺" // ╺
   if (filled >= width) return fill.repeat(width)
-  if (filled === 0) return "╺" + empty.repeat(width - 1)
+  if (filled === 0) return pointerL + empty.repeat(width - 1)
   return fill.repeat(filled) + pointer + empty.repeat(width - filled - 1)
+}
+
+function thresholdColor(ratio: number): string {
+  if (ratio > 0.8) return ACCENT
+  if (ratio > 0.5) return SOFT
+  return MUTED
 }
 
 function thresholdLabel(ratio: number): string {
@@ -54,13 +65,29 @@ function thresholdLabel(ratio: number): string {
   return "OK"
 }
 
-function thresholdColor(ratio: number): string {
-  if (ratio > 0.8) return MERCURY_ACCENT
-  if (ratio > 0.5) return MERCURY_SOFT
-  return MERCURY_MUTED
+function truncatePath(path: string, maxLen: number): string {
+  if (path.length <= maxLen) return path
+  const parts = path.split("/")
+  if (parts.length <= 2) return path.slice(0, maxLen - 3) + "..."
+  const file = parts[parts.length - 1]
+  if (file.length >= maxLen - 4) return "..." + file.slice(-(maxLen - 3))
+  const prefix = parts[0]
+  return prefix + "/.../" + file
 }
 
-// ── Database queries ──
+function padRight(str: string, len: number): string {
+  const visible = str.replace(/[─-╿▀-▟]/g, "?").length
+  return str + " ".repeat(Math.max(0, len - visible))
+}
+
+function formatTime(ts: number): string {
+  const d = new Date(ts)
+  const h = String(d.getHours()).padStart(2, "0")
+  const m = String(d.getMinutes()).padStart(2, "0")
+  return `${h}:${m}`
+}
+
+// ── Database queries (fallback for aggregate data) ──
 
 interface SessionRow {
   tokens_input: number
@@ -153,7 +180,7 @@ function computeHudData(): HudData {
   }
 }
 
-// ── Build HUD text (for file output) ──
+// ── Build HUD text (for file output, no-color) ──
 
 function buildHudText(): string {
   const data = computeHudData()
@@ -164,13 +191,14 @@ function buildHudText(): string {
   return [
     `MERCURY TOKEN ARCHIVE`,
     `USAGE LEDGER // ${ym}`,
-    `──────────────────────────────`,
-    `日预算  ${thinBar(data.dailyRmb, DAILY_BUDGET)}  ${Math.round(data.dailyRatio * 100)}%  ¥${data.dailyRmb.toFixed(1)}  ${thresholdLabel(data.dailyRatio)}`,
-    `月预算  ${thinBar(data.monthlyRmb, MONTHLY_BUDGET)}  ${Math.round(data.monthlyRatio * 100)}%  ¥${data.monthlyRmb.toFixed(1)}  ${thresholdLabel(data.monthlyRatio)}`,
+    `─`.repeat(30),
+    `日预算  ${thinBar(data.dailyRmb, DAILY_BUDGET)}  ${Math.round(data.dailyRatio * 100)}%  \xA5${data.dailyRmb.toFixed(1)}  ${thresholdLabel(data.dailyRatio)}`,
+    `月预算  ${thinBar(data.monthlyRmb, MONTHLY_BUDGET)}  ${Math.round(data.monthlyRatio * 100)}%  \xA5${data.monthlyRmb.toFixed(1)}  ${thresholdLabel(data.monthlyRatio)}`,
     `会话量  ${thinBar(data.sessionTokens, SESSION_LARGE_THRESHOLD)}  ${formatTokens(data.sessionTokens)}  ${thresholdLabel(data.sessionRatio)}`,
     `缓存率  ${thinBar(data.cacheRate, 100)}  ${data.cacheRate.toFixed(0)}%  ${cacheLabel}`,
-    `──────────────────────────────`,
-    `今日 ${data.todayCount} 次 · 本月 ¥${data.monthlyRmb.toFixed(1)} · 月末 ¥${data.eomRmb.toFixed(0)}`,
+    `─`.repeat(30),
+    `今日 ${data.todayCount} 次 \xB7 本月 \xA5${data.monthlyRmb.toFixed(1)}`,
+    `月末预测 \xA5${data.eomRmb.toFixed(0)}`,
   ].join("\n")
 }
 
@@ -181,32 +209,122 @@ function writeHudFile(text: string) {
   } catch {}
 }
 
+// ── Card component ──
+
+function Card(props: { title: string; children: any }) {
+  return (
+    <box
+      flexDirection="column"
+      border
+      borderStyle="single"
+      borderColor={MUTED}
+      paddingX={1}
+      marginBottom={1}
+    >
+      <box flexShrink={0}>
+        <text bold fg={ACCENT}>{props.title}</text>
+      </box>
+      {props.children}
+    </box>
+  )
+}
+
 // ── TUI Plugin ──
 
 export default {
   id: "token-hud",
   tui: async (api: TuiPluginApi) => {
-    // Debug: confirm plugin loaded
     console.error("[token-hud] TUI plugin mounting...")
 
     writeHudFile(buildHudText())
 
     api.slots.register({
       slots: {
-        sidebar_footer() {
-          const [data, setData] = createSignal(computeHudData())
+        sidebar_footer(props: { session_id: string }) {
+          // ── Reactive data ──
+          const [hudData, setHudData] = createSignal(computeHudData())
+          const [tick, setTick] = createSignal(0)
 
           onMount(() => {
             console.error("[token-hud] sidebar_footer mounted")
             const id = setInterval(() => {
-              setData(computeHudData())
+              setHudData(computeHudData())
+              setTick(t => t + 1)
               writeHudFile(buildHudText())
             }, 30_000)
             onCleanup(() => clearInterval(id))
           })
 
-          const d = () => data()
+          const d = () => hudData()
 
+          // ── Session info (from api.state) ──
+          const session = () => {
+            try {
+              return api.state.session.get(props.session_id)
+            } catch {
+              return undefined
+            }
+          }
+
+          const sessionTitle = () => {
+            const s = session()
+            if (!s) return null
+            return s.title || null
+          }
+
+          const sessionTime = () => {
+            const s = session()
+            if (!s?.time?.created) return null
+            return formatTime(s.time.created)
+          }
+
+          // ── Context tokens (from session.tokens) ──
+          const tokens = () => {
+            const s = session()
+            return s?.tokens ?? null
+          }
+
+          const sessionCost = () => {
+            const s = session()
+            return s?.cost ? s.cost * USD_TO_RMB : 0
+          }
+
+          const totalTokens = () => {
+            const t = tokens()
+            if (!t) return 0
+            return t.input + t.output + t.reasoning
+          }
+
+          // ── LSP status ──
+          const lspItems = () => {
+            try {
+              return api.state.lsp()
+            } catch {
+              return []
+            }
+          }
+
+          const lspStatus = () => {
+            const items = lspItems()
+            if (items.length === 0) return "Disabled"
+            const active = items.filter(i =>
+              i.status === "ready" || i.status === "connected"
+            ).length
+            if (active === items.length)
+              return `Active \xB7 ${items.length} server${items.length > 1 ? "s" : ""}`
+            return `${active}/${items.length} active`
+          }
+
+          // ── Modified files ──
+          const files = () => {
+            try {
+              return api.state.session.diff(props.session_id)
+            } catch {
+              return []
+            }
+          }
+
+          // ── Render ──
           const now = new Date()
           const ym = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`
 
@@ -216,56 +334,130 @@ export default {
               paddingX={1}
               flexShrink={0}
               borderTop
-              borderColor={MERCURY_MUTED}
+              borderColor={MUTED}
             >
-              {/* Header */}
-              <box flexShrink={0}>
-                <text bold fg={MERCURY_ACCENT}>MERCURY TOKEN ARCHIVE</text>
-              </box>
-              <box flexShrink={0}>
-                <text fg={MERCURY_MUTED} dimColor>USAGE LEDGER // {ym}</text>
-              </box>
+              {/* ── 1. SESSION card ── */}
+              <Card title="MERCURY SESSION">
+                <box flexShrink={0}>
+                  {sessionTitle() ? (
+                    <text fg={SOFT}>{sessionTitle()}</text>
+                  ) : sessionTime() ? (
+                    <text fg={MUTED}>Active \xB7 {sessionTime()}</text>
+                  ) : (
+                    <text fg={MUTED}>Awaiting session</text>
+                  )}
+                </box>
+              </Card>
 
-              {/* Daily */}
-              <box flexDirection="row" flexShrink={0}>
-                <text fg={MERCURY_MUTED}>{"日预算 "}</text>
-                <text fg={thresholdColor(d().dailyRatio)}>
-                  {thinBar(d().dailyRmb, DAILY_BUDGET)} {Math.round(d().dailyRatio * 100)}%
-                </text>
-                <text fg={MERCURY_SOFT}> ¥{d().dailyRmb.toFixed(1)}</text>
-              </box>
+              {/* ── 2. CONTEXT card ── */}
+              <Card title="CONTEXT">
+                {tokens() ? (
+                  <>
+                    <box flexDirection="row" flexShrink={0}>
+                      <text fg={SOFT}>{formatTokens(totalTokens())}</text>
+                      <text fg={MUTED}> tokens</text>
+                    </box>
+                    <box flexDirection="row" flexShrink={0}>
+                      <text fg={ACCENT}>{"\xA5"}{sessionCost().toFixed(2)}</text>
+                      <text fg={MUTED}> spent</text>
+                    </box>
+                  </>
+                ) : (
+                  <box flexShrink={0}>
+                    <text fg={MUTED}>Awaiting token data</text>
+                  </box>
+                )}
+              </Card>
 
-              {/* Monthly */}
-              <box flexDirection="row" flexShrink={0}>
-                <text fg={MERCURY_MUTED}>{"月预算 "}</text>
-                <text fg={thresholdColor(d().monthlyRatio)}>
-                  {thinBar(d().monthlyRmb, MONTHLY_BUDGET)} {Math.round(d().monthlyRatio * 100)}%
-                </text>
-                <text fg={MERCURY_SOFT}> ¥{d().monthlyRmb.toFixed(1)}</text>
-              </box>
+              {/* ── 3. LSP card ── */}
+              <Card title="LSP">
+                <box flexShrink={0}>
+                  <text fg={lspItems().length > 0 ? SOFT : MUTED}>{lspStatus()}</text>
+                </box>
+              </Card>
 
-              {/* Session */}
-              <box flexDirection="row" flexShrink={0}>
-                <text fg={MERCURY_MUTED}>{"会话量 "}</text>
-                <text fg={thresholdColor(d().sessionRatio)}>
-                  {thinBar(d().sessionTokens, SESSION_LARGE_THRESHOLD)} {formatTokens(d().sessionTokens)}
-                </text>
-              </box>
+              {/* ── 4. MODIFIED FILES card ── */}
+              <Card title="MODIFIED FILES">
+                {files().length > 0 ? (
+                  <>
+                    {files().slice(0, MAX_FILES).map((f) => {
+                      const maxPathLen = 24
+                      const displayPath = truncatePath(f.file, maxPathLen)
+                      const changes = f.deletions > 0
+                        ? `+${f.additions} -${f.deletions}`
+                        : `+${f.additions}`
+                      return (
+                        <box flexDirection="row" flexShrink={0}>
+                          <text fg={MUTED}>{displayPath}</text>
+                          <text fg={SOFT}>{" ".repeat(Math.max(1, maxPathLen - displayPath.length))}{changes}</text>
+                        </box>
+                      )
+                    })}
+                    {files().length > MAX_FILES && (
+                      <box flexShrink={0}>
+                        <text fg={MUTED}>... {files().length - MAX_FILES} more files</text>
+                      </box>
+                    )}
+                  </>
+                ) : (
+                  <box flexShrink={0}>
+                    <text fg={MUTED}>Clean workspace</text>
+                  </box>
+                )}
+              </Card>
 
-              {/* Cache */}
-              <box flexDirection="row" flexShrink={0}>
-                <text fg={MERCURY_MUTED}>{"缓存率 "}</text>
-                <text fg={d().cacheRate >= 70 ? MERCURY_SOFT : MERCURY_ACCENT}>
-                  {thinBar(d().cacheRate, 100)} {d().cacheRate.toFixed(0)}%
-                </text>
-              </box>
+              {/* ── 5. TOKEN ARCHIVE card ── */}
+              <Card title="MERCURY TOKEN ARCHIVE">
+                <box flexShrink={0}>
+                  <text fg={MUTED} dimColor>USAGE LEDGER // {ym}</text>
+                </box>
 
-              {/* Summary */}
-              <box flexDirection="row" flexShrink={0}>
-                <text fg={MERCURY_MUTED} dimColor>
-                  今日 {d().todayCount} 次 · 本月 ¥{d().monthlyRmb.toFixed(1)} · 月末 ¥{d().eomRmb.toFixed(0)}
-                </text>
-              </box>
+                {/* Daily */}
+                <box flexDirection="row" flexShrink={0}>
+                  <text fg={MUTED}>{"日预算 "}</text>
+                  <text fg={thresholdColor(d().dailyRatio)}>
+                    {thinBar(d().dailyRmb, DAILY_BUDGET)} {Math.round(d().dailyRatio * 100)}%
+                  </text>
+                  <text fg={SOFT}> {"\xA5"}{d().dailyRmb.toFixed(1)}</text>
+                </box>
+
+                {/* Monthly */}
+                <box flexDirection="row" flexShrink={0}>
+                  <text fg={MUTED}>{"月预算 "}</text>
+                  <text fg={thresholdColor(d().monthlyRatio)}>
+                    {thinBar(d().monthlyRmb, MONTHLY_BUDGET)} {Math.round(d().monthlyRatio * 100)}%
+                  </text>
+                  <text fg={SOFT}> {"\xA5"}{d().monthlyRmb.toFixed(1)}</text>
+                </box>
+
+                {/* Session */}
+                <box flexDirection="row" flexShrink={0}>
+                  <text fg={MUTED}>{"会话量 "}</text>
+                  <text fg={thresholdColor(d().sessionRatio)}>
+                    {thinBar(d().sessionTokens, SESSION_LARGE_THRESHOLD)} {formatTokens(d().sessionTokens)}
+                  </text>
+                </box>
+
+                {/* Cache */}
+                <box flexDirection="row" flexShrink={0}>
+                  <text fg={MUTED}>{"缓存率 "}</text>
+                  <text fg={d().cacheRate >= 70 ? SOFT : ACCENT}>
+                    {thinBar(d().cacheRate, 100)} {d().cacheRate.toFixed(0)}%
+                  </text>
+                </box>
+
+                {/* Summary — two lines to avoid wrapping */}
+                <box flexDirection="row" flexShrink={0}>
+                  <text fg={MUTED} dimColor>
+                    {"今日"} {d().todayCount} {"次 \xB7 本月 \xA5"}{d().monthlyRmb.toFixed(1)}
+                  </text>
+                </box>
+                <box flexDirection="row" flexShrink={0}>
+                  <text fg={MUTED} dimColor>
+                    {"月末预测 \xA5"}{d().eomRmb.toFixed(0)}
+                  </text>
+                </box>
+              </Card>
             </box>
           )
         },

@@ -373,8 +373,45 @@ def build_dashboard_data(conn):
 #  MERCURY ARCHIVE render  (default)
 # ══════════════════════════════════════════════════════════
 
+import unicodedata
+
+def _display_width(s):
+    """Calculate display width considering CJK double-width characters."""
+    # Strip ANSI escape codes first
+    import re
+    clean = re.sub(r'\033\[[0-9;]*m', '', s)
+    w = 0
+    for ch in clean:
+        if unicodedata.east_asian_width(ch) in ('F', 'W'):
+            w += 2
+        else:
+            w += 1
+    return w
+
+
+def render_card(title, lines, width=40):
+    """Render a Mercury Archive card with thin border."""
+    border_color = c(WARM_GRAY)
+    accent = c(ACCENT)
+    rst = c(RESET)
+    top = f'{border_color}┌{"─" * (width - 2)}┐{rst}'
+    bot = f'{border_color}└{"─" * (width - 2)}┘{rst}'
+    result = [top]
+    # Title line
+    title_w = _display_width(title)
+    pad = max(0, width - 3 - title_w)
+    result.append(f'{border_color}│{rst} {accent}{title}{rst}{" " * pad}{border_color}│{rst}')
+    for line in lines:
+        # Pad to fit width (account for border chars)
+        line_w = _display_width(line)
+        pad = max(0, width - 3 - line_w)
+        result.append(f'{border_color}│{rst} {line}{" " * pad}{border_color}│{rst}')
+    result.append(bot)
+    return '\n'.join(result)
+
+
 def render_hud_mercury(data, elapsed_sec=0):
-    """Mercury Archive: archival ledger style token report."""
+    """Mercury Archive: card-style dashboard."""
     L = []
 
     month_rmb = data["month"]["cost_usd"] * USD_TO_RMB
@@ -386,73 +423,51 @@ def render_hud_mercury(data, elapsed_sec=0):
     model = data["model"]
     elapsed = f"{int(elapsed_sec // 60)}m {int(elapsed_sec % 60)}s"
 
-    sp = sep_line
+    muted = c(WARM_GRAY)
+    soft = c(SECONDARY)
+    accent = c(ACCENT)
+    dim = c(DIM)
+    rst = c(RESET)
 
-    # ── Header ──
-    L.append('')
-    L.append(f'  {c(t("bold"))}{c(t("accent"))}{t("title")}{c(RESET)}')
-    L.append(f'  {c(t("dim"))}{t("subtitle")} // {month_str}{c(RESET)}')
-    L.append(f'  {c(t("muted"))}MODEL{c(RESET)}  {c(t("dim"))}' + chr(0xB7) + f'{c(RESET)}  {model}')
-    L.append(sp())
+    # ── SESSION card ──
+    L.append(render_card("MERCURY SESSION", [
+        f'{soft}{model}{rst}',
+    ]))
 
-    # ── BUDGET ──
-    L.append(f'  {section_label("BUDGET")}')
+    # ── CONTEXT card ──
+    session_cost_rmb = data["current"]["cost_usd"] * USD_TO_RMB
+    L.append(render_card("CONTEXT", [
+        f'{soft}{format_tokens(session_total)}{rst} {muted}tokens{rst}',
+        f'{accent}RMB {session_cost_rmb:.2f}{rst} {muted}spent{rst}',
+    ]))
 
+    # ── TOKEN ARCHIVE card ──
     d_ratio = today_rmb / DAILY_BUDGET if DAILY_BUDGET > 0 else 0
-    d_bar = thin_bar(today_rmb, DAILY_BUDGET)
-    d_pct = pct_str(today_rmb, DAILY_BUDGET)
-    d_mark = threshold_marker(d_ratio)
-    L.append(f'  {pad_col("Daily", 10)}{d_bar}  {d_pct}  {c(t("muted"))}RMB {today_rmb:.2f} / {DAILY_BUDGET:.2f}{c(RESET)}  {d_mark}')
-
     m_ratio = month_rmb / MONTHLY_BUDGET if MONTHLY_BUDGET > 0 else 0
-    m_bar = thin_bar(month_rmb, MONTHLY_BUDGET)
-    m_pct = pct_str(month_rmb, MONTHLY_BUDGET)
-    m_mark = threshold_marker(m_ratio)
-    L.append(f'  {pad_col("Monthly", 10)}{m_bar}  {m_pct}  {c(t("muted"))}RMB {month_rmb:.2f} / {MONTHLY_BUDGET:.2f}{c(RESET)}  EOM {c(t("muted"))}RMB {eom_rmb:.2f}{c(RESET)}  {m_mark}')
-
     s_ratio = session_total / SESSION_LARGE_THRESHOLD if SESSION_LARGE_THRESHOLD > 0 else 0
-    s_bar = thin_bar(session_total, SESSION_LARGE_THRESHOLD)
-    s_pct = pct_str(session_total, SESSION_LARGE_THRESHOLD)
-    s_mark = threshold_marker(s_ratio)
-    L.append(f'  {pad_col("Session", 10)}{s_bar}  {s_pct}  {c(t("muted"))}{format_tokens(session_total)} / 10M threshold{c(RESET)}  {s_mark}')
 
-    # ── CACHE ──
-    L.append(f'  {section_label("CACHE")}')
-    c_bar = thin_bar(cache_rate, 100)
-    c_pct = pct_str(cache_rate, 100)
-    c_label = cache_status_label(cache_rate)
-    L.append(f'  {pad_col("Hit Rate", 10)}{c_bar}  {c_pct}  {c(t("muted"))}{cache_rate:.1f}%{c(RESET)}  {c_label}')
+    archive_lines = [
+        f'{dim}USAGE LEDGER // {month_str}{rst}',
+        f'{muted}日预算 {thin_bar(today_rmb, DAILY_BUDGET)}{rst}  {pct_str(today_rmb, DAILY_BUDGET)}  {muted}RMB {today_rmb:.2f}{rst}  {threshold_marker(d_ratio)}',
+        f'{muted}月预算 {thin_bar(month_rmb, MONTHLY_BUDGET)}{rst}  {pct_str(month_rmb, MONTHLY_BUDGET)}  {muted}RMB {month_rmb:.2f}{rst}  {threshold_marker(m_ratio)}',
+        f'{muted}会话量 {thin_bar(session_total, SESSION_LARGE_THRESHOLD)}{rst}  {format_tokens(session_total)}  {threshold_marker(s_ratio)}',
+        f'{muted}缓存率 {thin_bar(cache_rate, 100)}{rst}  {cache_rate:.0f}%  {cache_status_label(cache_rate)}',
+        f'{dim}今日 {data["today"]["count"]} 次 \xB7 本月 RMB {month_rmb:.2f}{rst}',
+        f'{dim}月末预测 RMB {eom_rmb:.2f}{rst}',
+    ]
+    L.append(render_card("MERCURY TOKEN ARCHIVE", archive_lines))
 
-    # ── TOTALS ──
-    L.append(f'  {section_label("TOTALS")}')
+    # ── TOTALS card ──
     all_rmb = data["all_time"]["cost_usd"] * USD_TO_RMB
-    L.append(f'  {pad_col("Today", 10)}    {c(t("muted"))}{data["today"]["count"]:>4} sessions{c(RESET)}    {format_tokens(data["today"]["total"]):>8} tokens    {c(ACCENT)}RMB {today_rmb:.2f}{c(RESET)}')
-    L.append(f'  {pad_col("Month", 10)}    {c(t("muted"))}{data["month"]["count"]:>4} sessions{c(RESET)}    {format_tokens(data["month"]["total"]):>8} tokens    {c(ACCENT)}RMB {month_rmb:.2f}{c(RESET)}')
-    L.append(f'  {pad_col("All Time", 10)}    {c(t("muted"))}{data["all_time"]["count"]:>4} sessions{c(RESET)}    {format_tokens(data["all_time"]["total"]):>8} tokens    {c(ACCENT)}RMB {all_rmb:.2f}{c(RESET)}')
-
-    # ── RECENT SESSIONS (text-only, no bars) ──
-    L.append(f'  {section_label("RECENT SESSIONS")}')
-    for s in data["recent_5"]:
-        dt = datetime.fromtimestamp(s["time_created"] / 1000, tz=CST)
-        date_str = dt.strftime("%m-%d %H:%M")
-        total = (s["tokens_input"] or 0) + (s["tokens_output"] or 0) + (s["tokens_reasoning"] or 0)
-        cr = s["tokens_cache_read"] or 0
-        input_like = (s["tokens_input"] or 0) + cr + (s["tokens_cache_write"] or 0)
-        s_cache_rate = (cr / input_like * 100) if input_like > 0 else 0
-        title = s["title"] or "(untitled)"
-        if len(title) > 28:
-            title = title[:25] + "..."
-        L.append(f'  {c(t("muted"))}{date_str}{c(RESET)}  {format_tokens(total):>6} tokens  {c(t("muted"))}cache {s_cache_rate:.0f}%{c(RESET)}  {title}')
-
-    # ── SUMMARY ──
-    L.append(f'  {section_label("SUMMARY")}')
-    lines_cn = _build_cn_summary(data, cache_rate)
-    for line in lines_cn:
-        L.append(f'  {c(t("dim"))}{line}{c(RESET)}')
+    totals_lines = [
+        f'{muted}Today{rst}     {data["today"]["count"]:>3} sess  {format_tokens(data["today"]["total"]):>6}  {accent}RMB {today_rmb:.2f}{rst}',
+        f'{muted}Month{rst}     {data["month"]["count"]:>3} sess  {format_tokens(data["month"]["total"]):>6}  {accent}RMB {month_rmb:.2f}{rst}',
+        f'{muted}All Time{rst}  {data["all_time"]["count"]:>3} sess  {format_tokens(data["all_time"]["total"]):>6}  {accent}RMB {all_rmb:.2f}{rst}',
+    ]
+    L.append(render_card("TOTALS", totals_lines))
 
     # ── Footer ──
-    L.append(sp())
-    L.append(f'  {c(t("dim"))}{t("footer")} {chr(0xA9)} 2026  {chr(0xB7)}  {model}  {chr(0xB7)}  {elapsed}{c(RESET)}')
+    L.append(f'  {dim}MERCURY ARCHIVE {chr(0xA9)} 2026  {chr(0xB7)}  {model}  {chr(0xB7)}  {elapsed}{rst}')
     L.append('')
 
     return '\n'.join(L)
