@@ -186,20 +186,28 @@ var src_default = {
         sidebar_footer(props) {
           const [hudData, setHudData] = createSignal(computeHudData());
           const [tick, setTick] = createSignal(0);
+          const DEBUG = process.env.TOKEN_HUD_DEBUG === "1";
           onMount(() => {
-            console.error("[token-hud] sidebar_footer mounted");
+            console.error(`[token-hud] sidebar_footer mounted, session_id=${props.session_id}`);
             const id = setInterval(() => {
               setHudData(computeHudData());
               setTick((t) => t + 1);
               writeHudFile(buildHudText());
-            }, 30000);
+            }, 5000);
             onCleanup(() => clearInterval(id));
           });
           const d = () => hudData();
           const session = () => {
+            tick();
             try {
-              return api.state.session.get(props.session_id);
-            } catch {
+              const s = api.state.session.get(props.session_id);
+              if (DEBUG) {
+                console.error(`[token-hud:debug] session raw:`, JSON.stringify(s, null, 2));
+              }
+              return s;
+            } catch (e) {
+              if (DEBUG)
+                console.error(`[token-hud:debug] session error:`, e);
               return;
             }
           };
@@ -217,7 +225,11 @@ var src_default = {
           };
           const tokens = () => {
             const s = session();
-            return s?.tokens ?? null;
+            const t = s?.tokens ?? null;
+            if (DEBUG) {
+              console.error(`[token-hud:debug] tokens:`, JSON.stringify(t));
+            }
+            return t;
           };
           const sessionCost = () => {
             const s = session();
@@ -480,15 +492,39 @@ var src_default = {
         }
       }
     });
-    api.event.on("session.created", () => {
-      console.error("[token-hud] session.created");
+    const refresh = () => {
       writeHudFile(buildHudText());
       api.slots.refresh("sidebar_footer");
+    };
+    api.event.on("session.created", () => {
+      console.error("[token-hud] event: session.created");
+      refresh();
     });
     api.event.on("session.idle", () => {
-      console.error("[token-hud] session.idle");
-      writeHudFile(buildHudText());
-      api.slots.refresh("sidebar_footer");
+      console.error("[token-hud] event: session.idle");
+      refresh();
+    });
+    api.event.on("session.status", () => {
+      refresh();
+    });
+    api.event.on("session.updated", () => {
+      console.error("[token-hud] event: session.updated");
+      refresh();
+    });
+    api.event.on("session.diff", () => {
+      refresh();
+    });
+    api.event.on("session.error", () => {
+      refresh();
+    });
+    api.event.on("message.updated", () => {
+      refresh();
+    });
+    api.event.on("message.part.updated", () => {
+      refresh();
+    });
+    api.event.on("file.edited", () => {
+      refresh();
     });
     console.error("[token-hud] TUI plugin mounted OK");
   }
