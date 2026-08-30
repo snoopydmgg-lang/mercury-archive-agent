@@ -224,7 +224,7 @@ into the next rebuild.
 From a clean machine, install the Skill from the public repository with:
 
 ```powershell
-$tmp = Join-Path $env:TEMP 'mercury-archive-agent-install'; git clone --depth 1 https://github.com/snoopydmgg-lang/mercury-archive-agent.git $tmp; Copy-Item -Recurse -Force (Join-Path $tmp '.agents\skills\ancient-book-typesetter') (Join-Path $env:USERPROFILE '.codex\skills'); Remove-Item -Recurse -Force $tmp
+$tmp = Join-Path $env:TEMP 'mercury-archive-agent-install'; git clone --depth 1 --branch codex/ancient-book-typesetter-publish https://github.com/snoopydmgg-lang/mercury-archive-agent.git $tmp; Copy-Item -Recurse -Force (Join-Path $tmp '.agents\skills\ancient-book-typesetter') (Join-Path $env:USERPROFILE '.codex\skills'); Remove-Item -Recurse -Force $tmp
 ```
 
 For a project-local WorkBuddy/Kimi deployment, copy the same directory into the
